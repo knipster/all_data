@@ -105093,7 +105093,64 @@
       "Team1ID": "253717",
       "Team2ID": "253714",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "14995168",
+          "LineNumber": "1",
+          "Player1HName": "Danielle Kozel Rothberg",
+          "Player2HName": "Patty Pochtar",
+          "Player1AName": "Jennifer Bassett",
+          "Player2AName": "Paige Holenbeck ",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2768619",
+          "Player2HID": "2645879",
+          "Player1AID": "2645361",
+          "Player2AID": "2645615",
+          "Winner": "2",
+          "DivisionID": "27277",
+          "Sets": [
+            {
+              "SetID": "44203338",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44203339",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44203340",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3900008",
