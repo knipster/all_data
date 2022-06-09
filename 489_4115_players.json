@@ -1,0 +1,56 @@
+{
+  "Users": {
+    "2634085": {
+      "0": 2634085,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2634085
+      ],
+      "PlayerID": 2634085,
+      "PlayerName": "Stephen Mandella"
+    },
+    "2635017": {
+      "0": 2635017,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "33.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2635017
+      ],
+      "PlayerID": 2635017,
+      "PlayerName": "Bob Larsen"
+    },
+    "2635020": {
+      "0": 2635020,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "33.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2635020
+      ],
+      "PlayerID": 2635020,
+      "PlayerName": "Scot Muehlmeier"
+    },
+    "2635026": {
+      "0": 2635026,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2635026
+      ],
+      "PlayerID": 2635026,
+      "PlayerName": "Tom Lehman"
+    }
+  }
+}

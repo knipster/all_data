@@ -1,0 +1,1676 @@
+{
+  "Users": {
+    "2721969": {
+      "0": 2721969,
+      "1": 2656407,
+      "2": 2683027,
+      "3": 2696431,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16269",
+      "Matches": [
+        2721969,
+        2656407,
+        2683027,
+        2696431
+      ],
+      "PlayerID": 2721969,
+      "PlayerName": "Diane Foshay"
+    },
+    "2722287": {
+      "0": 2722287,
+      "1": 2682893,
+      "2": 2656426,
+      "3": 2696432,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16269",
+      "Matches": [
+        2722287,
+        2682893,
+        2656426,
+        2696432
+      ],
+      "PlayerID": 2722287,
+      "PlayerName": "Susanne Bernt"
+    },
+    "2722288": {
+      "0": 2722288,
+      "1": 2696428,
+      "2": 2683290,
+      "3": 2656405,
+      "4": 2775717,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17261",
+      "Matches": [
+        2722288,
+        2696428,
+        2683290,
+        2656405,
+        2775717
+      ],
+      "PlayerID": 2722288,
+      "PlayerName": "Cynthia Jones"
+    },
+    "2722294": {
+      "0": 2722294,
+      "1": 2700130,
+      "2": 2684283,
+      "3": 2783732,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16484",
+      "Matches": [
+        2722294,
+        2700130,
+        2684283,
+        2783732
+      ],
+      "PlayerID": 2722294,
+      "PlayerName": "Jane Lai"
+    },
+    "2722295": {
+      "0": 2722295,
+      "1": 2700132,
+      "2": 2684236,
+      "3": 2714604,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16484",
+      "Matches": [
+        2722295,
+        2700132,
+        2684236,
+        2714604
+      ],
+      "PlayerID": 2722295,
+      "PlayerName": "Kristine Phillips"
+    },
+    "2722297": {
+      "0": 2722297,
+      "1": 2684023,
+      "2": 2718654,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16268",
+      "Matches": [
+        2722297,
+        2684023,
+        2718654
+      ],
+      "PlayerID": 2722297,
+      "PlayerName": "Beth Overzat"
+    },
+    "2722304": {
+      "0": 2722304,
+      "1": 2696570,
+      "2": 2683408,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16278",
+      "Matches": [
+        2722304,
+        2696570,
+        2683408
+      ],
+      "PlayerID": 2722304,
+      "PlayerName": "Megan Rogers"
+    },
+    "2722305": {
+      "0": 2722305,
+      "1": 2696569,
+      "2": 2683417,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16278",
+      "Matches": [
+        2722305,
+        2696569,
+        2683417
+      ],
+      "PlayerID": 2722305,
+      "PlayerName": "Lacey Malloy"
+    },
+    "2722306": {
+      "0": 2722306,
+      "1": 2683401,
+      "2": 2656399,
+      "3": 2714498,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16650",
+      "Matches": [
+        2722306,
+        2683401,
+        2656399,
+        2714498
+      ],
+      "PlayerID": 2722306,
+      "PlayerName": "Leslie Conway"
+    },
+    "2722307": {
+      "0": 2722307,
+      "1": 2656413,
+      "2": 2683405,
+      "3": 2714495,
+      "4": 2793007,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16292",
+      "Matches": [
+        2722307,
+        2656413,
+        2683405,
+        2714495,
+        2793007
+      ],
+      "PlayerID": 2722307,
+      "PlayerName": "Pamela Lynch"
+    },
+    "2722308": {
+      "0": 2722308,
+      "1": 2683618,
+      "2": 2716449,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16259",
+      "Matches": [
+        2722308,
+        2683618,
+        2716449
+      ],
+      "PlayerID": 2722308,
+      "PlayerName": "Jeanne Harootunian"
+    },
+    "2722309": {
+      "0": 2722309,
+      "1": 2696634,
+      "2": 2715832,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16259",
+      "Matches": [
+        2722309,
+        2696634,
+        2715832
+      ],
+      "PlayerID": 2722309,
+      "PlayerName": "Jill Potdevin"
+    },
+    "2722312": {
+      "0": 2722312,
+      "1": 2683500,
+      "2": 2714646,
+      "3": 2716457,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16290",
+      "Matches": [
+        2722312,
+        2683500,
+        2714646,
+        2716457
+      ],
+      "PlayerID": 2722312,
+      "PlayerName": "Elisa Todd"
+    },
+    "2722314": {
+      "0": 2722314,
+      "1": 2710763,
+      "2": 2683663,
+      "3": 2723495,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15981",
+      "Matches": [
+        2722314,
+        2710763,
+        2683663,
+        2723495
+      ],
+      "PlayerID": 2722314,
+      "PlayerName": "Kristen Walker"
+    },
+    "2722315": {
+      "0": 2722315,
+      "1": 2683100,
+      "2": 2696522,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722315,
+        2683100,
+        2696522
+      ],
+      "PlayerID": 2722315,
+      "PlayerName": "Heather Partridge"
+    },
+    "2722316": {
+      "0": 2722316,
+      "1": 2682924,
+      "2": 2695864,
+      "3": 2714556,
+      "4": 2661544,
+      "5": 2723717,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16408",
+      "Matches": [
+        2722316,
+        2682924,
+        2695864,
+        2714556,
+        2661544,
+        2723717
+      ],
+      "PlayerID": 2722316,
+      "PlayerName": "Liz Morgan"
+    },
+    "2722317": {
+      "0": 2722317,
+      "1": 2682923,
+      "2": 2661543,
+      "3": 2696375,
+      "4": 2714555,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722317,
+        2682923,
+        2661543,
+        2696375,
+        2714555
+      ],
+      "PlayerID": 2722317,
+      "PlayerName": "Heidi Morton"
+    },
+    "2722318": {
+      "0": 2722318,
+      "1": 2656414,
+      "2": 2695229,
+      "3": 2683792,
+      "4": 2714499,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16292",
+      "Matches": [
+        2722318,
+        2656414,
+        2695229,
+        2683792,
+        2714499
+      ],
+      "PlayerID": 2722318,
+      "PlayerName": "Rosemarie Kulp"
+    },
+    "2722322": {
+      "0": 2722322,
+      "1": 2683637,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16256",
+      "Matches": [
+        2722322,
+        2683637
+      ],
+      "PlayerID": 2722322,
+      "PlayerName": "Courtney Meeker"
+    },
+    "2722323": {
+      "0": 2722323,
+      "1": 2683287,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16256",
+      "Matches": [
+        2722323,
+        2683287
+      ],
+      "PlayerID": 2722323,
+      "PlayerName": "Amanda Benjamin"
+    },
+    "2722332": {
+      "0": 2722332,
+      "1": 2683177,
+      "2": 2695814,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16408",
+      "Matches": [
+        2722332,
+        2683177,
+        2695814
+      ],
+      "PlayerID": 2722332,
+      "PlayerName": "Kristin Bush"
+    },
+    "2722333": {
+      "0": 2722333,
+      "1": 2683361,
+      "2": 2661557,
+      "3": 2696598,
+      "4": 2714656,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722333,
+        2683361,
+        2661557,
+        2696598,
+        2714656
+      ],
+      "PlayerID": 2722333,
+      "PlayerName": "Sarah Masyra"
+    },
+    "2722334": {
+      "0": 2722334,
+      "1": 2706577,
+      "2": 2708501,
+      "3": 2714732,
+      "4": 2798961,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722334,
+        2706577,
+        2708501,
+        2714732,
+        2798961
+      ],
+      "PlayerID": 2722334,
+      "PlayerName": "Stephanie  DeLotto "
+    },
+    "2722340": {
+      "0": 2722340,
+      "1": 2683936,
+      "2": 2661537,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16282",
+      "Matches": [
+        2722340,
+        2683936,
+        2661537
+      ],
+      "PlayerID": 2722340,
+      "PlayerName": "Sharon Tietjen"
+    },
+    "2722342": {
+      "0": 2722342,
+      "1": 2682756,
+      "2": 2794116,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16269",
+      "Matches": [
+        2722342,
+        2682756,
+        2794116
+      ],
+      "PlayerID": 2722342,
+      "PlayerName": "Mara Nydam"
+    },
+    "2722343": {
+      "0": 2722343,
+      "1": 2682755,
+      "2": 2649582,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16660",
+      "Matches": [
+        2722343,
+        2682755,
+        2649582
+      ],
+      "PlayerID": 2722343,
+      "PlayerName": "Trish Hall"
+    },
+    "2722346": {
+      "0": 2722346,
+      "1": 2696921,
+      "2": 2683271,
+      "3": 2721468,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722346,
+        2696921,
+        2683271,
+        2721468
+      ],
+      "PlayerID": 2722346,
+      "PlayerName": "SUZANNE HARRIS"
+    },
+    "2722348": {
+      "0": 2722348,
+      "1": 2683315,
+      "2": 2714603,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16259",
+      "Matches": [
+        2722348,
+        2683315,
+        2714603
+      ],
+      "PlayerID": 2722348,
+      "PlayerName": "Pat Aussem"
+    },
+    "2722349": {
+      "0": 2722349,
+      "1": 2714598,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16646",
+      "Matches": [
+        2722349,
+        2714598
+      ],
+      "PlayerID": 2722349,
+      "PlayerName": "Sally Booth"
+    },
+    "2722356": {
+      "0": 2722356,
+      "1": 2684314,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16675",
+      "Matches": [
+        2722356,
+        2684314
+      ],
+      "PlayerID": 2722356,
+      "PlayerName": "Carla Krawiec"
+    },
+    "2722360": {
+      "0": 2722360,
+      "1": 2696797,
+      "2": 2683065,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16264",
+      "Matches": [
+        2722360,
+        2696797,
+        2683065
+      ],
+      "PlayerID": 2722360,
+      "PlayerName": "Megan Young"
+    },
+    "2722361": {
+      "0": 2722361,
+      "1": 2683898,
+      "2": 2721822,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722361,
+        2683898,
+        2721822
+      ],
+      "PlayerID": 2722361,
+      "PlayerName": "Sarah Soden"
+    },
+    "2722366": {
+      "0": 2722366,
+      "1": 2696496,
+      "2": 2683413,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16278",
+      "Matches": [
+        2722366,
+        2696496,
+        2683413
+      ],
+      "PlayerID": 2722366,
+      "PlayerName": "Maura Sommer"
+    },
+    "2722384": {
+      "0": 2722384,
+      "1": 2695969,
+      "2": 2683531,
+      "3": 2714587,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16279",
+      "Matches": [
+        2722384,
+        2695969,
+        2683531,
+        2714587
+      ],
+      "PlayerID": 2722384,
+      "PlayerName": "Jenn Linn"
+    },
+    "2722385": {
+      "0": 2722385,
+      "1": 2683428,
+      "2": 2785197,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16500",
+      "Matches": [
+        2722385,
+        2683428,
+        2785197
+      ],
+      "PlayerID": 2722385,
+      "PlayerName": "Molly Phillips"
+    },
+    "2722388": {
+      "0": 2722388,
+      "1": 2683916,
+      "2": 2798960,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16261",
+      "Matches": [
+        2722388,
+        2683916,
+        2798960
+      ],
+      "PlayerID": 2722388,
+      "PlayerName": "Jen Donovan"
+    },
+    "2722389": {
+      "0": 2722389,
+      "1": 2683855,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16261",
+      "Matches": [
+        2722389,
+        2683855
+      ],
+      "PlayerID": 2722389,
+      "PlayerName": "Lia Martirossian"
+    },
+    "2722393": {
+      "0": 2722393,
+      "1": 2695746,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16649",
+      "Matches": [
+        2722393,
+        2695746
+      ],
+      "PlayerID": 2722393,
+      "PlayerName": "Kim Visentini"
+    },
+    "2722396": {
+      "0": 2722396,
+      "1": 2705595,
+      "2": 2683804,
+      "3": 2695941,
+      "4": 2656423,
+      "5": 2713085,
+      "6": 2721187,
+      "7": 2803130,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722396,
+        2705595,
+        2683804,
+        2695941,
+        2656423,
+        2713085,
+        2721187,
+        2803130
+      ],
+      "PlayerID": 2722396,
+      "PlayerName": "Lesley Stiska"
+    },
+    "2722404": {
+      "0": 2722404,
+      "1": 2683455,
+      "2": 2715955,
+      "3": 2805411,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16491",
+      "Matches": [
+        2722404,
+        2683455,
+        2715955,
+        2805411
+      ],
+      "PlayerID": 2722404,
+      "PlayerName": "Jaime Eigner"
+    },
+    "2722405": {
+      "0": 2722405,
+      "1": 2683757,
+      "2": 2714496,
+      "3": 2792981,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2722405,
+        2683757,
+        2714496,
+        2792981
+      ],
+      "PlayerID": 2722405,
+      "PlayerName": "Joanne Harrington"
+    },
+    "2722412": {
+      "0": 2722412,
+      "1": 2683872,
+      "2": 2696933,
+      "3": 2722145,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16271",
+      "Matches": [
+        2722412,
+        2683872,
+        2696933,
+        2722145
+      ],
+      "PlayerID": 2722412,
+      "PlayerName": "Suzanne McMahon"
+    },
+    "2722777": {
+      "0": 2722777,
+      "1": 2683447,
+      "2": 2714497,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16292",
+      "Matches": [
+        2722777,
+        2683447,
+        2714497
+      ],
+      "PlayerID": 2722777,
+      "PlayerName": "Jill Reiss"
+    },
+    "2722788": {
+      "0": 2722788,
+      "1": 2784165,
+      "2": 2772922,
+      "3": 2803923,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16262",
+      "Matches": [
+        2722788,
+        2784165,
+        2772922,
+        2803923
+      ],
+      "PlayerID": 2722788,
+      "PlayerName": "Kathryn Orr"
+    },
+    "2722789": {
+      "0": 2722789,
+      "1": 2790083,
+      "2": 2795595,
+      "3": 2803926,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17232",
+      "Matches": [
+        2722789,
+        2790083,
+        2795595,
+        2803926
+      ],
+      "PlayerID": 2722789,
+      "PlayerName": "Nicki Mullin"
+    },
+    "2722790": {
+      "0": 2722790,
+      "1": 2794564,
+      "2": 2803905,
+      "3": 2803616,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16262",
+      "Matches": [
+        2722790,
+        2794564,
+        2803905,
+        2803616
+      ],
+      "PlayerID": 2722790,
+      "PlayerName": "Corinne White"
+    },
+    "2722794": {
+      "0": 2722794,
+      "1": 2782026,
+      "2": 2790054,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17261",
+      "Matches": [
+        2722794,
+        2782026,
+        2790054
+      ],
+      "PlayerID": 2722794,
+      "PlayerName": "Cristina Curiale"
+    },
+    "2722796": {
+      "0": 2722796,
+      "1": 2769222,
+      "2": 2803639,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16262",
+      "Matches": [
+        2722796,
+        2769222,
+        2803639
+      ],
+      "PlayerID": 2722796,
+      "PlayerName": "Kelly Hillyer"
+    },
+    "2722797": {
+      "0": 2722797,
+      "1": 2782024,
+      "2": 2794449,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17232",
+      "Matches": [
+        2722797,
+        2782024,
+        2794449
+      ],
+      "PlayerID": 2722797,
+      "PlayerName": "Susanne Mulligan"
+    },
+    "2722798": {
+      "0": 2722798,
+      "1": 641126,
+      "2": 2782605,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17232",
+      "Matches": [
+        2722798,
+        641126,
+        2782605
+      ],
+      "PlayerID": 2722798,
+      "PlayerName": "Jennifer Galambos"
+    },
+    "2722805": {
+      "0": 2722805,
+      "1": 2683926,
+      "2": 2783091,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16262",
+      "Matches": [
+        2722805,
+        2683926,
+        2783091
+      ],
+      "PlayerID": 2722805,
+      "PlayerName": "Becky Zacharias"
+    },
+    "2722816": {
+      "0": 2722816,
+      "1": 2683744,
+      "2": 2714534,
+      "3": 2803543,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16653",
+      "Matches": [
+        2722816,
+        2683744,
+        2714534,
+        2803543
+      ],
+      "PlayerID": 2722816,
+      "PlayerName": "Annamarie McGannon"
+    },
+    "2722825": {
+      "0": 2722825,
+      "1": 2683778,
+      "2": 2656418,
+      "3": 2697127,
+      "4": 2714626,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17798",
+      "Matches": [
+        2722825,
+        2683778,
+        2656418,
+        2697127,
+        2714626
+      ],
+      "PlayerID": 2722825,
+      "PlayerName": "Stacey DeMatteis"
+    },
+    "2722826": {
+      "0": 2722826,
+      "1": 2656400,
+      "2": 2683400,
+      "3": 2710688,
+      "4": 2714630,
+      "5": 2803131,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16650",
+      "Matches": [
+        2722826,
+        2656400,
+        2683400,
+        2710688,
+        2714630,
+        2803131
+      ],
+      "PlayerID": 2722826,
+      "PlayerName": "Joy Schmitt"
+    },
+    "2722827": {
+      "0": 2722827,
+      "1": 2782382,
+      "2": 2795981,
+      "3": 2804972,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "65.0000"
+      },
+      "LocationID": "16674",
+      "Matches": [
+        2722827,
+        2782382,
+        2795981,
+        2804972
+      ],
+      "PlayerID": 2722827,
+      "PlayerName": "Annie Mitnick"
+    },
+    "2722835": {
+      "0": 2722835,
+      "1": 2684012,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16264",
+      "Matches": [
+        2722835,
+        2684012
+      ],
+      "PlayerID": 2722835,
+      "PlayerName": "Heather Swartz"
+    },
+    "2722836": {
+      "0": 2722836,
+      "1": 2684014,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16264",
+      "Matches": [
+        2722836,
+        2684014
+      ],
+      "PlayerID": 2722836,
+      "PlayerName": "Cathleen Lazor"
+    },
+    "2722841": {
+      "0": 2722841,
+      "1": 2718188,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16294",
+      "Matches": [
+        2722841,
+        2718188
+      ],
+      "PlayerID": 2722841,
+      "PlayerName": "Kristen Segal"
+    },
+    "2722844": {
+      "0": 2722844,
+      "1": 2684073,
+      "2": 2714616,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16259",
+      "Matches": [
+        2722844,
+        2684073,
+        2714616
+      ],
+      "PlayerID": 2722844,
+      "PlayerName": "Marsha Wolfson"
+    },
+    "2722846": {
+      "0": 2722846,
+      "1": 2717423,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16677",
+      "Matches": [
+        2722846,
+        2717423
+      ],
+      "PlayerID": 2722846,
+      "PlayerName": "Erin Oros"
+    },
+    "2723131": {
+      "0": 2723131,
+      "1": 2683996,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "16268",
+      "Matches": [
+        2723131,
+        2683996
+      ],
+      "PlayerID": 2723131,
+      "PlayerName": "Kim Conyers"
+    },
+    "2723132": {
+      "0": 2723132,
+      "1": 2683347,
+      "2": 2718822,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16268",
+      "Matches": [
+        2723132,
+        2683347,
+        2718822
+      ],
+      "PlayerID": 2723132,
+      "PlayerName": "Lynn Martine"
+    },
+    "2723309": {
+      "0": 2723309,
+      "1": 2683049,
+      "2": 2699820,
+      "3": 2714658,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16266",
+      "Matches": [
+        2723309,
+        2683049,
+        2699820,
+        2714658
+      ],
+      "PlayerID": 2723309,
+      "PlayerName": "Stephanie Eller"
+    },
+    "2724309": {
+      "0": 2724309,
+      "1": 2683761,
+      "2": 2696605,
+      "3": 2661556,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2724309,
+        2683761,
+        2696605,
+        2661556
+      ],
+      "PlayerID": 2724309,
+      "PlayerName": "Beth Spiro"
+    },
+    "2724310": {
+      "0": 2724310,
+      "1": 2717416,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "63.0000"
+      },
+      "LocationID": "16258",
+      "Matches": [
+        2724310,
+        2717416
+      ],
+      "PlayerID": 2724310,
+      "PlayerName": "Michelle Buckley"
+    },
+    "2725164": {
+      "0": 2725164,
+      "1": 2714588,
+      "2": 2700044,
+      "3": 2683923,
+      "4": 2656397,
+      "5": 2812260,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16260",
+      "Matches": [
+        2725164,
+        2714588,
+        2700044,
+        2683923,
+        2656397,
+        2812260
+      ],
+      "PlayerID": 2725164,
+      "PlayerName": "Jennie Sowers"
+    },
+    "2725274": {
+      "0": 2725274,
+      "1": 2696514,
+      "2": 2682782,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16263",
+      "Matches": [
+        2725274,
+        2696514,
+        2682782
+      ],
+      "PlayerID": 2725274,
+      "PlayerName": "Jennifer Chang"
+    },
+    "2725275": {
+      "0": 2725275,
+      "1": 2682778,
+      "2": 2696744,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16263",
+      "Matches": [
+        2725275,
+        2682778,
+        2696744
+      ],
+      "PlayerID": 2725275,
+      "PlayerName": "Jodie Pani"
+    },
+    "2726182": {
+      "0": 2726182,
+      "1": 2683918,
+      "2": 2702346,
+      "3": 2714610,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": "60.0000"
+      },
+      "LocationID": "16259",
+      "Matches": [
+        2726182,
+        2683918,
+        2702346,
+        2714610
+      ],
+      "PlayerID": 2726182,
+      "PlayerName": "Troy Kennedy"
+    },
+    "2797560": {
+      "0": 2797560,
+      "1": 2700738,
+      "2": 2716045,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16268",
+      "Matches": [
+        2797560,
+        2700738,
+        2716045
+      ],
+      "PlayerID": 2797560,
+      "PlayerName": "Ashley Kubiak"
+    },
+    "2797561": {
+      "0": 2797561,
+      "1": 2683244,
+      "2": 2714645,
+      "3": 2716816,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2797561,
+        2683244,
+        2714645,
+        2716816
+      ],
+      "PlayerID": 2797561,
+      "PlayerName": "Suzanne Dallas"
+    },
+    "2797567": {
+      "0": 2797567,
+      "1": 2696571,
+      "2": 2683219,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2797567,
+        2696571,
+        2683219
+      ],
+      "PlayerID": 2797567,
+      "PlayerName": "Nancy Tobin"
+    },
+    "2797673": {
+      "0": 2797673,
+      "1": 2684183,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16268",
+      "Matches": [
+        2797673,
+        2684183
+      ],
+      "PlayerID": 2797673,
+      "PlayerName": "Clare Fox"
+    },
+    "2797702": {
+      "0": 2797702,
+      "1": 2661550,
+      "2": 2704720,
+      "3": 2682705,
+      "4": 2714559,
+      "5": 2791375,
+      "6": 2793201,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16490",
+      "Matches": [
+        2797702,
+        2661550,
+        2704720,
+        2682705,
+        2714559,
+        2791375,
+        2793201
+      ],
+      "PlayerID": 2797702,
+      "PlayerName": "Sandy Kurek"
+    },
+    "2797790": {
+      "0": 2797790,
+      "1": 2650873,
+      "2": 2695846,
+      "3": 2785384,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16497",
+      "Matches": [
+        2797790,
+        2650873,
+        2695846,
+        2785384
+      ],
+      "PlayerID": 2797790,
+      "PlayerName": "Lauren Wolff"
+    },
+    "2797803": {
+      "0": 2797803,
+      "1": 2683253,
+      "2": 2785206,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16497",
+      "Matches": [
+        2797803,
+        2683253,
+        2785206
+      ],
+      "PlayerID": 2797803,
+      "PlayerName": "Sylvia Rickert"
+    },
+    "2797813": {
+      "0": 2797813,
+      "1": 2682965,
+      "2": 2803548,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16664",
+      "Matches": [
+        2797813,
+        2682965,
+        2803548
+      ],
+      "PlayerID": 2797813,
+      "PlayerName": "laurie gates"
+    },
+    "2797821": {
+      "0": 2797821,
+      "1": 2696158,
+      "2": 2714688,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16487",
+      "Matches": [
+        2797821,
+        2696158,
+        2714688
+      ],
+      "PlayerID": 2797821,
+      "PlayerName": "Jennifer Kraft"
+    },
+    "2797822": {
+      "0": 2797822,
+      "1": 2771839,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16673",
+      "Matches": [
+        2797822,
+        2771839
+      ],
+      "PlayerID": 2797822,
+      "PlayerName": "Rachel Fleming"
+    },
+    "2798271": {
+      "0": 2798271,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "76.0000"
+      },
+      "LocationID": "16674",
+      "Matches": [
+        2798271
+      ],
+      "PlayerID": 2798271,
+      "PlayerName": "Kate McNamara"
+    },
+    "2798279": {
+      "0": 2798279,
+      "1": 2700978,
+      "2": 2782197,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16487",
+      "Matches": [
+        2798279,
+        2700978,
+        2782197
+      ],
+      "PlayerID": 2798279,
+      "PlayerName": "Christine Meszaros"
+    },
+    "2798302": {
+      "0": 2798302,
+      "1": 2700732,
+      "2": 2705060,
+      "3": 2715976,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16268",
+      "Matches": [
+        2798302,
+        2700732,
+        2705060,
+        2715976
+      ],
+      "PlayerID": 2798302,
+      "PlayerName": "Erin  Curcio"
+    },
+    "2798381": {
+      "0": 2798381,
+      "1": 2794447,
+      "2": 2782442,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16262",
+      "Matches": [
+        2798381,
+        2794447,
+        2782442
+      ],
+      "PlayerID": 2798381,
+      "PlayerName": "Tara Ferris"
+    },
+    "2798382": {
+      "0": 2798382,
+      "1": 2683987,
+      "2": 2803484,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16262",
+      "Matches": [
+        2798382,
+        2683987,
+        2803484
+      ],
+      "PlayerID": 2798382,
+      "PlayerName": "Jaime Levine"
+    },
+    "2798425": {
+      "0": 2798425,
+      "1": 2786838,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "70.0000"
+      },
+      "LocationID": "17232",
+      "Matches": [
+        2798425,
+        2786838
+      ],
+      "PlayerID": 2798425,
+      "PlayerName": "Kelly Walk"
+    },
+    "2798819": {
+      "0": 2798819,
+      "1": 2787510,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16672",
+      "Matches": [
+        2798819,
+        2787510
+      ],
+      "PlayerID": 2798819,
+      "PlayerName": "Abby  Boozan"
+    },
+    "2799518": {
+      "0": 2799518,
+      "1": 2787247,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17261",
+      "Matches": [
+        2799518,
+        2787247
+      ],
+      "PlayerID": 2799518,
+      "PlayerName": "KAREN THAYYAR"
+    },
+    "2799521": {
+      "0": 2799521,
+      "1": 2787543,
+      "2": 2684022,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16269",
+      "Matches": [
+        2799521,
+        2787543,
+        2684022
+      ],
+      "PlayerID": 2799521,
+      "PlayerName": "Christine Gefaell"
+    },
+    "2799588": {
+      "0": 2799588,
+      "1": 2790039,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16660",
+      "Matches": [
+        2799588,
+        2790039
+      ],
+      "PlayerID": 2799588,
+      "PlayerName": "Nasreen Khan"
+    },
+    "2800096": {
+      "0": 2800096,
+      "1": 2682857,
+      "2": 2700953,
+      "Gender": "f",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16261",
+      "Matches": [
+        2800096,
+        2682857,
+        2700953
+      ],
+      "PlayerID": 2800096,
+      "PlayerName": "Jen Creed"
+    },
+    "2800097": {
+      "0": 2800097,
+      "1": 2684338,
+      "2": 2796412,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17261",
+      "Matches": [
+        2800097,
+        2684338,
+        2796412
+      ],
+      "PlayerID": 2800097,
+      "PlayerName": "Carol Doyle"
+    },
+    "2800159": {
+      "0": 2800159,
+      "1": 2715616,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16486",
+      "Matches": [
+        2800159,
+        2715616
+      ],
+      "PlayerID": 2800159,
+      "PlayerName": "Chrissy Meierdierck"
+    },
+    "2800287": {
+      "0": 2800287,
+      "1": 2656398,
+      "2": 2683767,
+      "3": 2699998,
+      "4": 2700062,
+      "5": 2714591,
+      "6": 2812259,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16260",
+      "Matches": [
+        2800287,
+        2656398,
+        2683767,
+        2699998,
+        2700062,
+        2714591,
+        2812259
+      ],
+      "PlayerID": 2800287,
+      "PlayerName": "Caitlin Hurrie"
+    },
+    "2800414": {
+      "0": 2800414,
+      "1": 2781262,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "75.0000"
+      },
+      "LocationID": "16257",
+      "Matches": [
+        2800414,
+        2781262
+      ],
+      "PlayerID": 2800414,
+      "PlayerName": "Kristin Voelker"
+    }
+  }
+}

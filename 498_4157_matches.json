@@ -1,0 +1,3545 @@
+{
+  "Matches": [
+    {
+      "ScheduleID": "3119529",
+      "Date": "1576202400",
+      "Team1": "Fowler/Mohler (Chevy)",
+      "Team2": "Owen/White (Congressional)",
+      "Team1ID": "202334",
+      "Team2ID": "202331",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12141019",
+          "LineNumber": "1",
+          "Player1HName": "Ann Fowler",
+          "Player2HName": "Jean Mohler",
+          "Player1AName": "Del Owen",
+          "Player2AName": "Cathy White",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649004",
+          "Player2HID": "2649028",
+          "Player1AID": "2649001",
+          "Player2AID": "2649025",
+          "Winner": "2",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "35737369",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737370",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737371",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119530",
+      "Date": "1576202400",
+      "Team1": "Knopes/Cronic (Chevy)",
+      "Team2": "Smoak/Whelihan (Chevy)",
+      "Team1ID": "202332",
+      "Team2ID": "202335",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119531",
+      "Date": "1576202400",
+      "Team1": "Ortiz/Maner (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202330",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536675",
+          "LineNumber": "1",
+          "Player1HName": "Julie Maner",
+          "Player2HName": "Erin Ortiz",
+          "Player1AName": "Mary Yarbrough",
+          "Player2AName": "Chandra Soucek",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649024",
+          "Player2HID": "2649000",
+          "Player1AID": "2649027",
+          "Player2AID": "2649003",
+          "Winner": "1",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36930642",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930643",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930644",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119532",
+      "Date": "1576807200",
+      "Team1": "Fowler/Mohler (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202334",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511053",
+          "LineNumber": "1",
+          "Player1HName": "Ann Fowler",
+          "Player2HName": "Jean Mohler",
+          "Player1AName": "Mary Yarbrough",
+          "Player2AName": "Chandra Soucek",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649004",
+          "Player2HID": "2649028",
+          "Player1AID": "2649027",
+          "Player2AID": "2649003",
+          "Winner": "2",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36853450",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853451",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853452",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119533",
+      "Date": "1576807200",
+      "Team1": "Smoak/Whelihan (Chevy)",
+      "Team2": "Ortiz/Maner (Chevy)",
+      "Team1ID": "202335",
+      "Team2ID": "202330",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536694",
+          "LineNumber": "1",
+          "Player1HName": "Louise Smoak",
+          "Player2HName": "Alice Whelihan",
+          "Player1AName": "Julie Maner",
+          "Player2AName": "Erin Ortiz",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649005",
+          "Player2HID": "2649029",
+          "Player1AID": "2649024",
+          "Player2AID": "2649000",
+          "Winner": "2",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36930699",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930700",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930701",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119534",
+      "Date": "1576807200",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Knopes/Cronic (Chevy)",
+      "Team1ID": "202331",
+      "Team2ID": "202332",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119535",
+      "Date": "1578621600",
+      "Team1": "Ortiz/Maner (Chevy)",
+      "Team2": "Fowler/Mohler (Chevy)",
+      "Team1ID": "202330",
+      "Team2ID": "202334",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536699",
+          "LineNumber": "1",
+          "Player1HName": "Julie Maner",
+          "Player2HName": "Erin Ortiz",
+          "Player1AName": "Ann Fowler",
+          "Player2AName": "Jean Mohler",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649024",
+          "Player2HID": "2649000",
+          "Player1AID": "2649004",
+          "Player2AID": "2649028",
+          "Winner": "1",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36930714",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930715",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930716",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119536",
+      "Date": "1578621600",
+      "Team1": "Knopes/Cronic (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202332",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119537",
+      "Date": "1578621600",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Smoak/Whelihan (Chevy)",
+      "Team1ID": "202331",
+      "Team2ID": "202335",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511074",
+          "LineNumber": "1",
+          "Player1HName": "Del Owen",
+          "Player2HName": "Cathy White",
+          "Player1AName": "N/A",
+          "Player2AName": "N/A",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649001",
+          "Player2HID": "2649025",
+          "Player1AID": "0",
+          "Player2AID": "0",
+          "Winner": "7",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36853513",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853514",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853515",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119538",
+      "Date": "1579226400",
+      "Team1": "Fowler/Mohler (Chevy)",
+      "Team2": "Knopes/Cronic (Chevy)",
+      "Team1ID": "202334",
+      "Team2ID": "202332",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119539",
+      "Date": "1579226400",
+      "Team1": "Ortiz/Maner (Chevy)",
+      "Team2": "Owen/White (Congressional)",
+      "Team1ID": "202330",
+      "Team2ID": "202331",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536704",
+          "LineNumber": "1",
+          "Player1HName": "Julie Maner",
+          "Player2HName": "Erin Ortiz",
+          "Player1AName": "Del Owen",
+          "Player2AName": "Cathy White",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649024",
+          "Player2HID": "2649000",
+          "Player1AID": "2649001",
+          "Player2AID": "2649025",
+          "Winner": "1",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36930729",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930730",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36930731",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119540",
+      "Date": "1579226400",
+      "Team1": "Smoak/Whelihan (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202335",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511151",
+          "LineNumber": "1",
+          "Player1HName": "Louise Smoak",
+          "Player2HName": "Alice Whelihan",
+          "Player1AName": "Mary Yarbrough",
+          "Player2AName": "Chandra Soucek",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649005",
+          "Player2HID": "2649029",
+          "Player1AID": "2649027",
+          "Player2AID": "2649003",
+          "Winner": "2",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36853744",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853745",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853746",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119541",
+      "Date": "1579831200",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202331",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119542",
+      "Date": "1579831200",
+      "Team1": "Knopes/Cronic (Chevy)",
+      "Team2": "Ortiz/Maner (Chevy)",
+      "Team1ID": "202332",
+      "Team2ID": "202330",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12547329",
+          "LineNumber": "1",
+          "Player1HName": "Sam Cronic",
+          "Player2HName": "Victoria Knopes",
+          "Player1AName": "Julie Maner",
+          "Player2AName": "Erin Ortiz",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649026",
+          "Player2HID": "2649002",
+          "Player1AID": "2649024",
+          "Player2AID": "2649000",
+          "Winner": "2",
+          "DivisionID": "17466",
+          "Sets": [
+            {
+              "SetID": "36962884",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36962885",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36962886",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119543",
+      "Date": "1579831200",
+      "Team1": "Fowler/Mohler (Chevy)",
+      "Team2": "Smoak/Whelihan (Chevy)",
+      "Team1ID": "202334",
+      "Team2ID": "202335",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119544",
+      "Date": "1580436000",
+      "Team1": "Smoak/Whelihan (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202335",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119545",
+      "Date": "1580436000",
+      "Team1": "Knopes/Cronic (Chevy)",
+      "Team2": "Fowler/Mohler (Chevy)",
+      "Team1ID": "202332",
+      "Team2ID": "202334",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119546",
+      "Date": "1580436000",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Ortiz/Maner (Chevy)",
+      "Team1ID": "202331",
+      "Team2ID": "202330",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119547",
+      "Date": "1581040800",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Fowler/Mohler (Chevy)",
+      "Team1ID": "202331",
+      "Team2ID": "202334",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119548",
+      "Date": "1581040800",
+      "Team1": "Smoak/Whelihan (Chevy)",
+      "Team2": "Knopes/Cronic (Chevy)",
+      "Team1ID": "202335",
+      "Team2ID": "202332",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119549",
+      "Date": "1581040800",
+      "Team1": "Ortiz/Maner (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202330",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119550",
+      "Date": "1581645600",
+      "Team1": "Ortiz/Maner (Chevy)",
+      "Team2": "Fowler/Mohler (Chevy)",
+      "Team1ID": "202330",
+      "Team2ID": "202334",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119551",
+      "Date": "1581645600",
+      "Team1": "Knopes/Cronic (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202332",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119552",
+      "Date": "1581645600",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Smoak/Whelihan (Chevy)",
+      "Team1ID": "202331",
+      "Team2ID": "202335",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119553",
+      "Date": "1582250400",
+      "Team1": "Smoak/Whelihan (Chevy)",
+      "Team2": "Fowler/Mohler (Chevy)",
+      "Team1ID": "202335",
+      "Team2ID": "202334",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119554",
+      "Date": "1582250400",
+      "Team1": "Ortiz/Maner (Chevy)",
+      "Team2": "Knopes/Cronic (Chevy)",
+      "Team1ID": "202330",
+      "Team2ID": "202332",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119555",
+      "Date": "1582250400",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202331",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119556",
+      "Date": "1582855200",
+      "Team1": "Fowler/Mohler (Chevy)",
+      "Team2": "Soucek/Yarborough (Play at opp. site)",
+      "Team1ID": "202334",
+      "Team2ID": "202333",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119557",
+      "Date": "1582855200",
+      "Team1": "Smoak/Whelihan (Chevy)",
+      "Team2": "Ortiz/Maner (Chevy)",
+      "Team1ID": "202335",
+      "Team2ID": "202330",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119558",
+      "Date": "1582855200",
+      "Team1": "Owen/White (Congressional)",
+      "Team2": "Knopes/Cronic (Chevy)",
+      "Team1ID": "202331",
+      "Team2ID": "202332",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119559",
+      "Date": "1576202400",
+      "Team1": "Collins/Woolpert (Chevy)",
+      "Team2": "Ridgway/Wallace (Congressional)",
+      "Team1ID": "202337",
+      "Team2ID": "202341",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119560",
+      "Date": "1576202400",
+      "Team1": "DeCamp/Hartman (Chevy)",
+      "Team2": "Slater/Ridgway (Columbia)",
+      "Team1ID": "202339",
+      "Team2ID": "202342",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12977496",
+          "LineNumber": "1",
+          "Player1HName": "Missy DeCamp",
+          "Player2HName": "Nan Hartman",
+          "Player1AName": "Nancy Ridgway",
+          "Player2AName": "Lisa Slater",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649008",
+          "Player2HID": "2649032",
+          "Player1AID": "2649035",
+          "Player2AID": "2649011",
+          "Winner": "1",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "38267209",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38267210",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38267211",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119561",
+      "Date": "1576202400",
+      "Team1": "Dilley/Boe (Chevy)",
+      "Team2": "Williams/Wilkinson (Chevy) ",
+      "Team1ID": "202338",
+      "Team2ID": "202354",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12537003",
+          "LineNumber": "1",
+          "Player1HName": "Betsy Boe",
+          "Player2HName": "Margarita Dilley",
+          "Player1AName": "Libby Wilkinson",
+          "Player2AName": "Kathy Williams",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649031",
+          "Player2HID": "2649007",
+          "Player1AID": "2648998",
+          "Player2AID": "2649049",
+          "Winner": "1",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36931642",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931643",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931644",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119562",
+      "Date": "1576807200",
+      "Team1": "Williams/Wilkinson (Chevy) ",
+      "Team2": "Collins/Woolpert (Chevy)",
+      "Team1ID": "202354",
+      "Team2ID": "202337",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119563",
+      "Date": "1576807200",
+      "Team1": "Slater/Ridgway (Columbia)",
+      "Team2": "Dilley/Boe (Chevy)",
+      "Team1ID": "202342",
+      "Team2ID": "202338",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422551",
+          "LineNumber": "1",
+          "Player1HName": "Nancy Ridgway",
+          "Player2HName": "Lisa Slater",
+          "Player1AName": "Betsy Boe",
+          "Player2AName": "Margarita Dilley",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649035",
+          "Player2HID": "2649011",
+          "Player1AID": "2649031",
+          "Player2AID": "2649007",
+          "Winner": "1",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36584280",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36584281",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36584282",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119564",
+      "Date": "1576807200",
+      "Team1": "Ridgway/Wallace (Congressional)",
+      "Team2": "DeCamp/Hartman (Chevy)",
+      "Team1ID": "202341",
+      "Team2ID": "202339",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12323887",
+          "LineNumber": "1",
+          "Player1HName": "Carolyn Ridgway",
+          "Player2HName": "Haas Wallace",
+          "Player1AName": "Missy DeCamp",
+          "Player2AName": "Nan Hartman",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649010",
+          "Player2HID": "2649034",
+          "Player1AID": "2649008",
+          "Player2AID": "2649032",
+          "Winner": "2",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36286601",
+              "SetNumber": "1",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36286602",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36286603",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119565",
+      "Date": "1578621600",
+      "Team1": "Ridgway/Wallace (Congressional)",
+      "Team2": "Williams/Wilkinson (Chevy) ",
+      "Team1ID": "202341",
+      "Team2ID": "202354",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119566",
+      "Date": "1578621600",
+      "Team1": "Slater/Ridgway (Columbia)",
+      "Team2": "Collins/Woolpert (Chevy)",
+      "Team1ID": "202342",
+      "Team2ID": "202337",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422382",
+          "LineNumber": "1",
+          "Player1HName": "Nancy Ridgway",
+          "Player2HName": "Lisa Slater",
+          "Player1AName": "Maria Woolpert",
+          "Player2AName": "CC Collins",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649035",
+          "Player2HID": "2649011",
+          "Player1AID": "2649030",
+          "Player2AID": "2649006",
+          "Winner": "1",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36583767",
+              "SetNumber": "1",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583768",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583769",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119567",
+      "Date": "1578621600",
+      "Team1": "DeCamp/Hartman (Chevy)",
+      "Team2": "Dilley/Boe (Chevy)",
+      "Team1ID": "202339",
+      "Team2ID": "202338",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511085",
+          "LineNumber": "1",
+          "Player1HName": "Missy DeCamp",
+          "Player2HName": "Nan Hartman",
+          "Player1AName": "Margarita Dilley",
+          "Player2AName": "Betsy Boe",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649008",
+          "Player2HID": "2649032",
+          "Player1AID": "2649007",
+          "Player2AID": "2649031",
+          "Winner": "1",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36853546",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853547",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853548",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119568",
+      "Date": "1579226400",
+      "Team1": "Collins/Woolpert (Chevy)",
+      "Team2": "DeCamp/Hartman (Chevy)",
+      "Team1ID": "202337",
+      "Team2ID": "202339",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511149",
+          "LineNumber": "1",
+          "Player1HName": "Maria Woolpert",
+          "Player2HName": "CC Collins",
+          "Player1AName": "Nan Hartman",
+          "Player2AName": "Missy DeCamp",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649030",
+          "Player2HID": "2649006",
+          "Player1AID": "2649032",
+          "Player2AID": "2649008",
+          "Winner": "2",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36853738",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853739",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853740",
+              "SetNumber": "3",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119569",
+      "Date": "1579226400",
+      "Team1": "Dilley/Boe (Chevy)",
+      "Team2": "Ridgway/Wallace (Congressional)",
+      "Team1ID": "202338",
+      "Team2ID": "202341",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511296",
+          "LineNumber": "1",
+          "Player1HName": "Betsy Boe",
+          "Player2HName": "Margarita Dilley",
+          "Player1AName": "Carolyn Ridgway",
+          "Player2AName": "Haas Wallace",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649031",
+          "Player2HID": "2649007",
+          "Player1AID": "2649010",
+          "Player2AID": "2649034",
+          "Winner": "2",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "36854179",
+              "SetNumber": "1",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36854180",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36854181",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119570",
+      "Date": "1579226400",
+      "Team1": "Slater/Ridgway (Columbia)",
+      "Team2": "Williams/Wilkinson (Chevy) ",
+      "Team1ID": "202342",
+      "Team2ID": "202354",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119571",
+      "Date": "1579831200",
+      "Team1": "Slater/Ridgway (Columbia)",
+      "Team2": "Ridgway/Wallace (Congressional)",
+      "Team1ID": "202342",
+      "Team2ID": "202341",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12608917",
+          "LineNumber": "1",
+          "Player1HName": "Nancy Ridgway",
+          "Player2HName": "Lisa Slater",
+          "Player1AName": "Carolyn Ridgway",
+          "Player2AName": "Haas Wallace",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649035",
+          "Player2HID": "2649011",
+          "Player1AID": "2649010",
+          "Player2AID": "2649034",
+          "Winner": "2",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "37149860",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37149861",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37149862",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119572",
+      "Date": "1579831200",
+      "Team1": "Dilley/Boe (Chevy)",
+      "Team2": "Collins/Woolpert (Chevy)",
+      "Team1ID": "202338",
+      "Team2ID": "202337",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119573",
+      "Date": "1579831200",
+      "Team1": "DeCamp/Hartman (Chevy)",
+      "Team2": "Williams/Wilkinson (Chevy) ",
+      "Team1ID": "202339",
+      "Team2ID": "202354",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119574",
+      "Date": "1580436000",
+      "Team1": "Williams/Wilkinson (Chevy) ",
+      "Team2": "Slater/Ridgway (Columbia)",
+      "Team1ID": "202354",
+      "Team2ID": "202342",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119575",
+      "Date": "1580436000",
+      "Team1": "Dilley/Boe (Chevy)",
+      "Team2": "Collins/Woolpert (Chevy)",
+      "Team1ID": "202338",
+      "Team2ID": "202337",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119576",
+      "Date": "1580436000",
+      "Team1": "DeCamp/Hartman (Chevy)",
+      "Team2": "Ridgway/Wallace (Congressional)",
+      "Team1ID": "202339",
+      "Team2ID": "202341",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12774988",
+          "LineNumber": "1",
+          "Player1HName": "Missy DeCamp",
+          "Player2HName": "Nan Hartman",
+          "Player1AName": "Carolyn Ridgway",
+          "Player2AName": "Haas Wallace",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649008",
+          "Player2HID": "2649032",
+          "Player1AID": "2649010",
+          "Player2AID": "2649034",
+          "Winner": "2",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "37652588",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37652589",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37652590",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119577",
+      "Date": "1581040800",
+      "Team1": "Williams/Wilkinson (Chevy) ",
+      "Team2": "Dilley/Boe (Chevy)",
+      "Team1ID": "202354",
+      "Team2ID": "202338",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119578",
+      "Date": "1581040800",
+      "Team1": "Ridgway/Wallace (Congressional)",
+      "Team2": "Collins/Woolpert (Chevy)",
+      "Team1ID": "202341",
+      "Team2ID": "202337",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12775419",
+          "LineNumber": "1",
+          "Player1HName": "Carolyn Ridgway",
+          "Player2HName": "Haas Wallace",
+          "Player1AName": "Maria Woolpert",
+          "Player2AName": "CC Collins",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649010",
+          "Player2HID": "2649034",
+          "Player1AID": "2649030",
+          "Player2AID": "2649006",
+          "Winner": "1",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "37653943",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37653944",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37653945",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119579",
+      "Date": "1581040800",
+      "Team1": "Slater/Ridgway (Columbia)",
+      "Team2": "DeCamp/Hartman (Chevy)",
+      "Team1ID": "202342",
+      "Team2ID": "202339",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12977507",
+          "LineNumber": "1",
+          "Player1HName": "Nancy Ridgway",
+          "Player2HName": "Lisa Slater",
+          "Player1AName": "Missy DeCamp",
+          "Player2AName": "Nan Hartman",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649035",
+          "Player2HID": "2649011",
+          "Player1AID": "2649008",
+          "Player2AID": "2649032",
+          "Winner": "2",
+          "DivisionID": "17467",
+          "Sets": [
+            {
+              "SetID": "38267239",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38267240",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38267241",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119580",
+      "Date": "1581645600",
+      "Team1": "Williams/Wilkinson (Chevy) ",
+      "Team2": "DeCamp/Hartman (Chevy)",
+      "Team1ID": "202354",
+      "Team2ID": "202339",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119581",
+      "Date": "1581645600",
+      "Team1": "Collins/Woolpert (Chevy)",
+      "Team2": "Slater/Ridgway (Columbia)",
+      "Team1ID": "202337",
+      "Team2ID": "202342",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119582",
+      "Date": "1581645600",
+      "Team1": "Dilley/Boe (Chevy)",
+      "Team2": "Ridgway/Wallace (Congressional)",
+      "Team1ID": "202338",
+      "Team2ID": "202341",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119583",
+      "Date": "1582250400",
+      "Team1": "Ridgway/Wallace (Congressional)",
+      "Team2": "Slater/Ridgway (Columbia)",
+      "Team1ID": "202341",
+      "Team2ID": "202342",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119584",
+      "Date": "1582250400",
+      "Team1": "DeCamp/Hartman (Chevy)",
+      "Team2": "Dilley/Boe (Chevy)",
+      "Team1ID": "202339",
+      "Team2ID": "202338",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119585",
+      "Date": "1582250400",
+      "Team1": "Collins/Woolpert (Chevy)",
+      "Team2": "Williams/Wilkinson (Chevy) ",
+      "Team1ID": "202337",
+      "Team2ID": "202354",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119586",
+      "Date": "1582855200",
+      "Team1": "Dilley/Boe (Chevy)",
+      "Team2": "Slater/Ridgway (Columbia)",
+      "Team1ID": "202338",
+      "Team2ID": "202342",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119587",
+      "Date": "1582855200",
+      "Team1": "Ridgway/Wallace (Congressional)",
+      "Team2": "Williams/Wilkinson (Chevy) ",
+      "Team1ID": "202341",
+      "Team2ID": "202354",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119588",
+      "Date": "1582855200",
+      "Team1": "Collins/Woolpert (Chevy)",
+      "Team2": "DeCamp/Hartman (Chevy)",
+      "Team1ID": "202337",
+      "Team2ID": "202339",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119589",
+      "Date": "1576202400",
+      "Team1": "Jacobs/Long (Congressional)",
+      "Team2": "Railey/Korol (Congressional)",
+      "Team1ID": "202346",
+      "Team2ID": "202340",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422423",
+          "LineNumber": "1",
+          "Player1HName": "Elyse Jacobs",
+          "Player2HName": "Cherie Long",
+          "Player1AName": "Janet Korol",
+          "Player2AName": "Katherine Railey",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649015",
+          "Player2HID": "2649039",
+          "Player1AID": "2649033",
+          "Player2AID": "2649009",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36583890",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583891",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583892",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119590",
+      "Date": "1576202400",
+      "Team1": "Bennett/McKay (Chevy)",
+      "Team2": "DeCain/Farrell (Columbia)",
+      "Team1ID": "202344",
+      "Team2ID": "202348",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12141020",
+          "LineNumber": "1",
+          "Player1HName": "Anne Bennett",
+          "Player2HName": "Lexi McKay",
+          "Player1AName": "Sandy DeCain",
+          "Player2AName": "Stephanie Farrell",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649013",
+          "Player2HID": "2649037",
+          "Player1AID": "2649017",
+          "Player2AID": "2649041",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "35737372",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737373",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737374",
+              "SetNumber": "3",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119591",
+      "Date": "1576202400",
+      "Team1": "Daniels/Robinson (Congressional)",
+      "Team2": "Spencer/Angle (Chevy)",
+      "Team1ID": "202343",
+      "Team2ID": "202345",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12141094",
+          "LineNumber": "1",
+          "Player1HName": "Patty Daniels",
+          "Player2HName": "Liz Robinson",
+          "Player1AName": "Patrice Angle",
+          "Player2AName": "Polly Spencer",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649012",
+          "Player2HID": "2649036",
+          "Player1AID": "2649038",
+          "Player2AID": "2649014",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "35737600",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737601",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737602",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119592",
+      "Date": "1576807200",
+      "Team1": "DeCain/Farrell (Columbia)",
+      "Team2": "Spencer/Angle (Chevy)",
+      "Team1ID": "202348",
+      "Team2ID": "202345",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536981",
+          "LineNumber": "1",
+          "Player1HName": "Sandy DeCain",
+          "Player2HName": "Stephanie Farrell",
+          "Player1AName": "Patrice Angle",
+          "Player2AName": "Polly Spencer",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649017",
+          "Player2HID": "2649041",
+          "Player1AID": "2649038",
+          "Player2AID": "2649014",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36931576",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931577",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931578",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119593",
+      "Date": "1576807200",
+      "Team1": "Railey/Korol (Congressional)",
+      "Team2": "Daniels/Robinson (Congressional)",
+      "Team1ID": "202340",
+      "Team2ID": "202343",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422400",
+          "LineNumber": "1",
+          "Player1HName": "Janet Korol",
+          "Player2HName": "Katherine Railey",
+          "Player1AName": "Patty Daniels",
+          "Player2AName": "Liz Robinson",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649033",
+          "Player2HID": "2649009",
+          "Player1AID": "2649012",
+          "Player2AID": "2649036",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36583821",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583822",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583823",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119594",
+      "Date": "1576807200",
+      "Team1": "Jacobs/Long (Congressional)",
+      "Team2": "Bennett/McKay (Chevy)",
+      "Team1ID": "202346",
+      "Team2ID": "202344",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12315294",
+          "LineNumber": "1",
+          "Player1HName": "Elyse Jacobs",
+          "Player2HName": "Cherie Long",
+          "Player1AName": "Anne Bennett",
+          "Player2AName": "Lexi McKay",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649015",
+          "Player2HID": "2649039",
+          "Player1AID": "2649013",
+          "Player2AID": "2649037",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36260785",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36260786",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36260787",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119595",
+      "Date": "1578621600",
+      "Team1": "Daniels/Robinson (Congressional)",
+      "Team2": "Bennett/McKay (Chevy)",
+      "Team1ID": "202343",
+      "Team2ID": "202344",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536949",
+          "LineNumber": "1",
+          "Player1HName": "Patty Daniels",
+          "Player2HName": "Liz Robinson",
+          "Player1AName": "Anne Bennett",
+          "Player2AName": "Lexi McKay",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649012",
+          "Player2HID": "2649036",
+          "Player1AID": "2649013",
+          "Player2AID": "2649037",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36931480",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931481",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931482",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119596",
+      "Date": "1578621600",
+      "Team1": "Railey/Korol (Congressional)",
+      "Team2": "Spencer/Angle (Chevy)",
+      "Team1ID": "202340",
+      "Team2ID": "202345",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422390",
+          "LineNumber": "1",
+          "Player1HName": "Janet Korol",
+          "Player2HName": "Katherine Railey",
+          "Player1AName": "Patrice Angle",
+          "Player2AName": "N/A",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649033",
+          "Player2HID": "2649009",
+          "Player1AID": "2649038",
+          "Player2AID": "0",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36583791",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583792",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583793",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119597",
+      "Date": "1578621600",
+      "Team1": "DeCain/Farrell (Columbia)",
+      "Team2": "Jacobs/Long (Congressional)",
+      "Team1ID": "202348",
+      "Team2ID": "202346",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422444",
+          "LineNumber": "1",
+          "Player1HName": "Sandy DeCain",
+          "Player2HName": "Stephanie Farrell",
+          "Player1AName": "Elyse Jacobs",
+          "Player2AName": "Cherie Long",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649017",
+          "Player2HID": "2649041",
+          "Player1AID": "2649015",
+          "Player2AID": "2649039",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36583953",
+              "SetNumber": "1",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583954",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583955",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119598",
+      "Date": "1579226400",
+      "Team1": "Spencer/Angle (Chevy)",
+      "Team2": "Jacobs/Long (Congressional)",
+      "Team1ID": "202345",
+      "Team2ID": "202346",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12511179",
+          "LineNumber": "1",
+          "Player1HName": "Patrice Angle",
+          "Player2HName": "Patrice Angle",
+          "Player1AName": "Elyse Jacobs",
+          "Player2AName": "Cherie Long",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649038",
+          "Player2HID": "2649038",
+          "Player1AID": "2649015",
+          "Player2AID": "2649039",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36853828",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853829",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36853830",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119599",
+      "Date": "1579226400",
+      "Team1": "Bennett/McKay (Chevy)",
+      "Team2": "Railey/Korol (Congressional)",
+      "Team1ID": "202344",
+      "Team2ID": "202340",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12536986",
+          "LineNumber": "1",
+          "Player1HName": "Anne Bennett",
+          "Player2HName": "Lexi McKay",
+          "Player1AName": "Janet Korol",
+          "Player2AName": "Katherine Railey",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649013",
+          "Player2HID": "2649037",
+          "Player1AID": "2649033",
+          "Player2AID": "2649009",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "36931591",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931592",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36931593",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119600",
+      "Date": "1579226400",
+      "Team1": "DeCain/Farrell (Columbia)",
+      "Team2": "Daniels/Robinson (Congressional)",
+      "Team1ID": "202348",
+      "Team2ID": "202343",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119601",
+      "Date": "1579831200",
+      "Team1": "Bennett/McKay (Chevy)",
+      "Team2": "Spencer/Angle (Chevy)",
+      "Team1ID": "202344",
+      "Team2ID": "202345",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119602",
+      "Date": "1579831200",
+      "Team1": "Daniels/Robinson (Congressional)",
+      "Team2": "Jacobs/Long (Congressional)",
+      "Team1ID": "202343",
+      "Team2ID": "202346",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13198349",
+          "LineNumber": "1",
+          "Player1HName": "Patty Daniels",
+          "Player2HName": "Liz Robinson",
+          "Player1AName": "Elyse Jacobs",
+          "Player2AName": "Cherie Long",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649012",
+          "Player2HID": "2649036",
+          "Player1AID": "2649015",
+          "Player2AID": "2649039",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "38931534",
+              "SetNumber": "1",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38931535",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38931536",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119603",
+      "Date": "1579831200",
+      "Team1": "Railey/Korol (Congressional)",
+      "Team2": "DeCain/Farrell (Columbia)",
+      "Team1ID": "202340",
+      "Team2ID": "202348",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13503304",
+          "LineNumber": "1",
+          "Player1HName": "Janet Korol",
+          "Player2HName": "Katherine Railey",
+          "Player1AName": "Sandy DeCain",
+          "Player2AName": "Stephanie Farrell",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649033",
+          "Player2HID": "2649009",
+          "Player1AID": "2649017",
+          "Player2AID": "2649041",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "39849371",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39849372",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39849373",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119604",
+      "Date": "1580436000",
+      "Team1": "Jacobs/Long (Congressional)",
+      "Team2": "DeCain/Farrell (Columbia)",
+      "Team1ID": "202346",
+      "Team2ID": "202348",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13425398",
+          "LineNumber": "1",
+          "Player1HName": "Elyse Jacobs",
+          "Player2HName": "Cherie Long",
+          "Player1AName": "Sandy DeCain",
+          "Player2AName": "Stephanie Farrell",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649015",
+          "Player2HID": "2649039",
+          "Player1AID": "2649017",
+          "Player2AID": "2649041",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "39615431",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39615432",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39615433",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119605",
+      "Date": "1580436000",
+      "Team1": "Railey/Korol (Congressional)",
+      "Team2": "Bennett/McKay (Chevy)",
+      "Team1ID": "202340",
+      "Team2ID": "202344",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12620228",
+          "LineNumber": "1",
+          "Player1HName": "Janet Korol",
+          "Player2HName": "Katherine Railey",
+          "Player1AName": "Anne Bennett",
+          "Player2AName": "Lexi McKay",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649033",
+          "Player2HID": "2649009",
+          "Player1AID": "2649013",
+          "Player2AID": "2649037",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "37183889",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37183890",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "37183891",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119606",
+      "Date": "1580436000",
+      "Team1": "Spencer/Angle (Chevy)",
+      "Team2": "Daniels/Robinson (Congressional)",
+      "Team1ID": "202345",
+      "Team2ID": "202343",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13198325",
+          "LineNumber": "1",
+          "Player1HName": "Patrice Angle",
+          "Player2HName": "Polly Spencer",
+          "Player1AName": "Patty Daniels",
+          "Player2AName": "Liz Robinson",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649038",
+          "Player2HID": "2649014",
+          "Player1AID": "2649012",
+          "Player2AID": "2649036",
+          "Winner": "4",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "38931462",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38931463",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38931464",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119607",
+      "Date": "1581040800",
+      "Team1": "Bennett/McKay (Chevy)",
+      "Team2": "Jacobs/Long (Congressional)",
+      "Team1ID": "202344",
+      "Team2ID": "202346",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13425383",
+          "LineNumber": "1",
+          "Player1HName": "Anne Bennett",
+          "Player2HName": "Lexi McKay",
+          "Player1AName": "Elyse Jacobs",
+          "Player2AName": "Cherie Long",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649013",
+          "Player2HID": "2649037",
+          "Player1AID": "2649015",
+          "Player2AID": "2649039",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "39615386",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39615387",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39615388",
+              "SetNumber": "3",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119608",
+      "Date": "1581040800",
+      "Team1": "Daniels/Robinson (Congressional)",
+      "Team2": "Railey/Korol (Congressional)",
+      "Team1ID": "202343",
+      "Team2ID": "202340",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119609",
+      "Date": "1581040800",
+      "Team1": "Spencer/Angle (Chevy)",
+      "Team2": "DeCain/Farrell (Columbia)",
+      "Team1ID": "202345",
+      "Team2ID": "202348",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119610",
+      "Date": "1581645600",
+      "Team1": "Jacobs/Long (Congressional)",
+      "Team2": "Daniels/Robinson (Congressional)",
+      "Team1ID": "202346",
+      "Team2ID": "202343",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119611",
+      "Date": "1581645600",
+      "Team1": "Spencer/Angle (Chevy)",
+      "Team2": "Railey/Korol (Congressional)",
+      "Team1ID": "202345",
+      "Team2ID": "202340",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119612",
+      "Date": "1581645600",
+      "Team1": "Bennett/McKay (Chevy)",
+      "Team2": "DeCain/Farrell (Columbia)",
+      "Team1ID": "202344",
+      "Team2ID": "202348",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119613",
+      "Date": "1582250400",
+      "Team1": "DeCain/Farrell (Columbia)",
+      "Team2": "Railey/Korol (Congressional)",
+      "Team1ID": "202348",
+      "Team2ID": "202340",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119614",
+      "Date": "1582250400",
+      "Team1": "Daniels/Robinson (Congressional)",
+      "Team2": "Bennett/McKay (Chevy)",
+      "Team1ID": "202343",
+      "Team2ID": "202344",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13198324",
+          "LineNumber": "1",
+          "Player1HName": "Patty Daniels",
+          "Player2HName": "Liz Robinson",
+          "Player1AName": "Anne Bennett",
+          "Player2AName": "Lexi McKay",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649012",
+          "Player2HID": "2649036",
+          "Player1AID": "2649013",
+          "Player2AID": "2649037",
+          "Winner": "1",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "38931459",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38931460",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "38931461",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119615",
+      "Date": "1582250400",
+      "Team1": "Jacobs/Long (Congressional)",
+      "Team2": "Spencer/Angle (Chevy)",
+      "Team1ID": "202346",
+      "Team2ID": "202345",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119616",
+      "Date": "1582855200",
+      "Team1": "DeCain/Farrell (Columbia)",
+      "Team2": "Daniels/Robinson (Congressional)",
+      "Team1ID": "202348",
+      "Team2ID": "202343",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119617",
+      "Date": "1582855200",
+      "Team1": "Railey/Korol (Congressional)",
+      "Team2": "Jacobs/Long (Congressional)",
+      "Team1ID": "202340",
+      "Team2ID": "202346",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "13425388",
+          "LineNumber": "1",
+          "Player1HName": "Janet Korol",
+          "Player2HName": "Katherine Railey",
+          "Player1AName": "Elyse Jacobs",
+          "Player2AName": "Cherie Long",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649033",
+          "Player2HID": "2649009",
+          "Player1AID": "2649015",
+          "Player2AID": "2649039",
+          "Winner": "2",
+          "DivisionID": "17468",
+          "Sets": [
+            {
+              "SetID": "39615401",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39615402",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "39615403",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119618",
+      "Date": "1582855200",
+      "Team1": "Spencer/Angle (Chevy)",
+      "Team2": "Bennett/McKay (Chevy)",
+      "Team1ID": "202345",
+      "Team2ID": "202344",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119619",
+      "Date": "1576202400",
+      "Team1": "Billings/Carroccio (Congressional)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202349",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119620",
+      "Date": "1576202400",
+      "Team1": "Bieligk/Raff (Congressional)",
+      "Team2": "Conley/Cormier (Columbia)",
+      "Team1ID": "202347",
+      "Team2ID": "202350",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12141117",
+          "LineNumber": "1",
+          "Player1HName": "Jessica Bieligk",
+          "Player2HName": "Susan Raff",
+          "Player1AName": "Kat Conley",
+          "Player2AName": "Sarah Cormier",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649016",
+          "Player2HID": "2649040",
+          "Player1AID": "2649019",
+          "Player2AID": "2649043",
+          "Winner": "2",
+          "DivisionID": "17469",
+          "Sets": [
+            {
+              "SetID": "35737675",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737676",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "35737677",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119621",
+      "Date": "1576202400",
+      "Team1": "Gladding/Brancaccio (Congressional)",
+      "Team2": "Taylor/Adrian (Play at opp.site)",
+      "Team1ID": "202351",
+      "Team2ID": "202352",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119622",
+      "Date": "1576807200",
+      "Team1": "Billings/Carroccio (Congressional)",
+      "Team2": "Bieligk/Raff (Congressional)",
+      "Team1ID": "202349",
+      "Team2ID": "202347",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422584",
+          "LineNumber": "1",
+          "Player1HName": "Kristen Billings",
+          "Player2HName": "Courtney Carroccio",
+          "Player1AName": "Jessica Bieligk",
+          "Player2AName": "Susan Raff",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649018",
+          "Player2HID": "2649042",
+          "Player1AID": "2649016",
+          "Player2AID": "2649040",
+          "Winner": "1",
+          "DivisionID": "17469",
+          "Sets": [
+            {
+              "SetID": "36584387",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36584388",
+              "SetNumber": "2",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36584389",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119623",
+      "Date": "1576807200",
+      "Team1": "Gladding/Brancaccio (Congressional)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202351",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119624",
+      "Date": "1576807200",
+      "Team1": "Conley/Cormier (Columbia)",
+      "Team2": "Taylor/Adrian (Play at opp.site)",
+      "Team1ID": "202350",
+      "Team2ID": "202352",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119625",
+      "Date": "1578621600",
+      "Team1": "Conley/Cormier (Columbia)",
+      "Team2": "Billings/Carroccio (Congressional)",
+      "Team1ID": "202350",
+      "Team2ID": "202349",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "12422364",
+          "LineNumber": "1",
+          "Player1HName": "Kat Conley",
+          "Player2HName": "Sarah Cormier",
+          "Player1AName": "Kristen Billings",
+          "Player2AName": "Courtney Carroccio",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2649019",
+          "Player2HID": "2649043",
+          "Player1AID": "2649018",
+          "Player2AID": "2649042",
+          "Winner": "1",
+          "DivisionID": "17469",
+          "Sets": [
+            {
+              "SetID": "36583713",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583714",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "36583715",
+              "SetNumber": "3",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3119626",
+      "Date": "1578621600",
+      "Team1": "Taylor/Adrian (Play at opp.site)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202352",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119627",
+      "Date": "1578621600",
+      "Team1": "Bieligk/Raff (Congressional)",
+      "Team2": "Gladding/Brancaccio (Congressional)",
+      "Team1ID": "202347",
+      "Team2ID": "202351",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119628",
+      "Date": "1579226400",
+      "Team1": "Bieligk/Raff (Congressional)",
+      "Team2": "Taylor/Adrian (Play at opp.site)",
+      "Team1ID": "202347",
+      "Team2ID": "202352",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119629",
+      "Date": "1579226400",
+      "Team1": "Billings/Carroccio (Congressional)",
+      "Team2": "Gladding/Brancaccio (Congressional)",
+      "Team1ID": "202349",
+      "Team2ID": "202351",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119630",
+      "Date": "1579226400",
+      "Team1": "Conley/Cormier (Columbia)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202350",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119632",
+      "Date": "1579831200",
+      "Team1": "Bieligk/Raff (Congressional)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202347",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119635",
+      "Date": "1580436000",
+      "Team1": "Conley/Cormier (Columbia)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202350",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119639",
+      "Date": "1581040800",
+      "Team1": "Bieligk/Raff (Congressional)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202347",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119640",
+      "Date": "1581645600",
+      "Team1": "Billings/Carroccio (Congressional)",
+      "Team2": "Kasten/O'Connor (Play at opp.site)",
+      "Team1ID": "202349",
+      "Team2ID": "202353",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119642",
+      "Date": "1581645600",
+      "Team1": "Bieligk/Raff (Congressional)",
+      "Team2": "Conley/Cormier (Columbia)",
+      "Team1ID": "202347",
+      "Team2ID": "202350",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119643",
+      "Date": "1582250400",
+      "Team1": "Billings/Carroccio (Congressional)",
+      "Team2": "Bieligk/Raff (Congressional)",
+      "Team1ID": "202349",
+      "Team2ID": "202347",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3119646",
+      "Date": "1582855200",
+      "Team1": "Billings/Carroccio (Congressional)",
+      "Team2": "Conley/Cormier (Columbia)",
+      "Team1ID": "202349",
+      "Team2ID": "202350",
+      "Bye": "0",
+      "Lines": []
+    }
+  ]
+}

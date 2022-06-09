@@ -1,0 +1,127 @@
+{
+  "Users": {
+    "0": {
+      "0": 0,
+      "Gender": null,
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": null,
+      "Matches": [
+        0
+      ],
+      "PlayerID": 0,
+      "PlayerName": " "
+    },
+    "2817491": {
+      "0": 2817491,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2817491
+      ],
+      "PlayerID": 2817491,
+      "PlayerName": "Michael McKelvey"
+    },
+    "2817493": {
+      "0": 2817493,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "10.0000"
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2817493
+      ],
+      "PlayerID": 2817493,
+      "PlayerName": "Matthew Arthur"
+    },
+    "2817495": {
+      "0": 2817495,
+      "1": 2813570,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2817495,
+        2813570
+      ],
+      "PlayerID": 2817495,
+      "PlayerName": "David French"
+    },
+    "2817496": {
+      "0": 2817496,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2817496
+      ],
+      "PlayerID": 2817496,
+      "PlayerName": "John Trydahl"
+    },
+    "2819062": {
+      "0": 2819062,
+      "1": 2812405,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2819062,
+        2812405
+      ],
+      "PlayerID": 2819062,
+      "PlayerName": "Andrew Hundley"
+    },
+    "2819063": {
+      "0": 2819063,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "10.0000"
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2819063
+      ],
+      "PlayerID": 2819063,
+      "PlayerName": "Mark Holmquist"
+    },
+    "2819065": {
+      "0": 2819065,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "17947",
+      "Matches": [
+        2819065
+      ],
+      "PlayerID": 2819065,
+      "PlayerName": "Josh Furci"
+    },
+    "2819077": {
+      "0": 2819077,
+      "1": 2813569,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2819077,
+        2813569
+      ],
+      "PlayerID": 2819077,
+      "PlayerName": "Adam Mandel"
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "Matches": [
+    {
+      "ScheduleID": "3850341",
+      "Date": "1642395600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251987",
+      "Team2ID": "251986",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850344",
+      "Date": "1641790800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251988",
+      "Team2ID": "251986",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850358",
+      "Date": "1643000400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251989",
+      "Team2ID": "251986",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850359",
+      "Date": "1643605200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251991",
+      "Team2ID": "251986",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850360",
+      "Date": "1644210000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251990",
+      "Team2ID": "251986",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850361",
+      "Date": "1641790800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251987",
+      "Team2ID": "251989",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850362",
+      "Date": "1642395600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251991",
+      "Team2ID": "251989",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850363",
+      "Date": "1643000400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251990",
+      "Team2ID": "251989",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850364",
+      "Date": "1643605200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "251988",
+      "Team2ID": "251989",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3850526",
+      "Date": "1641790800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "0",
+      "Team2ID": "0",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "14614116",
+          "LineNumber": "1",
+          "Player1HName": "Karen Aranow",
+          "Player2HName": "Kate Beichner",
+          "Player1AName": "N/A",
+          "Player2AName": "N/A",
+          "Player1HELOStart": "0.0000",
+          "Player2HELOStart": "75.0000",
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": "0.0000",
+          "Player2HELOEnd": "75.0000",
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2806881",
+          "Player2HID": "2806887",
+          "Player1AID": "0",
+          "Player2AID": "0",
+          "Winner": "0",
+          "DivisionID": "-3",
+          "Sets": []
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3850953",
+      "Date": "1641846600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "252022",
+      "Team2ID": "252023",
+      "Bye": "0",
+      "Lines": []
+    }
+  ]
+}

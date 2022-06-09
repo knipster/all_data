@@ -1,0 +1,496 @@
+{
+  "Users": {
+    "0": {
+      "0": 0,
+      "Gender": null,
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": null,
+      "Matches": [
+        0
+      ],
+      "PlayerID": 0,
+      "PlayerName": " "
+    },
+    "2640932": {
+      "0": 2640932,
+      "1": 2619086,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "12.5000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2640932,
+        2619086
+      ],
+      "PlayerID": 2640932,
+      "PlayerName": "Rich Green"
+    },
+    "2641150": {
+      "0": 2641150,
+      "1": 2619458,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "12.5000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2641150,
+        2619458
+      ],
+      "PlayerID": 2641150,
+      "PlayerName": "Greg Archer"
+    },
+    "2641152": {
+      "0": 2641152,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "15.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2641152
+      ],
+      "PlayerID": 2641152,
+      "PlayerName": "Brian Hunter"
+    },
+    "2641153": {
+      "0": 2641153,
+      "1": 2619089,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2641153,
+        2619089
+      ],
+      "PlayerID": 2641153,
+      "PlayerName": "Scott Winokur"
+    },
+    "2641154": {
+      "0": 2641154,
+      "1": 2619088,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2641154,
+        2619088
+      ],
+      "PlayerID": 2641154,
+      "PlayerName": "Jim Walsh"
+    },
+    "2641155": {
+      "0": 2641155,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "15.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2641155
+      ],
+      "PlayerID": 2641155,
+      "PlayerName": "Matthew Hilkey"
+    },
+    "2641156": {
+      "0": 2641156,
+      "1": 827469,
+      "2": 858990,
+      "3": 922706,
+      "4": 2619486,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "2954",
+      "Matches": [
+        2641156,
+        827469,
+        858990,
+        922706,
+        2619486
+      ],
+      "PlayerID": 2641156,
+      "PlayerName": "Max Rubin"
+    },
+    "2641157": {
+      "0": 2641157,
+      "1": 2619085,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "17.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2641157,
+        2619085
+      ],
+      "PlayerID": 2641157,
+      "PlayerName": "Rich Brown"
+    },
+    "2641158": {
+      "0": 2641158,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "27.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2641158
+      ],
+      "PlayerID": 2641158,
+      "PlayerName": "Bill MacAdam"
+    },
+    "2641161": {
+      "0": 2641161,
+      "1": 2639011,
+      "2": 2671042,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "14431",
+      "Matches": [
+        2641161,
+        2639011,
+        2671042
+      ],
+      "PlayerID": 2641161,
+      "PlayerName": "John Maurer"
+    },
+    "2641590": {
+      "0": 2641590,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "25.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2641590
+      ],
+      "PlayerID": 2641590,
+      "PlayerName": "Craige Ruffin"
+    },
+    "2641838": {
+      "0": 2641838,
+      "1": 2814919,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2641838,
+        2814919
+      ],
+      "PlayerID": 2641838,
+      "PlayerName": "Timothy Peter Pastoor"
+    },
+    "2642099": {
+      "0": 2642099,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642099
+      ],
+      "PlayerID": 2642099,
+      "PlayerName": "Luiz Ferreira"
+    },
+    "2642100": {
+      "0": 2642100,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642100
+      ],
+      "PlayerID": 2642100,
+      "PlayerName": "Andy Nelson"
+    },
+    "2642101": {
+      "0": 2642101,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642101
+      ],
+      "PlayerID": 2642101,
+      "PlayerName": "Steve Nebiker"
+    },
+    "2642103": {
+      "0": 2642103,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "27.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642103
+      ],
+      "PlayerID": 2642103,
+      "PlayerName": "Bill Mears"
+    },
+    "2642105": {
+      "0": 2642105,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642105
+      ],
+      "PlayerID": 2642105,
+      "PlayerName": "Alex Piasecki"
+    },
+    "2642107": {
+      "0": 2642107,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642107
+      ],
+      "PlayerID": 2642107,
+      "PlayerName": "Valerie Conklin"
+    },
+    "2642108": {
+      "0": 2642108,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642108
+      ],
+      "PlayerID": 2642108,
+      "PlayerName": "John Conklin"
+    },
+    "2642110": {
+      "0": 2642110,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642110
+      ],
+      "PlayerID": 2642110,
+      "PlayerName": "Gordon Albro"
+    },
+    "2642112": {
+      "0": 2642112,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642112
+      ],
+      "PlayerID": 2642112,
+      "PlayerName": "Bayard Collins"
+    },
+    "2642113": {
+      "0": 2642113,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642113
+      ],
+      "PlayerID": 2642113,
+      "PlayerName": "Jaike Williams"
+    },
+    "2642413": {
+      "0": 2642413,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "25.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2642413
+      ],
+      "PlayerID": 2642413,
+      "PlayerName": "Nicki Ross"
+    },
+    "2646308": {
+      "0": 2646308,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2646308
+      ],
+      "PlayerID": 2646308,
+      "PlayerName": "Sravan Narayan"
+    },
+    "2649413": {
+      "0": 2649413,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2649413
+      ],
+      "PlayerID": 2649413,
+      "PlayerName": "Michal Zaluski"
+    },
+    "2649414": {
+      "0": 2649414,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "22.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2649414
+      ],
+      "PlayerID": 2649414,
+      "PlayerName": "Alan Rader"
+    },
+    "2649422": {
+      "0": 2649422,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "27.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2649422
+      ],
+      "PlayerID": 2649422,
+      "PlayerName": "Christa McGill"
+    },
+    "2649424": {
+      "0": 2649424,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2649424
+      ],
+      "PlayerID": 2649424,
+      "PlayerName": "Elizabeth Keating"
+    },
+    "2653351": {
+      "0": 2653351,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2653351
+      ],
+      "PlayerID": 2653351,
+      "PlayerName": "David Yeowell"
+    },
+    "2653353": {
+      "0": 2653353,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2653353
+      ],
+      "PlayerID": 2653353,
+      "PlayerName": "Raj Dash"
+    },
+    "2653354": {
+      "0": 2653354,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2653354
+      ],
+      "PlayerID": 2653354,
+      "PlayerName": "Chris Conover"
+    },
+    "2653355": {
+      "0": 2653355,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2653355
+      ],
+      "PlayerID": 2653355,
+      "PlayerName": "Doug Dietsche"
+    },
+    "2653356": {
+      "0": 2653356,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2653356
+      ],
+      "PlayerID": 2653356,
+      "PlayerName": "Stephen Lippi"
+    },
+    "2654185": {
+      "0": 2654185,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "25.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2654185
+      ],
+      "PlayerID": 2654185,
+      "PlayerName": "Andy Lipetz"
+    },
+    "2654230": {
+      "0": 2654230,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "15849",
+      "Matches": [
+        2654230
+      ],
+      "PlayerID": 2654230,
+      "PlayerName": "Dick Terry"
+    }
+  }
+}

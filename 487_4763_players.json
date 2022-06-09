@@ -1,0 +1,1766 @@
+{
+  "Users": {
+    "0": {
+      "0": 0,
+      "Gender": null,
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": null,
+      "Matches": [
+        0
+      ],
+      "PlayerID": 0,
+      "PlayerName": " "
+    },
+    "2631052": {
+      "0": 2631052,
+      "1": 2619416,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2631052,
+        2619416
+      ],
+      "PlayerID": 2631052,
+      "PlayerName": "David Marshall"
+    },
+    "2631693": {
+      "0": 2631693,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "25.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2631693
+      ],
+      "PlayerID": 2631693,
+      "PlayerName": "Patrick Sullivan"
+    },
+    "2631733": {
+      "0": 2631733,
+      "1": 2618620,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "24.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2631733,
+        2618620
+      ],
+      "PlayerID": 2631733,
+      "PlayerName": "Larry Eagan"
+    },
+    "2631812": {
+      "0": 2631812,
+      "1": 1416716,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2631812,
+        1416716
+      ],
+      "PlayerID": 2631812,
+      "PlayerName": "Mike Shields"
+    },
+    "2631876": {
+      "0": 2631876,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2631876
+      ],
+      "PlayerID": 2631876,
+      "PlayerName": "Daniel Nash"
+    },
+    "2632291": {
+      "0": 2632291,
+      "1": 1416726,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2632291,
+        1416726
+      ],
+      "PlayerID": 2632291,
+      "PlayerName": "Travis Lytle"
+    },
+    "2632713": {
+      "0": 2632713,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2632713
+      ],
+      "PlayerID": 2632713,
+      "PlayerName": "JB Nickles"
+    },
+    "2632718": {
+      "0": 2632718,
+      "1": 1390114,
+      "2": 2619073,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2632718,
+        1390114,
+        2619073
+      ],
+      "PlayerID": 2632718,
+      "PlayerName": "Craig Waddington"
+    },
+    "2632999": {
+      "0": 2632999,
+      "1": 2619532,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2632999,
+        2619532
+      ],
+      "PlayerID": 2632999,
+      "PlayerName": "Naren Dhamodharan"
+    },
+    "2633001": {
+      "0": 2633001,
+      "1": 1416745,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "21.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2633001,
+        1416745
+      ],
+      "PlayerID": 2633001,
+      "PlayerName": "Hans Doup"
+    },
+    "2633044": {
+      "0": 2633044,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2633044
+      ],
+      "PlayerID": 2633044,
+      "PlayerName": "Brad Hoffman"
+    },
+    "2633725": {
+      "0": 2633725,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "25.0000"
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2633725
+      ],
+      "PlayerID": 2633725,
+      "PlayerName": "Sarit Patel"
+    },
+    "2633794": {
+      "0": 2633794,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2633794
+      ],
+      "PlayerID": 2633794,
+      "PlayerName": "Jason Smith"
+    },
+    "2633821": {
+      "0": 2633821,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2633821
+      ],
+      "PlayerID": 2633821,
+      "PlayerName": "Chris Arciero "
+    },
+    "2633853": {
+      "0": 2633853,
+      "1": 1416727,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2633853,
+        1416727
+      ],
+      "PlayerID": 2633853,
+      "PlayerName": "Dan Joseph"
+    },
+    "2633860": {
+      "0": 2633860,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "19.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2633860
+      ],
+      "PlayerID": 2633860,
+      "PlayerName": "Jon Bahre"
+    },
+    "2633864": {
+      "0": 2633864,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2633864
+      ],
+      "PlayerID": 2633864,
+      "PlayerName": "Bobby Wice"
+    },
+    "2634120": {
+      "0": 2634120,
+      "1": 2676440,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "16.0000"
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2634120,
+        2676440
+      ],
+      "PlayerID": 2634120,
+      "PlayerName": "Allen Fitzsimmons"
+    },
+    "2634175": {
+      "0": 2634175,
+      "1": 2711054,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2634175,
+        2711054
+      ],
+      "PlayerID": 2634175,
+      "PlayerName": "Mark Willis"
+    },
+    "2634232": {
+      "0": 2634232,
+      "1": 1416747,
+      "2": 2656184,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2634232,
+        1416747,
+        2656184
+      ],
+      "PlayerID": 2634232,
+      "PlayerName": "Tim Scanlon"
+    },
+    "2637766": {
+      "0": 2637766,
+      "1": 1416717,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2637766,
+        1416717
+      ],
+      "PlayerID": 2637766,
+      "PlayerName": "Stephen McKenna"
+    },
+    "2637771": {
+      "0": 2637771,
+      "1": 2619074,
+      "2": 2631779,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2637771,
+        2619074,
+        2631779
+      ],
+      "PlayerID": 2637771,
+      "PlayerName": "Will Herchel"
+    },
+    "2640470": {
+      "0": 2640470,
+      "1": 2706589,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2640470,
+        2706589
+      ],
+      "PlayerID": 2640470,
+      "PlayerName": "Jonathan  Seymour "
+    },
+    "2643238": {
+      "0": 2643238,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "23.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2643238
+      ],
+      "PlayerID": 2643238,
+      "PlayerName": "Brad Feld"
+    },
+    "2646103": {
+      "0": 2646103,
+      "1": 1416739,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2646103,
+        1416739
+      ],
+      "PlayerID": 2646103,
+      "PlayerName": "Gary Weiner"
+    },
+    "2646562": {
+      "0": 2646562,
+      "1": 1416733,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2646562,
+        1416733
+      ],
+      "PlayerID": 2646562,
+      "PlayerName": "Per Nilsson"
+    },
+    "2646563": {
+      "0": 2646563,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "16.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2646563
+      ],
+      "PlayerID": 2646563,
+      "PlayerName": "Ryan  Byrnes"
+    },
+    "2646711": {
+      "0": 2646711,
+      "1": 2699723,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2646711,
+        2699723
+      ],
+      "PlayerID": 2646711,
+      "PlayerName": "Dylan Kletter"
+    },
+    "2647049": {
+      "0": 2647049,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "22.0000"
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2647049
+      ],
+      "PlayerID": 2647049,
+      "PlayerName": "Aram Bolduc"
+    },
+    "2656724": {
+      "0": 2656724,
+      "1": 2801016,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2656724,
+        2801016
+      ],
+      "PlayerID": 2656724,
+      "PlayerName": "Matthew A Curren"
+    },
+    "2656789": {
+      "0": 2656789,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "15.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2656789
+      ],
+      "PlayerID": 2656789,
+      "PlayerName": "Matt Crowther"
+    },
+    "2657652": {
+      "0": 2657652,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2657652
+      ],
+      "PlayerID": 2657652,
+      "PlayerName": "Scott Sadowsky"
+    },
+    "2702509": {
+      "0": 2702509,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2702509
+      ],
+      "PlayerID": 2702509,
+      "PlayerName": "Ben  Feld"
+    },
+    "2702743": {
+      "0": 2702743,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2702743
+      ],
+      "PlayerID": 2702743,
+      "PlayerName": "Thomas Borghard"
+    },
+    "2710077": {
+      "0": 2710077,
+      "1": 2631954,
+      "2": 2656175,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2710077,
+        2631954,
+        2656175
+      ],
+      "PlayerID": 2710077,
+      "PlayerName": "Michael Waterbury"
+    },
+    "2710691": {
+      "0": 2710691,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "15.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2710691
+      ],
+      "PlayerID": 2710691,
+      "PlayerName": "Phil Cameron"
+    },
+    "2718686": {
+      "0": 2718686,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "32.5000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2718686
+      ],
+      "PlayerID": 2718686,
+      "PlayerName": "Jared Jordan"
+    },
+    "2719057": {
+      "0": 2719057,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2719057
+      ],
+      "PlayerID": 2719057,
+      "PlayerName": "Tyler Polk"
+    },
+    "2791748": {
+      "0": 2791748,
+      "1": 1390115,
+      "2": 2618515,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "12.0000"
+      },
+      "LocationID": "15645",
+      "Matches": [
+        2791748,
+        1390115,
+        2618515
+      ],
+      "PlayerID": 2791748,
+      "PlayerName": "Matt Arciero"
+    },
+    "2793793": {
+      "0": 2793793,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "19.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2793793
+      ],
+      "PlayerID": 2793793,
+      "PlayerName": "Garret Espeso"
+    },
+    "2794517": {
+      "0": 2794517,
+      "1": 1416737,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2794517,
+        1416737
+      ],
+      "PlayerID": 2794517,
+      "PlayerName": "Mike Doyle"
+    },
+    "2794543": {
+      "0": 2794543,
+      "1": 1416734,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2794543,
+        1416734
+      ],
+      "PlayerID": 2794543,
+      "PlayerName": "Mike Freedman"
+    },
+    "2794663": {
+      "0": 2794663,
+      "1": 1416752,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2794663,
+        1416752
+      ],
+      "PlayerID": 2794663,
+      "PlayerName": "Tom Kietzman"
+    },
+    "2795089": {
+      "0": 2795089,
+      "1": 2624385,
+      "2": 2702998,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "16454",
+      "Matches": [
+        2795089,
+        2624385,
+        2702998
+      ],
+      "PlayerID": 2795089,
+      "PlayerName": "Glenn Schwitter"
+    },
+    "2795105": {
+      "0": 2795105,
+      "1": 1416744,
+      "2": 2805065,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2795105,
+        1416744,
+        2805065
+      ],
+      "PlayerID": 2795105,
+      "PlayerName": "Rob Durfee"
+    },
+    "2795158": {
+      "0": 2795158,
+      "1": 1124073,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "7975",
+      "Matches": [
+        2795158,
+        1124073
+      ],
+      "PlayerID": 2795158,
+      "PlayerName": "Josh Rilla"
+    },
+    "2795205": {
+      "0": 2795205,
+      "1": 1416746,
+      "2": 2656185,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2795205,
+        1416746,
+        2656185
+      ],
+      "PlayerID": 2795205,
+      "PlayerName": "William Bodde"
+    },
+    "2795355": {
+      "0": 2795355,
+      "1": 1416725,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2795355,
+        1416725
+      ],
+      "PlayerID": 2795355,
+      "PlayerName": "Alex Seiler"
+    },
+    "2796708": {
+      "0": 2796708,
+      "1": 2805067,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2796708,
+        2805067
+      ],
+      "PlayerID": 2796708,
+      "PlayerName": "Michael James Begley"
+    },
+    "2796766": {
+      "0": 2796766,
+      "1": 2805069,
+      "2": 2816279,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2796766,
+        2805069,
+        2816279
+      ],
+      "PlayerID": 2796766,
+      "PlayerName": "Jack McGuire"
+    },
+    "2796779": {
+      "0": 2796779,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "25.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2796779
+      ],
+      "PlayerID": 2796779,
+      "PlayerName": "Will Plaut"
+    },
+    "2796936": {
+      "0": 2796936,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "28.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2796936
+      ],
+      "PlayerID": 2796936,
+      "PlayerName": "Alexander Santaniello"
+    },
+    "2796976": {
+      "0": 2796976,
+      "1": 2645227,
+      "2": 2656188,
+      "3": 2727234,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "23.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2796976,
+        2645227,
+        2656188,
+        2727234
+      ],
+      "PlayerID": 2796976,
+      "PlayerName": "Matt Grodd"
+    },
+    "2796986": {
+      "0": 2796986,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "18.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2796986
+      ],
+      "PlayerID": 2796986,
+      "PlayerName": "Daniel Torres"
+    },
+    "2797041": {
+      "0": 2797041,
+      "1": 2618662,
+      "2": 2642050,
+      "3": 2632794,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2797041,
+        2618662,
+        2642050,
+        2632794
+      ],
+      "PlayerID": 2797041,
+      "PlayerName": "John Hughes"
+    },
+    "2797424": {
+      "0": 2797424,
+      "1": 2805060,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2797424,
+        2805060
+      ],
+      "PlayerID": 2797424,
+      "PlayerName": "Mark Rush"
+    },
+    "2797594": {
+      "0": 2797594,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2797594
+      ],
+      "PlayerID": 2797594,
+      "PlayerName": "Dennis Herchel"
+    },
+    "2797712": {
+      "0": 2797712,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2797712
+      ],
+      "PlayerID": 2797712,
+      "PlayerName": "Brian Grayboff"
+    },
+    "2798189": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2798189,
+        2642659,
+        2794579,
+        2619414,
+        2798190,
+        2808497
+      ],
+      "PlayerID": 2798189,
+      "PlayerName": "Brian  Adinolfi"
+    },
+    "2801555": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2801555,
+        2650865,
+        2695834,
+        2661510,
+        2673577,
+        2795267
+      ],
+      "PlayerID": 2801555,
+      "PlayerName": "Johan Carlson"
+    },
+    "2803000": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2803000,
+        1047135
+      ],
+      "PlayerID": 2803000,
+      "PlayerName": "Mark Bast"
+    },
+    "2803001": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2803001,
+        1047677
+      ],
+      "PlayerID": 2803001,
+      "PlayerName": "Brian Leahy"
+    },
+    "2804977": {
+      "0": 2804977,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2804977
+      ],
+      "PlayerID": 2804977,
+      "PlayerName": "Joel Grieco"
+    },
+    "2805387": {
+      "0": 2805387,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2805387
+      ],
+      "PlayerID": 2805387,
+      "PlayerName": "Rob` Nye"
+    },
+    "2805404": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "13136",
+      "Matches": [
+        2805404,
+        1063430,
+        2645220,
+        2702017
+      ],
+      "PlayerID": 2805404,
+      "PlayerName": "Tom  Vail"
+    },
+    "2805405": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2805405,
+        2645221
+      ],
+      "PlayerID": 2805405,
+      "PlayerName": "George Kollias"
+    },
+    "2805915": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2805915,
+        2809533
+      ],
+      "PlayerID": 2805915,
+      "PlayerName": "Blair Lehnert"
+    },
+    "2805916": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2805916,
+        2779197
+      ],
+      "PlayerID": 2805916,
+      "PlayerName": "jairo  contreras"
+    },
+    "2806307": {
+      "0": 2806307,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2806307
+      ],
+      "PlayerID": 2806307,
+      "PlayerName": "JUSTIN EISENHAURE"
+    },
+    "2806376": {
+      "0": 2806376,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2806376
+      ],
+      "PlayerID": 2806376,
+      "PlayerName": "Alan Fahrenholz"
+    },
+    "2806466": {
+      "0": 2806466,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17389",
+      "Matches": [
+        2806466
+      ],
+      "PlayerID": 2806466,
+      "PlayerName": "Charlie McCormick"
+    },
+    "2806973": {
+      "0": 2806973,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "20.0000"
+      },
+      "LocationID": "15771",
+      "Matches": [
+        2806973
+      ],
+      "PlayerID": 2806973,
+      "PlayerName": "Thomas Seymour"
+    },
+    "2806981": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2806981,
+        2706197
+      ],
+      "PlayerID": 2806981,
+      "PlayerName": "Alan Pouyat"
+    },
+    "2806988": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2806988,
+        1417615,
+        1739968,
+        2644508
+      ],
+      "PlayerID": 2806988,
+      "PlayerName": "Brad Thompson"
+    },
+    "2808434": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "13251",
+      "Matches": [
+        2808434,
+        2704717,
+        1065283,
+        2618586,
+        1262575
+      ],
+      "PlayerID": 2808434,
+      "PlayerName": "Fernando  Santos"
+    },
+    "2808450": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15319",
+      "Matches": [
+        2808450,
+        2651004,
+        1039163
+      ],
+      "PlayerID": 2808450,
+      "PlayerName": "Steve Halloran"
+    },
+    "2808451": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2808451,
+        1042701,
+        2655328,
+        2654645,
+        1740006
+      ],
+      "PlayerID": 2808451,
+      "PlayerName": "Henry Fishman"
+    },
+    "2808498": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "0",
+      "Matches": [
+        2808498,
+        1029817,
+        2794578,
+        2644408,
+        2734411
+      ],
+      "PlayerID": 2808498,
+      "PlayerName": "Merrick Rosner"
+    },
+    "2808646": {
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "13.5000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2808646,
+        2652019,
+        2670805,
+        2618585,
+        2715077
+      ],
+      "PlayerID": 2808646,
+      "PlayerName": "Patrick Kelly"
+    },
+    "2810028": {
+      "0": 2810028,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2810028
+      ],
+      "PlayerID": 2810028,
+      "PlayerName": "Craig Tini"
+    },
+    "2810336": {
+      "0": 2810336,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2810336
+      ],
+      "PlayerID": 2810336,
+      "PlayerName": "David Camera "
+    },
+    "2810357": {
+      "0": 2810357,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2810357
+      ],
+      "PlayerID": 2810357,
+      "PlayerName": "Kent Griffiths"
+    },
+    "2810366": {
+      "0": 2810366,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17388",
+      "Matches": [
+        2810366
+      ],
+      "PlayerID": 2810366,
+      "PlayerName": "Greg  Honey"
+    },
+    "2810601": {
+      "0": 2810601,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "17390",
+      "Matches": [
+        2810601
+      ],
+      "PlayerID": 2810601,
+      "PlayerName": "Tom O'Brien"
+    },
+    "2810663": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810663
+      ],
+      "PlayerID": 2810663,
+      "PlayerName": "Kate McHugh"
+    },
+    "2810665": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810665
+      ],
+      "PlayerID": 2810665,
+      "PlayerName": "Emma Tryon"
+    },
+    "2810669": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810669
+      ],
+      "PlayerID": 2810669,
+      "PlayerName": "Kristen Feld"
+    },
+    "2810670": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810670
+      ],
+      "PlayerID": 2810670,
+      "PlayerName": "Lisa Patrick"
+    },
+    "2810671": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810671
+      ],
+      "PlayerID": 2810671,
+      "PlayerName": "Carrie Cerrato"
+    },
+    "2810672": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810672
+      ],
+      "PlayerID": 2810672,
+      "PlayerName": "Val Sorensen"
+    },
+    "2810679": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810679
+      ],
+      "PlayerID": 2810679,
+      "PlayerName": "Ken Levine"
+    },
+    "2810681": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810681
+      ],
+      "PlayerID": 2810681,
+      "PlayerName": "Alex Heyniger"
+    },
+    "2810682": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810682
+      ],
+      "PlayerID": 2810682,
+      "PlayerName": "Adam Cohen"
+    },
+    "2810720": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810720
+      ],
+      "PlayerID": 2810720,
+      "PlayerName": "Fred Krieble"
+    },
+    "2810721": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810721
+      ],
+      "PlayerID": 2810721,
+      "PlayerName": "Kyle Leonard"
+    },
+    "2810722": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810722
+      ],
+      "PlayerID": 2810722,
+      "PlayerName": "Heather Leonard"
+    },
+    "2810724": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810724
+      ],
+      "PlayerID": 2810724,
+      "PlayerName": "Brian McHugh"
+    },
+    "2810725": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "30.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810725
+      ],
+      "PlayerID": 2810725,
+      "PlayerName": "Dave Patrick"
+    },
+    "2810726": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810726
+      ],
+      "PlayerID": 2810726,
+      "PlayerName": "Tom Brown"
+    },
+    "2810728": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "60.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810728
+      ],
+      "PlayerID": 2810728,
+      "PlayerName": "Winnie Tantraporn"
+    },
+    "2810737": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "60.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810737
+      ],
+      "PlayerID": 2810737,
+      "PlayerName": "Kelly Tantraporn"
+    },
+    "2810743": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810743
+      ],
+      "PlayerID": 2810743,
+      "PlayerName": "John Lavery"
+    },
+    "2810744": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810744
+      ],
+      "PlayerID": 2810744,
+      "PlayerName": "Jaime Lavery"
+    },
+    "2810745": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810745
+      ],
+      "PlayerID": 2810745,
+      "PlayerName": "Ted Potters"
+    },
+    "2810747": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810747
+      ],
+      "PlayerID": 2810747,
+      "PlayerName": "Monica Curtis"
+    },
+    "2810748": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810748
+      ],
+      "PlayerID": 2810748,
+      "PlayerName": "Patrick Curtis"
+    },
+    "2810749": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810749
+      ],
+      "PlayerID": 2810749,
+      "PlayerName": "Mike Sorensen"
+    },
+    "2810750": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "70.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810750
+      ],
+      "PlayerID": 2810750,
+      "PlayerName": "Jane Zigman"
+    },
+    "2810751": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810751
+      ],
+      "PlayerID": 2810751,
+      "PlayerName": "Josh Zigman"
+    },
+    "2810753": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810753
+      ],
+      "PlayerID": 2810753,
+      "PlayerName": "Stuart Carlisle"
+    },
+    "2810754": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810754
+      ],
+      "PlayerID": 2810754,
+      "PlayerName": "Kathanne Fowler"
+    },
+    "2810755": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "65.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810755
+      ],
+      "PlayerID": 2810755,
+      "PlayerName": "Melissa McCullough"
+    },
+    "2810756": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2810756
+      ],
+      "PlayerID": 2810756,
+      "PlayerName": "Dave McCullough"
+    },
+    "2813483": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813483
+      ],
+      "PlayerID": 2813483,
+      "PlayerName": "Peppie Wagner"
+    },
+    "2813484": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813484
+      ],
+      "PlayerID": 2813484,
+      "PlayerName": "Henry Krieble"
+    },
+    "2813485": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813485
+      ],
+      "PlayerID": 2813485,
+      "PlayerName": "Locke Burnette"
+    },
+    "2813486": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813486
+      ],
+      "PlayerID": 2813486,
+      "PlayerName": "Ben Towne"
+    },
+    "2813487": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813487
+      ],
+      "PlayerID": 2813487,
+      "PlayerName": "James O'Sullivan"
+    },
+    "2813488": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813488
+      ],
+      "PlayerID": 2813488,
+      "PlayerName": "Joe Parets"
+    },
+    "2813490": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813490
+      ],
+      "PlayerID": 2813490,
+      "PlayerName": "Max Lee"
+    },
+    "2813491": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813491
+      ],
+      "PlayerID": 2813491,
+      "PlayerName": "Jay Sarzen"
+    },
+    "2813492": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813492
+      ],
+      "PlayerID": 2813492,
+      "PlayerName": "Ted Whitemore"
+    },
+    "2813494": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813494
+      ],
+      "PlayerID": 2813494,
+      "PlayerName": "John Reiss"
+    },
+    "2813495": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813495
+      ],
+      "PlayerID": 2813495,
+      "PlayerName": "Oakley Duryea"
+    },
+    "2813496": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "35.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813496
+      ],
+      "PlayerID": 2813496,
+      "PlayerName": "Steve Repka"
+    },
+    "2813497": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813497
+      ],
+      "PlayerID": 2813497,
+      "PlayerName": "John Maciag"
+    },
+    "2813498": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "40.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813498
+      ],
+      "PlayerID": 2813498,
+      "PlayerName": "Andy Kohnke"
+    },
+    "2813499": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "50.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813499
+      ],
+      "PlayerID": 2813499,
+      "PlayerName": "Andrew Cochran"
+    },
+    "2813501": {
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "55.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2813501
+      ],
+      "PlayerID": 2813501,
+      "PlayerName": "Mike Ross"
+    }
+  }
+}

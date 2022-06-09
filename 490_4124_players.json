@@ -1,0 +1,45 @@
+{
+  "Users": {
+    "0": {
+      "0": 0,
+      "Gender": null,
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": null,
+      "Matches": [
+        0
+      ],
+      "PlayerID": 0,
+      "PlayerName": " "
+    },
+    "2806881": {
+      "0": 2806881,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15861",
+      "Matches": [
+        2806881
+      ],
+      "PlayerID": 2806881,
+      "PlayerName": "Karen Aranow"
+    },
+    "2806887": {
+      "0": 2806887,
+      "1": 2821789,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "15861",
+      "Matches": [
+        2806887,
+        2821789
+      ],
+      "PlayerID": 2806887,
+      "PlayerName": "Kate Beichner"
+    }
+  }
+}

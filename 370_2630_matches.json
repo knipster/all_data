@@ -1,0 +1,3903 @@
+{
+  "Matches": [
+    {
+      "ScheduleID": "1387806",
+      "Date": "1452786300",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51577",
+      "Team2ID": "51576",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5516636",
+          "LineNumber": "1",
+          "Player1HName": "Suzanne Sadek",
+          "Player2HName": "Kerry Wysocki",
+          "Player1AName": "Julie Garcia",
+          "Player2AName": "Heather Mylod",
+          "Player1HELOStart": "52.2300",
+          "Player2HELOStart": "56.9200",
+          "Player1AELOStart": "40.3400",
+          "Player2AELOStart": "51.4300",
+          "Player1HELOEnd": "52.0649",
+          "Player2HELOEnd": "56.7549",
+          "Player1AELOEnd": "40.5051",
+          "Player2AELOEnd": "51.7051",
+          "Player1HELOScale": "0.6788",
+          "Player2HELOScale": "0.6788",
+          "Player1AELOScale": "0.6788",
+          "Player2AELOScale": "1.1313",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "75.0000",
+          "Player1HID": "916025",
+          "Player2HID": "916041",
+          "Player1AID": "916029",
+          "Player2AID": "916023",
+          "Winner": "2",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "16001046",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001047",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001048",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387807",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51579",
+      "Team2ID": "51578",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490224",
+          "LineNumber": "1",
+          "Player1HName": "Maureen Cosgrove",
+          "Player2HName": "Jeanine Lunghamer",
+          "Player1AName": "Brier Neel",
+          "Player2AName": "Ronnie O'Hara",
+          "Player1HELOStart": "50.1400",
+          "Player2HELOStart": "47.2700",
+          "Player1AELOStart": "46.7500",
+          "Player2AELOStart": "52.6800",
+          "Player1HELOEnd": "49.6383",
+          "Player2HELOEnd": "46.6680",
+          "Player1AELOEnd": "47.1112",
+          "Player2AELOEnd": "53.0412",
+          "Player1HELOScale": "1.0417",
+          "Player2HELOScale": "1.2500",
+          "Player1AELOScale": "0.7500",
+          "Player2AELOScale": "0.7500",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "75.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916022",
+          "Player2HID": "916033",
+          "Player1AID": "917062",
+          "Player2AID": "916030",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15920540",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920541",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920542",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387808",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51581",
+      "Team2ID": "51580",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511596",
+          "LineNumber": "1",
+          "Player1HName": "Kelly Patterson",
+          "Player2HName": "Louise Stubbs",
+          "Player1AName": "Cathy Gregory",
+          "Player2AName": "Marty Priest",
+          "Player1HELOStart": "50.4200",
+          "Player2HELOStart": "50.8700",
+          "Player1AELOStart": "62.8500",
+          "Player2AELOStart": "58.1100",
+          "Player1HELOEnd": "50.4659",
+          "Player2HELOEnd": "50.9159",
+          "Player1AELOEnd": "62.7491",
+          "Player2AELOEnd": "58.0274",
+          "Player1HELOScale": "0.2078",
+          "Player2HELOScale": "0.2078",
+          "Player1AELOScale": "0.4572",
+          "Player2AELOScale": "0.3741",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "62.5000",
+          "Player2AELOConfidence": "75.0000",
+          "Player1HID": "917064",
+          "Player2HID": "917061",
+          "Player1AID": "916071",
+          "Player2AID": "916042",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15985971",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15985972",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15985973",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387809",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51579",
+      "Team2ID": "51576",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511872",
+          "LineNumber": "1",
+          "Player1HName": "Maureen Cosgrove",
+          "Player2HName": "Jeanine Lunghamer",
+          "Player1AName": "Julie Garcia",
+          "Player2AName": "Heather Mylod",
+          "Player1HELOStart": "49.6383",
+          "Player2HELOStart": "46.6680",
+          "Player1AELOStart": "40.5051",
+          "Player2AELOStart": "51.7051",
+          "Player1HELOEnd": "49.9253",
+          "Player2HELOEnd": "47.0370",
+          "Player1AELOEnd": "40.2181",
+          "Player2AELOEnd": "51.3361",
+          "Player1HELOScale": "0.8750",
+          "Player2HELOScale": "1.1250",
+          "Player1AELOScale": "0.8750",
+          "Player2AELOScale": "1.1250",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "87.5000",
+          "Player1HID": "916022",
+          "Player2HID": "916033",
+          "Player1AID": "916029",
+          "Player2AID": "916023",
+          "Winner": "2",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15986802",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986803",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986804",
+              "SetNumber": "3",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387810",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51581",
+      "Team2ID": "51578",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511837",
+          "LineNumber": "1",
+          "Player1HName": "Louise Stubbs",
+          "Player2HName": "Kelly Patterson",
+          "Player1AName": "Brier Neel",
+          "Player2AName": "Ronnie O'Hara",
+          "Player1HELOStart": "50.9159",
+          "Player2HELOStart": "50.4659",
+          "Player1AELOStart": "47.1112",
+          "Player2AELOStart": "53.0412",
+          "Player1HELOEnd": "50.1935",
+          "Player2HELOEnd": "49.7435",
+          "Player1AELOEnd": "47.8336",
+          "Player2AELOEnd": "53.7636",
+          "Player1HELOScale": "1.0000",
+          "Player2HELOScale": "1.0000",
+          "Player1AELOScale": "1.0000",
+          "Player2AELOScale": "1.0000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "917061",
+          "Player2HID": "917064",
+          "Player1AID": "917062",
+          "Player2AID": "916030",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15986697",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986698",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986699",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387811",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51582",
+      "Team2ID": "51577",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490239",
+          "LineNumber": "1",
+          "Player1HName": "Mary Ellen Miller",
+          "Player2HName": "Jinny Runkle",
+          "Player1AName": "Suzanne Sadek",
+          "Player2AName": "Kerry Wysocki",
+          "Player1HELOStart": "50.2400",
+          "Player2HELOStart": "54.1300",
+          "Player1AELOStart": "52.0649",
+          "Player2AELOStart": "56.7549",
+          "Player1HELOEnd": "50.0608",
+          "Player2HELOEnd": "53.8740",
+          "Player1AELOEnd": "52.2185",
+          "Player2AELOEnd": "56.9085",
+          "Player1HELOScale": "0.8750",
+          "Player2HELOScale": "1.2500",
+          "Player1AELOScale": "0.7500",
+          "Player2AELOScale": "0.7500",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "75.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916031",
+          "Player2HID": "917068",
+          "Player1AID": "916025",
+          "Player2AID": "916041",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15920597",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920598",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920599",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387812",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51582",
+      "Team2ID": "51578",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5512247",
+          "LineNumber": "1",
+          "Player1HName": "Mary Ellen Miller",
+          "Player2HName": "Jinny Runkle",
+          "Player1AName": "Brier Neel",
+          "Player2AName": "Ronnie O'Hara",
+          "Player1HELOStart": "50.0608",
+          "Player2HELOStart": "53.8740",
+          "Player1AELOStart": "47.8336",
+          "Player2AELOStart": "53.3956",
+          "Player1HELOEnd": "50.5564",
+          "Player2HELOEnd": "54.5112",
+          "Player1AELOEnd": "47.3380",
+          "Player2AELOEnd": "52.9000",
+          "Player1HELOScale": "0.8750",
+          "Player2HELOScale": "1.1250",
+          "Player1AELOScale": "0.8750",
+          "Player2AELOScale": "0.8750",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916031",
+          "Player2HID": "917068",
+          "Player1AID": "917062",
+          "Player2AID": "916030",
+          "Winner": "2",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15987927",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15987928",
+              "SetNumber": "2",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15987929",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387813",
+      "Date": "1453995900",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51577",
+      "Team2ID": "51580",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5529969",
+          "LineNumber": "1",
+          "Player1HName": "Suzanne Sadek",
+          "Player2HName": "Kerry Wysocki",
+          "Player1AName": "Cathy Gregory",
+          "Player2AName": "Marty Priest",
+          "Player1HELOStart": "52.2185",
+          "Player2HELOStart": "56.9085",
+          "Player1AELOStart": "62.7491",
+          "Player2AELOStart": "58.0274",
+          "Player1HELOEnd": "52.2185",
+          "Player2HELOEnd": "56.9085",
+          "Player1AELOEnd": "62.7491",
+          "Player2AELOEnd": "58.0274",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "916025",
+          "Player2HID": "916041",
+          "Player1AID": "916071",
+          "Player2AID": "916042",
+          "Winner": "7",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "16041971",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16041972",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16041973",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387814",
+      "Date": "1453995900",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51581",
+      "Team2ID": "51579",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515169",
+          "LineNumber": "1",
+          "Player1HName": "Louise Stubbs",
+          "Player2HName": "Kelly Patterson",
+          "Player1AName": "Maureen Cosgrove",
+          "Player2AName": "Jeanine Lunghamer",
+          "Player1HELOStart": "50.1935",
+          "Player2HELOStart": "49.7435",
+          "Player1AELOStart": "49.9253",
+          "Player2AELOStart": "47.0370",
+          "Player1HELOEnd": "49.4247",
+          "Player2HELOEnd": "48.9747",
+          "Player1AELOEnd": "50.6941",
+          "Player2AELOEnd": "47.8058",
+          "Player1HELOScale": "1.0000",
+          "Player2HELOScale": "1.0000",
+          "Player1AELOScale": "1.0000",
+          "Player2AELOScale": "1.0000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "917061",
+          "Player2HID": "917064",
+          "Player1AID": "916022",
+          "Player2AID": "916033",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15996639",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996640",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996641",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387816",
+      "Date": "1454600700",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51582",
+      "Team2ID": "51576",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515518",
+          "LineNumber": "1",
+          "Player1HName": "Mary Ellen Miller",
+          "Player2HName": "Jinny Runkle",
+          "Player1AName": "Julie Garcia",
+          "Player2AName": "Heather Mylod",
+          "Player1HELOStart": "50.5600",
+          "Player2HELOStart": "54.5100",
+          "Player1AELOStart": "40.2200",
+          "Player2AELOStart": "51.3400",
+          "Player1HELOEnd": "50.5392",
+          "Player2HELOEnd": "54.4892",
+          "Player1AELOEnd": "40.2408",
+          "Player2AELOEnd": "51.3608",
+          "Player1HELOScale": "1.0000",
+          "Player2HELOScale": "1.0000",
+          "Player1AELOScale": "1.0000",
+          "Player2AELOScale": "1.0000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916031",
+          "Player2HID": "917068",
+          "Player1AID": "916029",
+          "Player2AID": "916023",
+          "Winner": "2",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15997686",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997687",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997688",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387817",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51577",
+      "Team2ID": "51578",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5516850",
+          "LineNumber": "1",
+          "Player1HName": "Suzanne Sadek",
+          "Player2HName": "Kerry Wysocki",
+          "Player1AName": "Brier Neel",
+          "Player2AName": "Ronnie O'Hara",
+          "Player1HELOStart": "52.2200",
+          "Player2HELOStart": "56.9100",
+          "Player1AELOStart": "47.3400",
+          "Player2AELOStart": "52.9000",
+          "Player1HELOEnd": "51.1352",
+          "Player2HELOEnd": "55.8252",
+          "Player1AELOEnd": "48.4248",
+          "Player2AELOEnd": "53.9848",
+          "Player1HELOScale": "1.0000",
+          "Player2HELOScale": "1.0000",
+          "Player1AELOScale": "1.0000",
+          "Player2AELOScale": "1.0000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916025",
+          "Player2HID": "916041",
+          "Player1AID": "917062",
+          "Player2AID": "916030",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "16001688",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001689",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001690",
+              "SetNumber": "3",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387818",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51579",
+      "Team2ID": "51580",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515174",
+          "LineNumber": "1",
+          "Player1HName": "Maureen Cosgrove",
+          "Player2HName": "Jeanine Lunghamer",
+          "Player1AName": "Cathy Gregory",
+          "Player2AName": "Marty Priest",
+          "Player1HELOStart": "50.6900",
+          "Player2HELOStart": "47.8100",
+          "Player1AELOStart": "62.7500",
+          "Player2AELOStart": "58.0300",
+          "Player1HELOEnd": "50.6900",
+          "Player2HELOEnd": "47.8100",
+          "Player1AELOEnd": "62.7500",
+          "Player2AELOEnd": "58.0300",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "916022",
+          "Player2HID": "916033",
+          "Player1AID": "916071",
+          "Player2AID": "916042",
+          "Winner": "1",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "15996654",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996655",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996656",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387819",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51580",
+      "Team2ID": "51576",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5529996",
+          "LineNumber": "1",
+          "Player1HName": "Marty Priest",
+          "Player2HName": "Ronnie O'Hara",
+          "Player1AName": "Julie Garcia",
+          "Player2AName": "Heather Mylod",
+          "Player1HELOStart": "58.0300",
+          "Player2HELOStart": "53.9848",
+          "Player1AELOStart": "40.2408",
+          "Player2AELOStart": "51.3608",
+          "Player1HELOEnd": "57.9736",
+          "Player2HELOEnd": "53.9410",
+          "Player1AELOEnd": "40.2846",
+          "Player2AELOEnd": "51.4046",
+          "Player1HELOScale": "0.1650",
+          "Player2HELOScale": "0.1284",
+          "Player1AELOScale": "0.1284",
+          "Player2AELOScale": "0.1284",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916042",
+          "Player2HID": "916030",
+          "Player1AID": "916029",
+          "Player2AID": "916023",
+          "Winner": "2",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "16042052",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16042053",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16042054",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387820",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51582",
+      "Team2ID": "51581",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5584019",
+          "LineNumber": "1",
+          "Player1HName": "Mary Ellen Miller",
+          "Player2HName": "Jinny Runkle",
+          "Player1AName": "Louise Stubbs",
+          "Player2AName": "Kelly Patterson",
+          "Player1HELOStart": "50.5392",
+          "Player2HELOStart": "54.4892",
+          "Player1AELOStart": "49.4200",
+          "Player2AELOStart": "48.9700",
+          "Player1HELOEnd": "50.5392",
+          "Player2HELOEnd": "54.4892",
+          "Player1AELOEnd": "49.4200",
+          "Player2AELOEnd": "48.9700",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "916031",
+          "Player2HID": "917068",
+          "Player1AID": "917061",
+          "Player2AID": "917064",
+          "Winner": "6",
+          "DivisionID": "6596",
+          "Sets": [
+            {
+              "SetID": "16204912",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16204913",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16204914",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387821",
+      "Date": "1455205500",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51577",
+      "Team2ID": "51579",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387822",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51678",
+      "Team2ID": "51683",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490225",
+          "LineNumber": "1",
+          "Player1HName": "Sarah Dodge",
+          "Player2HName": "Janice Verschuren",
+          "Player1AName": "Jackie Albertie",
+          "Player2AName": "Nicole Gryzenia",
+          "Player1HELOStart": "61.4600",
+          "Player2HELOStart": "54.8800",
+          "Player1AELOStart": "63.1200",
+          "Player2AELOStart": "63.6200",
+          "Player1HELOEnd": "62.6826",
+          "Player2HELOEnd": "56.1026",
+          "Player1AELOEnd": "62.5236",
+          "Player2AELOEnd": "61.8308",
+          "Player1HELOScale": "1.0250",
+          "Player2HELOScale": "1.0250",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "1.5000",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "75.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "50.0000",
+          "Player1HID": "916038",
+          "Player2HID": "916039",
+          "Player1AID": "916074",
+          "Player2AID": "916073",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15920543",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920544",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920545",
+              "SetNumber": "3",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387823",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51682",
+      "Team2ID": "51680",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511597",
+          "LineNumber": "1",
+          "Player1HName": "Lynn Middleton",
+          "Player2HName": "Patricia Steffes",
+          "Player1AName": "Alyson Brown",
+          "Player2AName": "Anne Monnich",
+          "Player1HELOStart": "59.9100",
+          "Player2HELOStart": "58.2400",
+          "Player1AELOStart": "60.0000",
+          "Player2AELOStart": "60.0000",
+          "Player1HELOEnd": "59.6584",
+          "Player2HELOEnd": "58.1142",
+          "Player1AELOEnd": "60.9435",
+          "Player2AELOEnd": "60.9435",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.2500",
+          "Player1AELOScale": "1.8750",
+          "Player2AELOScale": "1.8750",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "12.5000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "916047",
+          "Player2HID": "916049",
+          "Player1AID": "931350",
+          "Player2AID": "931347",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15985974",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15985975",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15985976",
+              "SetNumber": "3",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387824",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51679",
+      "Team2ID": "51677",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5489053",
+          "LineNumber": "1",
+          "Player1HName": "Julie Jenney",
+          "Player2HName": "Mary Nunez",
+          "Player1AName": "Elizabeth Guz",
+          "Player2AName": "Claire Mehta",
+          "Player1HELOStart": "62.8500",
+          "Player2HELOStart": "63.7300",
+          "Player1AELOStart": "66.8300",
+          "Player2AELOStart": "60.0000",
+          "Player1HELOEnd": "62.6208",
+          "Player2HELOEnd": "62.9660",
+          "Player1AELOEnd": "67.0592",
+          "Player2AELOEnd": "61.7190",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "0.8333",
+          "Player1AELOScale": "0.2500",
+          "Player2AELOScale": "1.8750",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "50.0000",
+          "Player1AELOConfidence": "75.0000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "916048",
+          "Player2HID": "916051",
+          "Player1AID": "916069",
+          "Player2AID": "931352",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15916691",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916692",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916693",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387825",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51676",
+      "Team2ID": "51681",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490226",
+          "LineNumber": "1",
+          "Player1HName": "Pamela Mannion",
+          "Player2HName": "Sue Werthmann",
+          "Player1AName": "Jenni Hatcher",
+          "Player2AName": "Tracy Woods",
+          "Player1HELOStart": "57.8400",
+          "Player2HELOStart": "56.7100",
+          "Player1AELOStart": "57.9500",
+          "Player2AELOStart": "62.8400",
+          "Player1HELOEnd": "57.5530",
+          "Player2HELOEnd": "56.5091",
+          "Player1AELOEnd": "58.1509",
+          "Player2AELOEnd": "63.1270",
+          "Player1HELOScale": "1.2500",
+          "Player2HELOScale": "0.8750",
+          "Player1AELOScale": "0.8750",
+          "Player2AELOScale": "1.2500",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "87.5000",
+          "Player2AELOConfidence": "75.0000",
+          "Player1HID": "916043",
+          "Player2HID": "917088",
+          "Player1AID": "916050",
+          "Player2AID": "916052",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15920546",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920547",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920548",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387826",
+      "Date": "1452786300",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51685",
+      "Team2ID": "51684",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490232",
+          "LineNumber": "1",
+          "Player1HName": "Elyse Germack",
+          "Player2HName": "Julie Hamaty",
+          "Player1AName": "Lisa  Mencotti",
+          "Player2AName": "Ann Marie Nadolski",
+          "Player1HELOStart": "73.5600",
+          "Player2HELOStart": "64.0600",
+          "Player1AELOStart": "57.8800",
+          "Player2AELOStart": "60.0000",
+          "Player1HELOEnd": "73.5951",
+          "Player2HELOEnd": "64.0678",
+          "Player1AELOEnd": "57.8761",
+          "Player2AELOEnd": "59.9415",
+          "Player1HELOScale": "0.3544",
+          "Player2HELOScale": "0.0787",
+          "Player1AELOScale": "0.0394",
+          "Player2AELOScale": "0.5906",
+          "Player1HELOConfidence": "37.5000",
+          "Player2HELOConfidence": "75.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "917629",
+          "Player2HID": "916060",
+          "Player1AID": "916036",
+          "Player2AID": "931351",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15920564",
+              "SetNumber": "1",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920565",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920566",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387827",
+      "Date": "1453391100",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51676",
+      "Team2ID": "51682",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490251",
+          "LineNumber": "1",
+          "Player1HName": "Pamela Mannion",
+          "Player2HName": "Sue Werthmann",
+          "Player1AName": "Lynn Middleton",
+          "Player2AName": "Patricia Steffes",
+          "Player1HELOStart": "57.5530",
+          "Player2HELOStart": "56.5091",
+          "Player1AELOStart": "59.6584",
+          "Player2AELOStart": "58.1142",
+          "Player1HELOEnd": "58.7662",
+          "Player2HELOEnd": "57.4527",
+          "Player1AELOEnd": "58.4452",
+          "Player2AELOEnd": "57.1706",
+          "Player1HELOScale": "1.1250",
+          "Player2HELOScale": "0.8750",
+          "Player1AELOScale": "1.1250",
+          "Player2AELOScale": "0.8750",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "87.5000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916043",
+          "Player2HID": "917088",
+          "Player1AID": "916047",
+          "Player2AID": "916049",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15920645",
+              "SetNumber": "1",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920646",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920647",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387828",
+      "Date": "1453391100",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51680",
+      "Team2ID": "51683",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5512759",
+          "LineNumber": "1",
+          "Player1HName": "Alyson Brown",
+          "Player2HName": "Anne Monnich",
+          "Player1AName": "Jackie Albertie",
+          "Player2AName": "Nicole Gryzenia",
+          "Player1HELOStart": "60.9435",
+          "Player2HELOStart": "60.9435",
+          "Player1AELOStart": "62.5236",
+          "Player2AELOStart": "61.8308",
+          "Player1HELOEnd": "62.2301",
+          "Player2HELOEnd": "62.2301",
+          "Player1AELOEnd": "62.3398",
+          "Player2AELOEnd": "61.5551",
+          "Player1HELOScale": "1.7500",
+          "Player2HELOScale": "1.7500",
+          "Player1AELOScale": "0.2500",
+          "Player2AELOScale": "0.3750",
+          "Player1HELOConfidence": "25.0000",
+          "Player2HELOConfidence": "25.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "62.5000",
+          "Player1HID": "931350",
+          "Player2HID": "931347",
+          "Player1AID": "916074",
+          "Player2AID": "916073",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15989463",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15989464",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15989465",
+              "SetNumber": "3",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387829",
+      "Date": "1453391100",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51684",
+      "Team2ID": "51678",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490249",
+          "LineNumber": "1",
+          "Player1HName": "Lisa  Mencotti",
+          "Player2HName": "Ann Marie Nadolski",
+          "Player1AName": "Sarah Dodge",
+          "Player2AName": "Janice Verschuren",
+          "Player1HELOStart": "57.8761",
+          "Player2HELOStart": "59.9415",
+          "Player1AELOStart": "62.6826",
+          "Player2AELOStart": "56.1026",
+          "Player1HELOEnd": "57.6357",
+          "Player2HELOEnd": "58.2587",
+          "Player1AELOEnd": "63.0432",
+          "Player2AELOEnd": "56.4632",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "1.7500",
+          "Player1AELOScale": "0.3750",
+          "Player2AELOScale": "0.3750",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "25.0000",
+          "Player1AELOConfidence": "87.5000",
+          "Player2AELOConfidence": "87.5000",
+          "Player1HID": "916036",
+          "Player2HID": "931351",
+          "Player1AID": "916038",
+          "Player2AID": "916039",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15920639",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920640",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920641",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387830",
+      "Date": "1453391100",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51679",
+      "Team2ID": "51685",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511599",
+          "LineNumber": "1",
+          "Player1HName": "Julie Jenney",
+          "Player2HName": "Mary Nunez",
+          "Player1AName": "Elyse Germack",
+          "Player2AName": "Ronnie O'Hara",
+          "Player1HELOStart": "62.6208",
+          "Player2HELOStart": "62.9660",
+          "Player1AELOStart": "73.5951",
+          "Player2AELOStart": "53.7636",
+          "Player1HELOEnd": "63.0808",
+          "Player2HELOEnd": "63.7940",
+          "Player1AELOEnd": "72.4911",
+          "Player2AELOEnd": "53.3956",
+          "Player1HELOScale": "0.6250",
+          "Player2HELOScale": "1.1250",
+          "Player1AELOScale": "1.5000",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "62.5000",
+          "Player1AELOConfidence": "50.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916048",
+          "Player2HID": "916051",
+          "Player1AID": "917629",
+          "Player2AID": "916030",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15985980",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "7",
+              "T2TieBreak": "5"
+            },
+            {
+              "SetID": "15985981",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15985982",
+              "SetNumber": "3",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387831",
+      "Date": "1453391100",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51681",
+      "Team2ID": "51677",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490250",
+          "LineNumber": "1",
+          "Player1HName": "Jenni Hatcher",
+          "Player2HName": "Tracy Woods",
+          "Player1AName": "Elizabeth Guz",
+          "Player2AName": "Claire Mehta",
+          "Player1HELOStart": "58.1509",
+          "Player2HELOStart": "63.1270",
+          "Player1AELOStart": "67.0592",
+          "Player2AELOStart": "61.7190",
+          "Player1HELOEnd": "58.0897",
+          "Player2HELOEnd": "62.9827",
+          "Player1AELOEnd": "67.2035",
+          "Player2AELOEnd": "62.1474",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "0.5893",
+          "Player1AELOScale": "0.5893",
+          "Player2AELOScale": "1.7500",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "87.5000",
+          "Player2AELOConfidence": "25.0000",
+          "Player1HID": "916050",
+          "Player2HID": "916052",
+          "Player1AID": "916069",
+          "Player2AID": "931352",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15920642",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920643",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920644",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387832",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51682",
+      "Team2ID": "51683",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511910",
+          "LineNumber": "1",
+          "Player1HName": "Lynn Middleton",
+          "Player2HName": "Patricia Steffes",
+          "Player1AName": "Jackie Albertie",
+          "Player2AName": "Nicole Gryzenia",
+          "Player1HELOStart": "58.4452",
+          "Player2HELOStart": "57.1706",
+          "Player1AELOStart": "62.3398",
+          "Player2AELOStart": "61.5551",
+          "Player1HELOEnd": "58.2580",
+          "Player2HELOEnd": "56.9834",
+          "Player1AELOEnd": "62.5270",
+          "Player2AELOEnd": "61.8671",
+          "Player1HELOScale": "0.7500",
+          "Player2HELOScale": "0.7500",
+          "Player1AELOScale": "0.7500",
+          "Player2AELOScale": "1.2500",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "75.0000",
+          "Player1HID": "916047",
+          "Player2HID": "916049",
+          "Player1AID": "916074",
+          "Player2AID": "916073",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15986916",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986917",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986918",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387833",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51684",
+      "Team2ID": "51680",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511886",
+          "LineNumber": "1",
+          "Player1HName": "Lisa  Mencotti",
+          "Player2HName": "Ann Marie Nadolski",
+          "Player1AName": "Alyson Brown",
+          "Player2AName": "Anne Monnich",
+          "Player1HELOStart": "57.6357",
+          "Player2HELOStart": "58.2587",
+          "Player1AELOStart": "62.2301",
+          "Player2AELOStart": "62.2301",
+          "Player1HELOEnd": "57.4152",
+          "Player2HELOEnd": "57.3032",
+          "Player1AELOEnd": "63.1856",
+          "Player2AELOEnd": "63.1856",
+          "Player1HELOScale": "0.3750",
+          "Player2HELOScale": "1.6250",
+          "Player1AELOScale": "1.6250",
+          "Player2AELOScale": "1.6250",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "37.5000",
+          "Player1AELOConfidence": "37.5000",
+          "Player2AELOConfidence": "37.5000",
+          "Player1HID": "916036",
+          "Player2HID": "931351",
+          "Player1AID": "931350",
+          "Player2AID": "931347",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15986844",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986845",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986846",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387834",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51681",
+      "Team2ID": "51685",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5512331",
+          "LineNumber": "1",
+          "Player1HName": "Jenni Hatcher",
+          "Player2HName": "Tracy Woods",
+          "Player1AName": "Elyse Germack",
+          "Player2AName": "Julie Hamaty",
+          "Player1HELOStart": "58.0897",
+          "Player2HELOStart": "62.9827",
+          "Player1AELOStart": "72.4911",
+          "Player2AELOStart": "64.0678",
+          "Player1HELOEnd": "58.2112",
+          "Player2HELOEnd": "63.1042",
+          "Player1AELOEnd": "72.2238",
+          "Player2AELOEnd": "63.8856",
+          "Player1HELOScale": "0.6250",
+          "Player2HELOScale": "0.6250",
+          "Player1AELOScale": "1.3750",
+          "Player2AELOScale": "0.9375",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "62.5000",
+          "Player2AELOConfidence": "87.5000",
+          "Player1HID": "916050",
+          "Player2HID": "916052",
+          "Player1AID": "917629",
+          "Player2AID": "916060",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15988179",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15988180",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "7",
+              "T2TieBreak": "5"
+            },
+            {
+              "SetID": "15988181",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387835",
+      "Date": "1453995900",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51676",
+      "Team2ID": "51677",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5499607",
+          "LineNumber": "1",
+          "Player1HName": "Pamela Mannion",
+          "Player2HName": "Sue Werthmann",
+          "Player1AName": "Elizabeth Guz",
+          "Player2AName": "Claire Mehta",
+          "Player1HELOStart": "58.7662",
+          "Player2HELOStart": "57.4527",
+          "Player1AELOStart": "67.2035",
+          "Player2AELOStart": "62.1474",
+          "Player1HELOEnd": "58.8010",
+          "Player2HELOEnd": "57.4875",
+          "Player1AELOEnd": "67.1687",
+          "Player2AELOEnd": "61.9966",
+          "Player1HELOScale": "0.3750",
+          "Player2HELOScale": "0.3750",
+          "Player1AELOScale": "0.3750",
+          "Player2AELOScale": "1.6250",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "37.5000",
+          "Player1HID": "916043",
+          "Player2HID": "917088",
+          "Player1AID": "916069",
+          "Player2AID": "931352",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15949145",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949146",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949147",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387836",
+      "Date": "1453995900",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51679",
+      "Team2ID": "51678",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5512820",
+          "LineNumber": "1",
+          "Player1HName": "Julie Jenney",
+          "Player2HName": "Mary Nunez",
+          "Player1AName": "Sarah Dodge",
+          "Player2AName": "Janice Verschuren",
+          "Player1HELOStart": "63.0808",
+          "Player2HELOStart": "63.7940",
+          "Player1AELOStart": "63.0432",
+          "Player2AELOStart": "56.4632",
+          "Player1HELOEnd": "62.0860",
+          "Player2HELOEnd": "62.1360",
+          "Player1AELOEnd": "64.0380",
+          "Player2AELOEnd": "57.4580",
+          "Player1HELOScale": "0.7500",
+          "Player2HELOScale": "1.2500",
+          "Player1AELOScale": "0.7500",
+          "Player2AELOScale": "0.7500",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "75.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916048",
+          "Player2HID": "916051",
+          "Player1AID": "916038",
+          "Player2AID": "916039",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15989646",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15989647",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15989648",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387837",
+      "Date": "1454600700",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51681",
+      "Team2ID": "51680",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5520500",
+          "LineNumber": "1",
+          "Player1HName": "Jenni Hatcher",
+          "Player2HName": "Tracy Woods",
+          "Player1AName": "Alyson Brown",
+          "Player2AName": "Anne Monnich",
+          "Player1HELOStart": "58.2100",
+          "Player2HELOStart": "63.1000",
+          "Player1AELOStart": "63.1900",
+          "Player2AELOStart": "63.1900",
+          "Player1HELOEnd": "58.0328",
+          "Player2HELOEnd": "62.9228",
+          "Player1AELOEnd": "63.7216",
+          "Player2AELOEnd": "63.7216",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "1.5000",
+          "Player2AELOScale": "1.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "50.0000",
+          "Player2AELOConfidence": "50.0000",
+          "Player1HID": "916050",
+          "Player2HID": "916052",
+          "Player1AID": "931350",
+          "Player2AID": "931347",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "16012785",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16012786",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16012787",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387838",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51684",
+      "Team2ID": "51683",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515220",
+          "LineNumber": "1",
+          "Player1HName": "Lisa  Mencotti",
+          "Player2HName": "Ann Marie Nadolski",
+          "Player1AName": "Jackie Albertie",
+          "Player2AName": "Nicole Gryzenia",
+          "Player1HELOStart": "57.4200",
+          "Player2HELOStart": "57.3000",
+          "Player1AELOStart": "62.5300",
+          "Player2AELOStart": "61.8700",
+          "Player1HELOEnd": "57.2828",
+          "Player2HELOEnd": "56.8884",
+          "Player1AELOEnd": "62.6672",
+          "Player2AELOEnd": "62.0415",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "1.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "0.6250",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "50.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "87.5000",
+          "Player1HID": "916036",
+          "Player2HID": "931351",
+          "Player1AID": "916074",
+          "Player2AID": "916073",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15996792",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996793",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996794",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387839",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51682",
+      "Team2ID": "51678",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515287",
+          "LineNumber": "1",
+          "Player1HName": "Lynn Middleton",
+          "Player2HName": "Patricia Steffes",
+          "Player1AName": "Sarah Dodge",
+          "Player2AName": "Janice Verschuren",
+          "Player1HELOStart": "58.2600",
+          "Player2HELOStart": "56.9800",
+          "Player1AELOStart": "64.0400",
+          "Player2AELOStart": "57.4600",
+          "Player1HELOEnd": "57.6416",
+          "Player2HELOEnd": "56.3616",
+          "Player1AELOEnd": "64.6584",
+          "Player2AELOEnd": "58.0784",
+          "Player1HELOScale": "1.0000",
+          "Player2HELOScale": "1.0000",
+          "Player1AELOScale": "1.0000",
+          "Player2AELOScale": "1.0000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916047",
+          "Player2HID": "916049",
+          "Player1AID": "916038",
+          "Player2AID": "916039",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15996993",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996994",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996995",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387840",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51685",
+      "Team2ID": "51677",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515221",
+          "LineNumber": "1",
+          "Player1HName": "Elyse Germack",
+          "Player2HName": "Julie Hamaty",
+          "Player1AName": "Elizabeth Guz",
+          "Player2AName": "Claire Mehta",
+          "Player1HELOStart": "72.2200",
+          "Player2HELOStart": "63.8900",
+          "Player1AELOStart": "67.1700",
+          "Player2AELOStart": "62.0000",
+          "Player1HELOEnd": "72.9203",
+          "Player2HELOEnd": "64.2316",
+          "Player1AELOEnd": "66.8284",
+          "Player2AELOEnd": "60.9752",
+          "Player1HELOScale": "1.0250",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "1.5000",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "50.0000",
+          "Player1HID": "917629",
+          "Player2HID": "916060",
+          "Player1AID": "916069",
+          "Player2AID": "931352",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15996795",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996796",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996797",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387841",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51679",
+      "Team2ID": "51676",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5512821",
+          "LineNumber": "1",
+          "Player1HName": "Julie Jenney",
+          "Player2HName": "Mary Nunez",
+          "Player1AName": "Pamela Mannion",
+          "Player2AName": "Sue Werthmann",
+          "Player1HELOStart": "62.0900",
+          "Player2HELOStart": "62.1400",
+          "Player1AELOStart": "58.8000",
+          "Player2AELOStart": "57.4900",
+          "Player1HELOEnd": "62.4617",
+          "Player2HELOEnd": "62.6179",
+          "Player1AELOEnd": "58.4283",
+          "Player2AELOEnd": "57.1183",
+          "Player1HELOScale": "0.8750",
+          "Player2HELOScale": "1.1250",
+          "Player1AELOScale": "0.8750",
+          "Player2AELOScale": "0.8750",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916048",
+          "Player2HID": "916051",
+          "Player1AID": "916043",
+          "Player2AID": "917088",
+          "Winner": "2",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "15989649",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15989650",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15989651",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387842",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51677",
+      "Team2ID": "51683",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387843",
+      "Date": "1455205500",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51680",
+      "Team2ID": "51678",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387844",
+      "Date": "1455205500",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51682",
+      "Team2ID": "51684",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5597931",
+          "LineNumber": "1",
+          "Player1HName": "Lynn Middleton",
+          "Player2HName": "Patricia Steffes",
+          "Player1AName": "Lisa  Mencotti",
+          "Player2AName": "Ann Marie Nadolski",
+          "Player1HELOStart": "57.6416",
+          "Player2HELOStart": "56.3616",
+          "Player1AELOStart": "57.2828",
+          "Player2AELOStart": "56.8884",
+          "Player1HELOEnd": "57.2511",
+          "Player2HELOEnd": "55.9711",
+          "Player1AELOEnd": "57.6733",
+          "Player2AELOEnd": "57.7475",
+          "Player1HELOScale": "0.6250",
+          "Player2HELOScale": "0.6250",
+          "Player1AELOScale": "0.6250",
+          "Player2AELOScale": "1.3750",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "62.5000",
+          "Player1HID": "916047",
+          "Player2HID": "916049",
+          "Player1AID": "916036",
+          "Player2AID": "931351",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "16247401",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16247402",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16247403",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387845",
+      "Date": "1455205500",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51681",
+      "Team2ID": "51679",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5555820",
+          "LineNumber": "1",
+          "Player1HName": "Jenni Hatcher",
+          "Player2HName": "Tracy Woods",
+          "Player1AName": "Julie Jenney",
+          "Player2AName": "Mary Nunez",
+          "Player1HELOStart": "58.0328",
+          "Player2HELOStart": "62.9228",
+          "Player1AELOStart": "62.4617",
+          "Player2AELOStart": "62.6179",
+          "Player1HELOEnd": "57.5280",
+          "Player2HELOEnd": "62.4180",
+          "Player1AELOEnd": "62.9665",
+          "Player2AELOEnd": "63.1227",
+          "Player1HELOScale": "1.0000",
+          "Player2HELOScale": "1.0000",
+          "Player1AELOScale": "1.0000",
+          "Player2AELOScale": "1.0000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916050",
+          "Player2HID": "916052",
+          "Player1AID": "916048",
+          "Player2AID": "916051",
+          "Winner": "1",
+          "DivisionID": "6597",
+          "Sets": [
+            {
+              "SetID": "16120080",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16120081",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16120082",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387846",
+      "Date": "1455205500",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51685",
+      "Team2ID": "51676",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387847",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51584",
+      "Team2ID": "51583",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490231",
+          "LineNumber": "1",
+          "Player1HName": "Amy Damon",
+          "Player2HName": "Sarah Edwards",
+          "Player1AName": "Sally Cottam",
+          "Player2AName": "Tia Lecland",
+          "Player1HELOStart": "71.8400",
+          "Player2HELOStart": "68.3100",
+          "Player1AELOStart": "64.1600",
+          "Player2AELOStart": "68.0000",
+          "Player1HELOEnd": "71.8877",
+          "Player2HELOEnd": "68.4090",
+          "Player1AELOEnd": "64.1380",
+          "Player2AELOEnd": "67.8350",
+          "Player1HELOScale": "0.5417",
+          "Player2HELOScale": "1.1250",
+          "Player1AELOScale": "0.2500",
+          "Player2AELOScale": "1.8750",
+          "Player1HELOConfidence": "62.5000",
+          "Player2HELOConfidence": "37.5000",
+          "Player1AELOConfidence": "75.0000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "916077",
+          "Player2HID": "921951",
+          "Player1AID": "917090",
+          "Player2AID": "928599",
+          "Winner": "2",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "15920561",
+              "SetNumber": "1",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920562",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920563",
+              "SetNumber": "3",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387848",
+      "Date": "1452781800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51586",
+      "Team2ID": "51585",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5489035",
+          "LineNumber": "1",
+          "Player1HName": "Laura Jerneycic",
+          "Player2HName": "Sarah French",
+          "Player1AName": "Janet Baccanari",
+          "Player2AName": "Helen French",
+          "Player1HELOStart": "71.5000",
+          "Player2HELOStart": "68.3000",
+          "Player1AELOStart": "68.0000",
+          "Player2AELOStart": "68.0000",
+          "Player1HELOEnd": "71.1802",
+          "Player2HELOEnd": "67.6604",
+          "Player1AELOEnd": "70.3985",
+          "Player2AELOEnd": "70.3985",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "1.8750",
+          "Player2AELOScale": "1.8750",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "75.0000",
+          "Player1AELOConfidence": "12.5000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "917105",
+          "Player2HID": "917097",
+          "Player1AID": "928602",
+          "Player2AID": "928604",
+          "Winner": "1",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "15916637",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916638",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916639",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387849",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51586",
+      "Team2ID": "51583",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5490258",
+          "LineNumber": "1",
+          "Player1HName": "Sarah French",
+          "Player2HName": "Laura Jerneycic",
+          "Player1AName": "Tia Lecland",
+          "Player2AName": "Sally Cottam",
+          "Player1HELOStart": "67.6604",
+          "Player2HELOStart": "71.1802",
+          "Player1AELOStart": "67.8350",
+          "Player2AELOStart": "64.1380",
+          "Player1HELOEnd": "68.0658",
+          "Player2HELOEnd": "71.3522",
+          "Player1AELOEnd": "66.6310",
+          "Player2AELOEnd": "63.7326",
+          "Player1HELOScale": "0.5893",
+          "Player2HELOScale": "0.2500",
+          "Player1AELOScale": "1.7500",
+          "Player2AELOScale": "0.5893",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "25.0000",
+          "Player2AELOConfidence": "87.5000",
+          "Player1HID": "917097",
+          "Player2HID": "917105",
+          "Player1AID": "928599",
+          "Player2AID": "917090",
+          "Winner": "2",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "15920678",
+              "SetNumber": "1",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920679",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15920680",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387850",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51584",
+      "Team2ID": "51587",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5499583",
+          "LineNumber": "1",
+          "Player1HName": "Amy Damon",
+          "Player2HName": "Sarah Edwards",
+          "Player1AName": "Lisette Keil",
+          "Player2AName": "Kelley Aldridge",
+          "Player1HELOStart": "71.8877",
+          "Player2HELOStart": "68.4090",
+          "Player1AELOStart": "65.3400",
+          "Player2AELOStart": "67.2600",
+          "Player1HELOEnd": "71.2107",
+          "Player2HELOEnd": "66.7842",
+          "Player1AELOEnd": "66.0170",
+          "Player2AELOEnd": "67.8016",
+          "Player1HELOScale": "0.6250",
+          "Player2HELOScale": "1.5000",
+          "Player1AELOScale": "0.6250",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "50.0000",
+          "Player1AELOConfidence": "75.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916077",
+          "Player2HID": "921951",
+          "Player1AID": "916062",
+          "Player2AID": "916064",
+          "Winner": "1",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "15949073",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949074",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949075",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387851",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51583",
+      "Team2ID": "51585",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5500404",
+          "LineNumber": "1",
+          "Player1HName": "Sally Cottam",
+          "Player2HName": "Tia Lecland",
+          "Player1AName": "Janet Baccanari",
+          "Player2AName": "Helen French",
+          "Player1HELOStart": "63.7326",
+          "Player2HELOStart": "66.6310",
+          "Player1AELOStart": "70.3985",
+          "Player2AELOStart": "70.3985",
+          "Player1HELOEnd": "63.6378",
+          "Player2HELOEnd": "66.0825",
+          "Player1AELOEnd": "71.0621",
+          "Player2AELOEnd": "71.0621",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "1.4464",
+          "Player1AELOScale": "1.7500",
+          "Player2AELOScale": "1.7500",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "37.5000",
+          "Player1AELOConfidence": "25.0000",
+          "Player2AELOConfidence": "25.0000",
+          "Player1HID": "917090",
+          "Player2HID": "928599",
+          "Player1AID": "928602",
+          "Player2AID": "928604",
+          "Winner": "1",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "15951536",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15951537",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15951538",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387852",
+      "Date": "1453995900",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51587",
+      "Team2ID": "51586",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5516826",
+          "LineNumber": "1",
+          "Player1HName": "Kelley Aldridge",
+          "Player2HName": "Lisette Keil",
+          "Player1AName": "Sarah French",
+          "Player2AName": "Laura Jerneycic",
+          "Player1HELOStart": "67.8016",
+          "Player2HELOStart": "66.0170",
+          "Player1AELOStart": "68.0658",
+          "Player2AELOStart": "71.3522",
+          "Player1HELOEnd": "67.3781",
+          "Player2HELOEnd": "65.4725",
+          "Player1AELOEnd": "68.4893",
+          "Player2AELOEnd": "71.7757",
+          "Player1HELOScale": "0.8750",
+          "Player2HELOScale": "1.1250",
+          "Player1AELOScale": "0.8750",
+          "Player2AELOScale": "0.8750",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "87.5000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916064",
+          "Player2HID": "916062",
+          "Player1AID": "917097",
+          "Player2AID": "917105",
+          "Winner": "1",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "16001616",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001617",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001618",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387853",
+      "Date": "1454600700",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51587",
+      "Team2ID": "51585",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5520508",
+          "LineNumber": "1",
+          "Player1HName": "Kelley Aldridge",
+          "Player2HName": "Lisette Keil",
+          "Player1AName": "Janet Baccanari",
+          "Player2AName": "Helen French",
+          "Player1HELOStart": "67.3800",
+          "Player2HELOStart": "65.4700",
+          "Player1AELOStart": "71.0600",
+          "Player2AELOStart": "71.0600",
+          "Player1HELOEnd": "67.2801",
+          "Player2HELOEnd": "65.3701",
+          "Player1AELOEnd": "71.4929",
+          "Player2AELOEnd": "71.4929",
+          "Player1HELOScale": "0.3750",
+          "Player2HELOScale": "0.3750",
+          "Player1AELOScale": "1.6250",
+          "Player2AELOScale": "1.6250",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "37.5000",
+          "Player2AELOConfidence": "37.5000",
+          "Player1HID": "916064",
+          "Player2HID": "916062",
+          "Player1AID": "928602",
+          "Player2AID": "928604",
+          "Winner": "1",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "16012809",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16012810",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16012811",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387854",
+      "Date": "1454600700",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51584",
+      "Team2ID": "51586",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5516831",
+          "LineNumber": "1",
+          "Player1HName": "Amy Damon",
+          "Player2HName": "Sarah Edwards",
+          "Player1AName": "Sarah French",
+          "Player2AName": "Laura Jerneycic",
+          "Player1HELOStart": "71.2100",
+          "Player2HELOStart": "66.7800",
+          "Player1AELOStart": "68.4900",
+          "Player2AELOStart": "71.7800",
+          "Player1HELOEnd": "70.9742",
+          "Player2HELOEnd": "66.3477",
+          "Player1AELOEnd": "68.6865",
+          "Player2AELOEnd": "71.9765",
+          "Player1HELOScale": "0.7500",
+          "Player2HELOScale": "1.3750",
+          "Player1AELOScale": "0.6250",
+          "Player2AELOScale": "0.6250",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "62.5000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "916077",
+          "Player2HID": "921951",
+          "Player1AID": "917097",
+          "Player2AID": "917105",
+          "Winner": "1",
+          "DivisionID": "6598",
+          "Sets": [
+            {
+              "SetID": "16001631",
+              "SetNumber": "1",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001632",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16001633",
+              "SetNumber": "3",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387855",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51587",
+      "Team2ID": "51583",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387856",
+      "Date": "1455205500",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51584",
+      "Team2ID": "51585",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387857",
+      "Date": "1452786300",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51591",
+      "Team2ID": "51588",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5489054",
+          "LineNumber": "1",
+          "Player1HName": "Laura Duzan",
+          "Player2HName": "Sue Wright",
+          "Player1AName": "Lisa Dolson",
+          "Player2AName": "Anne Kraus",
+          "Player1HELOStart": "74.0000",
+          "Player2HELOStart": "74.0000",
+          "Player1AELOStart": "74.0000",
+          "Player2AELOStart": "74.0000",
+          "Player1HELOEnd": "72.2495",
+          "Player2HELOEnd": "72.2495",
+          "Player1AELOEnd": "75.7505",
+          "Player2AELOEnd": "75.7505",
+          "Player1HELOScale": "1.8750",
+          "Player2HELOScale": "1.8750",
+          "Player1AELOScale": "1.8750",
+          "Player2AELOScale": "1.8750",
+          "Player1HELOConfidence": "12.5000",
+          "Player2HELOConfidence": "12.5000",
+          "Player1AELOConfidence": "12.5000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "928609",
+          "Player2HID": "928610",
+          "Player1AID": "928607",
+          "Player2AID": "928608",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15916694",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916695",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916696",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387858",
+      "Date": "1452786300",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51592",
+      "Team2ID": "51589",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5489055",
+          "LineNumber": "1",
+          "Player1HName": "Michele Kowalkowski",
+          "Player2HName": "Naunie Stration",
+          "Player1AName": "Nancy Hibbert",
+          "Player2AName": "Susan Paroly",
+          "Player1HELOStart": "50.0000",
+          "Player2HELOStart": "50.0000",
+          "Player1AELOStart": "74.0000",
+          "Player2AELOStart": "75.9600",
+          "Player1HELOEnd": "50.0000",
+          "Player2HELOEnd": "50.0000",
+          "Player1AELOEnd": "74.0000",
+          "Player2AELOEnd": "75.9600",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "928612",
+          "Player2HID": "928613",
+          "Player1AID": "928611",
+          "Player2AID": "917103",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15916697",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916698",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916699",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387859",
+      "Date": "1452786300",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51593",
+      "Team2ID": "51590",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511736",
+          "LineNumber": "1",
+          "Player1HName": "Carrie Becharas",
+          "Player2HName": "Sarah Dubay",
+          "Player1AName": "Tiffany Glime",
+          "Player2AName": "Jennifer Raab",
+          "Player1HELOStart": "68.8600",
+          "Player2HELOStart": "74.0000",
+          "Player1AELOStart": "64.8700",
+          "Player2AELOStart": "65.0000",
+          "Player1HELOEnd": "68.8072",
+          "Player2HELOEnd": "73.6040",
+          "Player1AELOEnd": "65.1076",
+          "Player2AELOEnd": "65.3960",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "1.8750",
+          "Player1AELOScale": "1.1250",
+          "Player2AELOScale": "1.8750",
+          "Player1HELOConfidence": "75.0000",
+          "Player2HELOConfidence": "12.5000",
+          "Player1AELOConfidence": "37.5000",
+          "Player2AELOConfidence": "12.5000",
+          "Player1HID": "917106",
+          "Player2HID": "928615",
+          "Player1AID": "917108",
+          "Player2AID": "928614",
+          "Winner": "2",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15986394",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986395",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986396",
+              "SetNumber": "3",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387860",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51592",
+      "Team2ID": "51588",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5489060",
+          "LineNumber": "1",
+          "Player1HName": "Michele Kowalkowski",
+          "Player2HName": "Naunie Stration",
+          "Player1AName": "Lisa Dolson",
+          "Player2AName": "Anne Kraus",
+          "Player1HELOStart": "50.0000",
+          "Player2HELOStart": "50.0000",
+          "Player1AELOStart": "75.7505",
+          "Player2AELOStart": "75.7505",
+          "Player1HELOEnd": "50.0000",
+          "Player2HELOEnd": "50.0000",
+          "Player1AELOEnd": "75.7505",
+          "Player2AELOEnd": "75.7505",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "928612",
+          "Player2HID": "928613",
+          "Player1AID": "928607",
+          "Player2AID": "928608",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15916712",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916713",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916714",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387861",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51590",
+      "Team2ID": "51589",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5489062",
+          "LineNumber": "1",
+          "Player1HName": "Tiffany Glime",
+          "Player2HName": "Jennifer Raab",
+          "Player1AName": "Nancy Hibbert",
+          "Player2AName": "Susan Paroly",
+          "Player1HELOStart": "65.1076",
+          "Player2HELOStart": "65.3960",
+          "Player1AELOStart": "74.0000",
+          "Player2AELOStart": "75.9600",
+          "Player1HELOEnd": "65.1289",
+          "Player2HELOEnd": "65.4422",
+          "Player1AELOEnd": "73.9334",
+          "Player2AELOEnd": "75.9511",
+          "Player1HELOScale": "0.2315",
+          "Player2HELOScale": "0.5017",
+          "Player1AELOScale": "0.7236",
+          "Player2AELOScale": "0.0965",
+          "Player1HELOConfidence": "50.0000",
+          "Player2HELOConfidence": "25.0000",
+          "Player1AELOConfidence": "12.5000",
+          "Player2AELOConfidence": "62.5000",
+          "Player1HID": "917108",
+          "Player2HID": "928614",
+          "Player1AID": "928611",
+          "Player2AID": "917103",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15916718",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916719",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15916720",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387862",
+      "Date": "1453386600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51593",
+      "Team2ID": "51591",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5511741",
+          "LineNumber": "1",
+          "Player1HName": "Carrie Becharas",
+          "Player2HName": "Bridget Jackson",
+          "Player1AName": "Laura Duzan",
+          "Player2AName": "Sue Wright",
+          "Player1HELOStart": "68.8072",
+          "Player2HELOStart": "65.0000",
+          "Player1AELOStart": "72.2495",
+          "Player2AELOStart": "72.2495",
+          "Player1HELOEnd": "69.1852",
+          "Player2HELOEnd": "67.8350",
+          "Player1AELOEnd": "69.9815",
+          "Player2AELOEnd": "69.9815",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "1.8750",
+          "Player1AELOScale": "1.5000",
+          "Player2AELOScale": "1.5000",
+          "Player1HELOConfidence": "87.5000",
+          "Player2HELOConfidence": "12.5000",
+          "Player1AELOConfidence": "25.0000",
+          "Player2AELOConfidence": "25.0000",
+          "Player1HID": "917106",
+          "Player2HID": "970690",
+          "Player1AID": "928609",
+          "Player2AID": "928610",
+          "Winner": "2",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15986409",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986410",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15986411",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387863",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51593",
+      "Team2ID": "51588",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5523086",
+          "LineNumber": "1",
+          "Player1HName": "Carrie Becharas",
+          "Player2HName": "Sarah Dubay",
+          "Player1AName": "Lisa Dolson",
+          "Player2AName": "Anne Kraus",
+          "Player1HELOStart": "69.1852",
+          "Player2HELOStart": "73.6040",
+          "Player1AELOStart": "75.7505",
+          "Player2AELOStart": "75.7505",
+          "Player1HELOEnd": "69.1290",
+          "Player2HELOEnd": "73.2106",
+          "Player1AELOEnd": "76.1439",
+          "Player2AELOEnd": "76.1439",
+          "Player1HELOScale": "0.2500",
+          "Player2HELOScale": "1.7500",
+          "Player1AELOScale": "1.7500",
+          "Player2AELOScale": "1.7500",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "25.0000",
+          "Player1AELOConfidence": "25.0000",
+          "Player2AELOConfidence": "25.0000",
+          "Player1HID": "917106",
+          "Player2HID": "928615",
+          "Player1AID": "928607",
+          "Player2AID": "928608",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "16021026",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16021027",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "16021028",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387864",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51591",
+      "Team2ID": "51589",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5499606",
+          "LineNumber": "1",
+          "Player1HName": "Laura Duzan",
+          "Player2HName": "Sue Wright",
+          "Player1AName": "Nancy Hibbert",
+          "Player2AName": "Susan Paroly",
+          "Player1HELOStart": "69.9815",
+          "Player2HELOStart": "69.9815",
+          "Player1AELOStart": "73.9334",
+          "Player2AELOStart": "75.9511",
+          "Player1HELOEnd": "68.9870",
+          "Player2HELOEnd": "68.9870",
+          "Player1AELOEnd": "75.2984",
+          "Player2AELOEnd": "76.2436",
+          "Player1HELOScale": "1.2750",
+          "Player2HELOScale": "1.2750",
+          "Player1AELOScale": "1.7500",
+          "Player2AELOScale": "0.3750",
+          "Player1HELOConfidence": "37.5000",
+          "Player2HELOConfidence": "37.5000",
+          "Player1AELOConfidence": "25.0000",
+          "Player2AELOConfidence": "75.0000",
+          "Player1HID": "928609",
+          "Player2HID": "928610",
+          "Player1AID": "928611",
+          "Player2AID": "917103",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15949142",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949143",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949144",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387865",
+      "Date": "1453991400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51592",
+      "Team2ID": "51590",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5499605",
+          "LineNumber": "1",
+          "Player1HName": "Michele Kowalkowski",
+          "Player2HName": "Naunie Stration",
+          "Player1AName": "Tiffany Glime",
+          "Player2AName": "Jennifer Raab",
+          "Player1HELOStart": "50.0000",
+          "Player2HELOStart": "50.0000",
+          "Player1AELOStart": "65.1289",
+          "Player2AELOStart": "65.4422",
+          "Player1HELOEnd": "50.0000",
+          "Player2HELOEnd": "50.0000",
+          "Player1AELOEnd": "65.1289",
+          "Player2AELOEnd": "65.4422",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "928612",
+          "Player2HID": "928613",
+          "Player1AID": "917108",
+          "Player2AID": "928614",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15949139",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949140",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15949141",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387866",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51590",
+      "Team2ID": "51588",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515293",
+          "LineNumber": "1",
+          "Player1HName": "Tiffany Glime",
+          "Player2HName": "Jennifer Raab",
+          "Player1AName": "Lisa Dolson",
+          "Player2AName": "Anne Kraus",
+          "Player1HELOStart": "65.1300",
+          "Player2HELOStart": "65.4400",
+          "Player1AELOStart": "76.1400",
+          "Player2AELOStart": "76.1400",
+          "Player1HELOEnd": "65.1300",
+          "Player2HELOEnd": "65.4400",
+          "Player1AELOEnd": "76.1400",
+          "Player2AELOEnd": "76.1400",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "917108",
+          "Player2HID": "928614",
+          "Player1AID": "928607",
+          "Player2AID": "928608",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15997011",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997012",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997013",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387867",
+      "Date": "1454596200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51593",
+      "Team2ID": "51589",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515288",
+          "LineNumber": "1",
+          "Player1HName": "Carrie Becharas",
+          "Player2HName": "Sarah Dubay",
+          "Player1AName": "Nancy Hibbert",
+          "Player2AName": "Susan Paroly",
+          "Player1HELOStart": "69.1300",
+          "Player2HELOStart": "73.2100",
+          "Player1AELOStart": "75.3000",
+          "Player2AELOStart": "76.2400",
+          "Player1HELOEnd": "68.9629",
+          "Player2HELOEnd": "72.4859",
+          "Player1AELOEnd": "76.0241",
+          "Player2AELOEnd": "76.4628",
+          "Player1HELOScale": "0.3750",
+          "Player2HELOScale": "1.6250",
+          "Player1AELOScale": "1.6250",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "37.5000",
+          "Player1AELOConfidence": "37.5000",
+          "Player2AELOConfidence": "87.5000",
+          "Player1HID": "917106",
+          "Player2HID": "928615",
+          "Player1AID": "928611",
+          "Player2AID": "917103",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15996996",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996997",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15996998",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387868",
+      "Date": "1454600700",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51592",
+      "Team2ID": "51591",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515522",
+          "LineNumber": "1",
+          "Player1HName": "Michele Kowalkowski",
+          "Player2HName": "Naunie Stration",
+          "Player1AName": "Laura Duzan",
+          "Player2AName": "Sue Wright",
+          "Player1HELOStart": "50.0000",
+          "Player2HELOStart": "50.0000",
+          "Player1AELOStart": "68.9900",
+          "Player2AELOStart": "68.9900",
+          "Player1HELOEnd": "50.0000",
+          "Player2HELOEnd": "50.0000",
+          "Player1AELOEnd": "68.9900",
+          "Player2AELOEnd": "68.9900",
+          "Player1HELOScale": "-1.0000",
+          "Player2HELOScale": "-1.0000",
+          "Player1AELOScale": "-1.0000",
+          "Player2AELOScale": "-1.0000",
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "928612",
+          "Player2HID": "928613",
+          "Player1AID": "928609",
+          "Player2AID": "928610",
+          "Winner": "1",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15997698",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997699",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997700",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387869",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51590",
+      "Team2ID": "51591",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "1387870",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51589",
+      "Team2ID": "51588",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "5515294",
+          "LineNumber": "1",
+          "Player1HName": "Nancy Hibbert",
+          "Player2HName": "Susan Paroly",
+          "Player1AName": "Lisa Dolson",
+          "Player2AName": "Anne Kraus",
+          "Player1HELOStart": "76.0241",
+          "Player2HELOStart": "76.4628",
+          "Player1AELOStart": "76.1400",
+          "Player2AELOStart": "76.1400",
+          "Player1HELOEnd": "77.0865",
+          "Player2HELOEnd": "76.7616",
+          "Player1AELOEnd": "74.8452",
+          "Player2AELOEnd": "74.8452",
+          "Player1HELOScale": "1.3333",
+          "Player2HELOScale": "0.3750",
+          "Player1AELOScale": "1.6250",
+          "Player2AELOScale": "1.6250",
+          "Player1HELOConfidence": "50.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "37.5000",
+          "Player2AELOConfidence": "37.5000",
+          "Player1HID": "928611",
+          "Player2HID": "917103",
+          "Player1AID": "928607",
+          "Player2AID": "928608",
+          "Winner": "2",
+          "DivisionID": "6599",
+          "Sets": [
+            {
+              "SetID": "15997014",
+              "SetNumber": "1",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997015",
+              "SetNumber": "2",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "15997016",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "1387871",
+      "Date": "1455201000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "51592",
+      "Team2ID": "51593",
+      "Bye": "0",
+      "Lines": []
+    }
+  ]
+}
