@@ -19739,7 +19739,64 @@
       "Team1ID": "0",
       "Team2ID": "0",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "14998686",
+          "LineNumber": "1",
+          "Player1HName": "Eric Stewart",
+          "Player2HName": "N/A",
+          "Player1AName": "David Meeker",
+          "Player2AName": "N/A",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2712297",
+          "Player2HID": "0",
+          "Player1AID": "2755335",
+          "Player2AID": "0",
+          "Winner": "2",
+          "DivisionID": "-3",
+          "Sets": [
+            {
+              "SetID": "44213533",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44213534",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44213535",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3904314",
