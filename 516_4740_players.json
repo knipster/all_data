@@ -6468,11 +6468,11 @@
     "2685753": {
       "0": 2685753,
       "1": 2671401,
-      "Gender": "m",
+      "Gender": "",
       "Info": {
-        "ELOStartRate": null
+        "ELOStartRate": "34.0000"
       },
-      "LocationID": "16236",
+      "LocationID": "0",
       "Matches": [
         2685753,
         2671401
@@ -9258,7 +9258,7 @@
       "1": 2669392,
       "Gender": "",
       "Info": {
-        "ELOStartRate": null
+        "ELOStartRate": "30.0000"
       },
       "LocationID": "0",
       "Matches": [
