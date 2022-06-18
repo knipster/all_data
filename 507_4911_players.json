@@ -1096,6 +1096,19 @@
       "PlayerID": 2792697,
       "PlayerName": "Jeff Spivak"
     },
+    "2792701": {
+      "0": 2792701,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "16101",
+      "Matches": [
+        2792701
+      ],
+      "PlayerID": 2792701,
+      "PlayerName": "Atif Ali"
+    },
     "2793695": {
       "0": 2793695,
       "Gender": "",
@@ -1238,6 +1251,71 @@
       ],
       "PlayerID": 2830470,
       "PlayerName": "Player Hughes"
+    },
+    "2838876": {
+      "0": 2838876,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "65.0000"
+      },
+      "LocationID": "17377",
+      "Matches": [
+        2838876
+      ],
+      "PlayerID": 2838876,
+      "PlayerName": "Jordan O’Grady"
+    },
+    "2839001": {
+      "0": 2839001,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "65.0000"
+      },
+      "LocationID": "17375",
+      "Matches": [
+        2839001
+      ],
+      "PlayerID": 2839001,
+      "PlayerName": "Scott Wymore"
+    },
+    "2839002": {
+      "0": 2839002,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "17377",
+      "Matches": [
+        2839002
+      ],
+      "PlayerID": 2839002,
+      "PlayerName": "Kevin O'Dwyer"
+    },
+    "2839944": {
+      "0": 2839944,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "58.0000"
+      },
+      "LocationID": "17377",
+      "Matches": [
+        2839944
+      ],
+      "PlayerID": 2839944,
+      "PlayerName": "Doug Schwabauer"
+    },
+    "2840085": {
+      "0": 2840085,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "65.0000"
+      },
+      "LocationID": "17375",
+      "Matches": [
+        2840085
+      ],
+      "PlayerID": 2840085,
+      "PlayerName": "Fermin Santos"
     }
   }
 }
