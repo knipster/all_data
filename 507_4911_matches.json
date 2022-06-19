@@ -21473,7 +21473,80 @@
       "Team1ID": "0",
       "Team2ID": "0",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15005863",
+          "LineNumber": "1",
+          "Player1HName": "David Stuber",
+          "Player2HName": "Colby LaHue",
+          "Player1AName": "Brad Thomas",
+          "Player2AName": "Robert Thompson",
+          "Player1HELOStart": "27.1192",
+          "Player2HELOStart": "30.1180",
+          "Player1AELOStart": "29.8628",
+          "Player2AELOStart": "24.7884",
+          "Player1HELOEnd": "27.4784",
+          "Player2HELOEnd": "30.4772",
+          "Player1AELOEnd": "29.5036",
+          "Player2AELOEnd": "24.4292",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "2778873",
+          "Player2HID": "2778884",
+          "Player1AID": "2790916",
+          "Player2AID": "2676408",
+          "Winner": "2",
+          "DivisionID": "-2",
+          "Sets": [
+            {
+              "SetID": "44234073",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "8",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234074",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234075",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234076",
+              "SetNumber": "4",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234077",
+              "SetNumber": "5",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3907877",
@@ -21483,7 +21556,80 @@
       "Team1ID": "0",
       "Team2ID": "0",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15005862",
+          "LineNumber": "1",
+          "Player1HName": "David Stuber",
+          "Player2HName": "Robert Thompson",
+          "Player1AName": "Brad Thomas",
+          "Player2AName": "Colby LaHue",
+          "Player1HELOStart": "26.8372",
+          "Player2HELOStart": "24.6960",
+          "Player1AELOStart": "28.6128",
+          "Player2AELOStart": "31.7424",
+          "Player1HELOEnd": "26.6716",
+          "Player2HELOEnd": "24.5304",
+          "Player1AELOEnd": "28.7784",
+          "Player2AELOEnd": "31.9080",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "2778873",
+          "Player2HID": "2676408",
+          "Player1AID": "2790916",
+          "Player2AID": "2778884",
+          "Winner": "1",
+          "DivisionID": "-2",
+          "Sets": [
+            {
+              "SetID": "44234068",
+              "SetNumber": "1",
+              "Team1Score": "8",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234069",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234070",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234071",
+              "SetNumber": "4",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234072",
+              "SetNumber": "5",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3907878",
@@ -21493,7 +21639,80 @@
       "Team1ID": "0",
       "Team2ID": "0",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15005861",
+          "LineNumber": "1",
+          "Player1HName": "David Stuber",
+          "Player2HName": "Brad Thomas",
+          "Player1AName": "Colby LaHue",
+          "Player2AName": "Robert Thompson",
+          "Player1HELOStart": "27.4784",
+          "Player2HELOStart": "29.5036",
+          "Player1AELOStart": "30.4772",
+          "Player2AELOStart": "24.4292",
+          "Player1HELOEnd": "27.0680",
+          "Player2HELOEnd": "29.0932",
+          "Player1AELOEnd": "30.8876",
+          "Player2AELOEnd": "24.8396",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "2778873",
+          "Player2HID": "2790916",
+          "Player1AID": "2778884",
+          "Player2AID": "2676408",
+          "Winner": "1",
+          "DivisionID": "-2",
+          "Sets": [
+            {
+              "SetID": "44234063",
+              "SetNumber": "1",
+              "Team1Score": "8",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234064",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234065",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234066",
+              "SetNumber": "4",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44234067",
+              "SetNumber": "5",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3908037",
@@ -21511,14 +21730,14 @@
           "Player2HName": "Colby LaHue",
           "Player1AName": "David Stuber",
           "Player2AName": "Brad Thomas",
-          "Player1HELOStart": "24.7884",
-          "Player2HELOStart": "30.1180",
-          "Player1AELOStart": "27.1192",
-          "Player2AELOStart": "29.8628",
-          "Player1HELOEnd": "25.1988",
-          "Player2HELOEnd": "30.5284",
-          "Player1AELOEnd": "26.7088",
-          "Player2AELOEnd": "29.4524",
+          "Player1HELOStart": "24.8396",
+          "Player2HELOStart": "30.8876",
+          "Player1AELOStart": "27.0680",
+          "Player2AELOStart": "29.0932",
+          "Player1HELOEnd": "25.1952",
+          "Player2HELOEnd": "31.2432",
+          "Player1AELOEnd": "26.7124",
+          "Player2AELOEnd": "28.7376",
           "Player1HELOScale": "0.5000",
           "Player2HELOScale": "0.5000",
           "Player1AELOScale": "0.5000",
@@ -21578,14 +21797,14 @@
           "Player2HName": "David Stuber",
           "Player1AName": "Brad Thomas",
           "Player2AName": "Colby LaHue",
-          "Player1HELOStart": "25.1988",
-          "Player2HELOStart": "26.7088",
-          "Player1AELOStart": "29.4524",
-          "Player2AELOStart": "30.5284",
-          "Player1HELOEnd": "25.0116",
-          "Player2HELOEnd": "26.5216",
-          "Player1AELOEnd": "29.6396",
-          "Player2AELOEnd": "30.7156",
+          "Player1HELOStart": "25.1952",
+          "Player2HELOStart": "26.7124",
+          "Player1AELOStart": "28.7376",
+          "Player2AELOStart": "31.2432",
+          "Player1HELOEnd": "25.0080",
+          "Player2HELOEnd": "26.5252",
+          "Player1AELOEnd": "28.9248",
+          "Player2AELOEnd": "31.4304",
           "Player1HELOScale": "0.5000",
           "Player2HELOScale": "0.5000",
           "Player1AELOScale": "0.5000",
@@ -21645,14 +21864,14 @@
           "Player2HName": "Brad Thomas",
           "Player1AName": "David Stuber",
           "Player2AName": "Colby LaHue",
-          "Player1HELOStart": "25.0116",
-          "Player2HELOStart": "29.6396",
-          "Player1AELOStart": "26.5216",
-          "Player2AELOStart": "30.7156",
-          "Player1HELOEnd": "24.6524",
-          "Player2HELOEnd": "29.2804",
-          "Player1AELOEnd": "26.8808",
-          "Player2AELOEnd": "31.0748",
+          "Player1HELOStart": "25.0080",
+          "Player2HELOStart": "28.9248",
+          "Player1AELOStart": "26.5252",
+          "Player2AELOStart": "31.4304",
+          "Player1HELOEnd": "24.6960",
+          "Player2HELOEnd": "28.6128",
+          "Player1AELOEnd": "26.8372",
+          "Player2AELOEnd": "31.7424",
           "Player1HELOScale": "0.5000",
           "Player2HELOScale": "0.5000",
           "Player1AELOScale": "0.5000",
