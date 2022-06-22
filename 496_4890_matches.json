@@ -106493,7 +106493,64 @@
       "Team1ID": "253713",
       "Team2ID": "253718",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15009507",
+          "LineNumber": "1",
+          "Player1HName": "Erica Rossi",
+          "Player2HName": "Maureen Talavera ",
+          "Player1AName": "Emily Monnat",
+          "Player2AName": "Katie Gilmore",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2818819",
+          "Player2HID": "2799229",
+          "Player1AID": "2750045",
+          "Player2AID": "2797286",
+          "Winner": "2",
+          "DivisionID": "27277",
+          "Sets": [
+            {
+              "SetID": "44244201",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44244202",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44244203",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3900006",
