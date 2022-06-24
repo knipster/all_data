@@ -3211,13 +3211,14 @@
       "PlayerName": "Elizabeth Gill"
     },
     "2816073": {
-      "Gender": "",
+      "Gender": "f",
       "Info": {
-        "ELOStartRate": "73.0000"
+        "ELOStartRate": null
       },
-      "LocationID": "17009",
+      "LocationID": "0",
       "Matches": [
-        2816073
+        2816073,
+        2831000
       ],
       "PlayerID": 2816073,
       "PlayerName": "Karyn Szurgot"
