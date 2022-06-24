@@ -791,6 +791,19 @@
       "PlayerID": 2789874,
       "PlayerName": "Henry Adams"
     },
+    "2789875": {
+      "0": 2789875,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "54.0000"
+      },
+      "LocationID": "17375",
+      "Matches": [
+        2789875
+      ],
+      "PlayerID": 2789875,
+      "PlayerName": "Brett Monger"
+    },
     "2790037": {
       "0": 2790037,
       "Gender": "",
@@ -922,6 +935,19 @@
       ],
       "PlayerID": 2790521,
       "PlayerName": "Jon Ternus"
+    },
+    "2790536": {
+      "0": 2790536,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "42.0000"
+      },
+      "LocationID": "17375",
+      "Matches": [
+        2790536
+      ],
+      "PlayerID": 2790536,
+      "PlayerName": "Elliott McDermed"
     },
     "2790557": {
       "0": 2790557,
@@ -1316,6 +1342,19 @@
       ],
       "PlayerID": 2840085,
       "PlayerName": "Fermin Santos"
+    },
+    "2840951": {
+      "0": 2840951,
+      "Gender": "",
+      "Info": {
+        "ELOStartRate": "65.0000"
+      },
+      "LocationID": "0",
+      "Matches": [
+        2840951
+      ],
+      "PlayerID": 2840951,
+      "PlayerName": "Rocky Remy"
     }
   }
 }
