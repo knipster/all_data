@@ -991,156 +991,6 @@
       "Lines": []
     },
     {
-      "ScheduleID": "3911464",
-      "Date": "1657080000",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254231",
-      "Team2ID": "0",
-      "Bye": "1",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911465",
-      "Date": "1657080000",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254233",
-      "Team2ID": "254230",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911466",
-      "Date": "1657080000",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254202",
-      "Team2ID": "254232",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911467",
-      "Date": "1657684800",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254202",
-      "Team2ID": "0",
-      "Bye": "1",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911468",
-      "Date": "1657684800",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254232",
-      "Team2ID": "254233",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911469",
-      "Date": "1657684800",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254230",
-      "Team2ID": "254231",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911470",
-      "Date": "1658289600",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254230",
-      "Team2ID": "0",
-      "Bye": "1",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911471",
-      "Date": "1658289600",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254231",
-      "Team2ID": "254232",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911472",
-      "Date": "1658289600",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254233",
-      "Team2ID": "254202",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911473",
-      "Date": "1658894400",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254233",
-      "Team2ID": "0",
-      "Bye": "1",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911474",
-      "Date": "1658894400",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254202",
-      "Team2ID": "254231",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911475",
-      "Date": "1658894400",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254232",
-      "Team2ID": "254230",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911476",
-      "Date": "1659499200",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254232",
-      "Team2ID": "0",
-      "Bye": "1",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911477",
-      "Date": "1659499200",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254230",
-      "Team2ID": "254202",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
-      "ScheduleID": "3911478",
-      "Date": "1659499200",
-      "Team1": null,
-      "Team2": null,
-      "Team1ID": "254231",
-      "Team2ID": "254233",
-      "Bye": "0",
-      "Lines": []
-    },
-    {
       "ScheduleID": "3911535",
       "Date": "1657080000",
       "Team1": null,
@@ -1417,6 +1267,126 @@
       "Team2": null,
       "Team1ID": "254210",
       "Team2ID": "254207",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911706",
+      "Date": "1657080000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254233",
+      "Team2ID": "254231",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911707",
+      "Date": "1657080000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254202",
+      "Team2ID": "254230",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911708",
+      "Date": "1657684800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254202",
+      "Team2ID": "254233",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911709",
+      "Date": "1657684800",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254230",
+      "Team2ID": "254231",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911710",
+      "Date": "1658289600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254233",
+      "Team2ID": "254230",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911711",
+      "Date": "1658289600",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254231",
+      "Team2ID": "254202",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911712",
+      "Date": "1658894400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254231",
+      "Team2ID": "254233",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911713",
+      "Date": "1658894400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254230",
+      "Team2ID": "254202",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911714",
+      "Date": "1659499200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254233",
+      "Team2ID": "254202",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911715",
+      "Date": "1659499200",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254231",
+      "Team2ID": "254230",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911716",
+      "Date": "1660104000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254230",
+      "Team2ID": "254233",
+      "Bye": "0",
+      "Lines": []
+    },
+    {
+      "ScheduleID": "3911717",
+      "Date": "1660104000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "254202",
+      "Team2ID": "254231",
       "Bye": "0",
       "Lines": []
     }
