@@ -107263,7 +107263,64 @@
       "Team1ID": "253842",
       "Team2ID": "253713",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15017792",
+          "LineNumber": "1",
+          "Player1HName": "Nadine Allyn",
+          "Player2HName": "Jessica  Sansone",
+          "Player1AName": "Erica Rossi",
+          "Player2AName": "Maureen Talavera ",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2771872",
+          "Player2HID": "2772064",
+          "Player1AID": "2818819",
+          "Player2AID": "2799229",
+          "Winner": "1",
+          "DivisionID": "27277",
+          "Sets": [
+            {
+              "SetID": "44266392",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44266393",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44266394",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3900026",
