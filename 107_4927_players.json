@@ -469,6 +469,21 @@
       "PlayerID": 1066024,
       "PlayerName": "Daryl Kerr"
     },
+    "1066654": {
+      "0": 1066654,
+      "1": 856330,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "0.0000"
+      },
+      "LocationID": "2952",
+      "Matches": [
+        1066654,
+        856330
+      ],
+      "PlayerID": 1066654,
+      "PlayerName": "Michael Diven"
+    },
     "1067222": {
       "0": 1067222,
       "1": 1019921,
@@ -792,6 +807,36 @@
       ],
       "PlayerID": 1118291,
       "PlayerName": "Heidi Roup"
+    },
+    "1118506": {
+      "0": 1118506,
+      "1": 912468,
+      "2": 1045669,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "34.0000"
+      },
+      "LocationID": "2952",
+      "Matches": [
+        1118506,
+        912468,
+        1045669
+      ],
+      "PlayerID": 1118506,
+      "PlayerName": "Dan Ruth"
+    },
+    "1118781": {
+      "0": 1118781,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": "45.0000"
+      },
+      "LocationID": "2956",
+      "Matches": [
+        1118781
+      ],
+      "PlayerID": 1118781,
+      "PlayerName": "Brian Vinay"
     },
     "1118962": {
       "0": 1118962,
@@ -4487,6 +4532,19 @@
       ],
       "PlayerID": 638634,
       "PlayerName": "Hannah Krause"
+    },
+    "640867": {
+      "0": 640867,
+      "Gender": "m",
+      "Info": {
+        "ELOStartRate": null
+      },
+      "LocationID": "2956",
+      "Matches": [
+        640867
+      ],
+      "PlayerID": 640867,
+      "PlayerName": "Todd Sandford"
     },
     "649411": {
       "0": 649411,
