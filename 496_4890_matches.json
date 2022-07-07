@@ -107203,7 +107203,64 @@
       "Team1ID": "253710",
       "Team2ID": "253842",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15023663",
+          "LineNumber": "1",
+          "Player1HName": "Dina Madigan",
+          "Player2HName": "Neely Pusateri ",
+          "Player1AName": "Nadine Allyn",
+          "Player2AName": "Jessica  Sansone",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2781264",
+          "Player2HID": "2777671",
+          "Player1AID": "2771872",
+          "Player2AID": "2772064",
+          "Winner": "2",
+          "DivisionID": "27277",
+          "Sets": [
+            {
+              "SetID": "44281689",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44281690",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44281691",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3900020",
