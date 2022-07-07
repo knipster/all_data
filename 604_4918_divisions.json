@@ -2464,5 +2464,66 @@
          "26": "0",
          "TournamentUserID": "0"
       }
-   ]
+   ],
+   "6075": {
+      "Divisions": {
+         "27360": {
+            "Teams": [
+               {
+                  "0": "0",
+                  "StandingsPlacement": "0",
+                  "1": "0",
+                  "SubLeagueID": "0",
+                  "2": "0",
+                  "AcceptedRosterID": "0",
+                  "3": "0",
+                  "Hidden": "0",
+                  "4": "0",
+                  "StagingStatus": "0",
+                  "5": "0",
+                  "LastStageTime": "0",
+                  "6": "0",
+                  "LastStageCapt": "0",
+                  "7": "0",
+                  "PenaltyPoints": "0",
+                  "8": "0",
+                  "CaptainID": "0",
+                  "9": "0",
+                  "CoCaptainID": "0",
+                  "10": "0",
+                  "ScheduleBias": "0",
+                  "11": "",
+                  "UniqueID": "",
+                  "12": "",
+                  "ScheduleNotes": "",
+                  "13": "0",
+                  "RostersReceived": "0",
+                  "14": "17895",
+                  "LocationID": "17895",
+                  "15": "",
+                  "Subdivision": "",
+                  "16": "0",
+                  "17": "hi",
+                  "DivName": "hi",
+                  "18": "aa",
+                  "TeamAbbr": "aa",
+                  "19": "sep oct",
+                  "DivGroupName": "sep oct",
+                  "20": "0",
+                  "ShowTSRatingDiv": "0",
+                  "21": "amyamin",
+                  "TeamName": "amyamin",
+                  "22": "254328",
+                  "TeamID": "254328",
+                  "23": "27360",
+                  "DivisionID": "27360",
+                  "24": "6075",
+                  "DivGroupID": "6075"
+               }
+            ],
+            "Name": "hi"
+         }
+      },
+      "DivGroupName": "sep oct"
+   }
 }

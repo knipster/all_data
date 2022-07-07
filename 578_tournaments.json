@@ -82,6 +82,47 @@
          "Director3": "0",
          "Director4": "0"
       },
+      "3714": {
+         "TournamentID": "3714",
+         "LeagueID": "578",
+         "Name": "Battle at the Mudhole IX",
+         "Details": "",
+         "PaymentID": "0",
+         "RegistrationStartDate": "0",
+         "RegistrationEndDate": "0",
+         "StartDate": "1657339200",
+         "EndDate": "1657252800",
+         "DrawsPostedDate": "0",
+         "RegistrationDetails": "",
+         "BaseCost": "0",
+         "Location": null,
+         "Paypal": "",
+         "Phone": "",
+         "Question1": "",
+         "Question2": "",
+         "Question3": "",
+         "Question1Required": "0",
+         "Question2Required": "0",
+         "Question3Required": "0",
+         "LocationID": "0",
+         "DirectorID": "0",
+         "EmailDirectorOnRegistration": "0",
+         "NewPlayers": "0",
+         "Subtitle": null,
+         "CourtsideID": null,
+         "HidePlayers": "0",
+         "ShirtSize": "0",
+         "PostFirstMatchTimes": "0",
+         "Code": "",
+         "IsPaid": "0",
+         "PaidAmount": "0.00",
+         "WaiverText": "BY ALLOWING MY NAME TO APPEAR ON Columbus Paddle, I and my partner agree to abide by all rules of Columbus Paddle . I do hereby and on behalf of myself and my partner, heirs and legal representatives release and forever discharge Columbus Paddle of and from any and all claims and demands of every kind, nature and character which I or my partner may have or may hereafter acquire for any and all damages, losses or injuries which may be suffered or sustained by me or my partner. I and my partner also understand that any special medical needs remain the responsibility of the individual player.\r\nI and my partner hereby grant Columbus Paddle permission to use our likeness in photograph(s)/video in any and all of its media, publications, whether now known or hereafter existing, controlled by Columbus Paddle, in perpetuity, and for other use by Columbus Paddle.  I and my partner will make no monetary or other claim against Columbus Paddle for the use of such photograph(s)/video.",
+         "APTAImport": "0",
+         "APTARequired": "0",
+         "Director2": "0",
+         "Director3": "0",
+         "Director4": "0"
+      },
       "51474": {
          "Levels": {
             "51474": {
@@ -977,6 +1018,40 @@
                      }
                   }
                }
+            }
+         }
+      },
+      "52545": {
+         "Levels": {
+            "52545": {
+               "LevelID": "52545",
+               "TournamentID": "3714",
+               "LevelName": "Mudhole",
+               "Consolation": "0",
+               "Parent": "0",
+               "Cost": "0.00",
+               "MatchKind": "1",
+               "DrawSize": "0",
+               "DrawType": "3",
+               "Format": "0",
+               "DivGroup": null,
+               "Division": null,
+               "Age": null,
+               "SetsPlayed": "3",
+               "LinesPlayed": "1",
+               "CourtsideID": null,
+               "CutOffReg": "0",
+               "FirstPlace": "0",
+               "SecondPlace": "0",
+               "ThirdPlace": "0",
+               "FourthPlace": "0",
+               "FifthPlace": "0",
+               "WhenGenerated": "0",
+               "RRRotations": "0",
+               "APTAImport": "0",
+               "SequenceNumber": "0",
+               "MainDrawFlag": null,
+               "Matches": []
             }
          }
       }
