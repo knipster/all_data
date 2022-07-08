@@ -75,7 +75,64 @@
       "Team1ID": "254178",
       "Team2ID": "254176",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15025531",
+          "LineNumber": "1",
+          "Player1HName": "Brenda Colvin",
+          "Player2HName": "Jenna McClintock",
+          "Player1AName": "Susie  Keel",
+          "Player2AName": "Karen Parker",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2837526",
+          "Player2HID": "2838846",
+          "Player1AID": "2843049",
+          "Player2AID": "2837304",
+          "Winner": "1",
+          "DivisionID": "27315",
+          "Sets": [
+            {
+              "SetID": "44286703",
+              "SetNumber": "1",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44286704",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44286705",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911306",
