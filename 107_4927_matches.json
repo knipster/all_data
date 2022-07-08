@@ -29446,6 +29446,172 @@
           ]
         }
       ]
+    },
+    {
+      "ScheduleID": "3913168",
+      "Date": "1657166400",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "0",
+      "Team2ID": "0",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "15024948",
+          "LineNumber": "1",
+          "Player1HName": "Todd Sandford",
+          "Player2HName": "Brad Flock",
+          "Player1AName": "Dan Cain",
+          "Player2AName": "John Schaefer",
+          "Player1HELOStart": "28.1184",
+          "Player2HELOStart": "27.3340",
+          "Player1AELOStart": "14.2260",
+          "Player2AELOStart": "36.3460",
+          "Player1HELOEnd": "27.6880",
+          "Player2HELOEnd": "26.9036",
+          "Player1AELOEnd": "14.6564",
+          "Player2AELOEnd": "36.7764",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "640867",
+          "Player2HID": "1013113",
+          "Player1AID": "928004",
+          "Player2AID": "1257251",
+          "Winner": "1",
+          "DivisionID": "-2",
+          "Sets": [
+            {
+              "SetID": "44285151",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285152",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285153",
+              "SetNumber": "3",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285154",
+              "SetNumber": "4",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285155",
+              "SetNumber": "5",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "ScheduleID": "3913169",
+      "Date": "1657080000",
+      "Team1": null,
+      "Team2": null,
+      "Team1ID": "0",
+      "Team2ID": "0",
+      "Bye": "0",
+      "Lines": [
+        {
+          "LineID": "15024957",
+          "LineNumber": "1",
+          "Player1HName": "Todd Sandford",
+          "Player2HName": "Brad Flock",
+          "Player1AName": "Dan Cain",
+          "Player2AName": "John Schaefer",
+          "Player1HELOStart": "27.8944",
+          "Player2HELOStart": "27.1100",
+          "Player1AELOStart": "14.4500",
+          "Player2AELOStart": "36.5700",
+          "Player1HELOEnd": "28.1184",
+          "Player2HELOEnd": "27.3340",
+          "Player1AELOEnd": "14.2260",
+          "Player2AELOEnd": "36.3460",
+          "Player1HELOScale": "0.5000",
+          "Player2HELOScale": "0.5000",
+          "Player1AELOScale": "0.5000",
+          "Player2AELOScale": "0.5000",
+          "Player1HELOConfidence": "100.0000",
+          "Player2HELOConfidence": "100.0000",
+          "Player1AELOConfidence": "100.0000",
+          "Player2AELOConfidence": "100.0000",
+          "Player1HID": "640867",
+          "Player2HID": "1013113",
+          "Player1AID": "928004",
+          "Player2AID": "1257251",
+          "Winner": "2",
+          "DivisionID": "-2",
+          "Sets": [
+            {
+              "SetID": "44285184",
+              "SetNumber": "1",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285185",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285186",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285187",
+              "SetNumber": "4",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44285188",
+              "SetNumber": "5",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
