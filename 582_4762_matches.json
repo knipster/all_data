@@ -10,7 +10,7 @@
       "Bye": "0",
       "Lines": [
         {
-          "LineID": "15024581",
+          "LineID": "15025673",
           "LineNumber": "1",
           "Player1HName": "Pamela Lynch",
           "Player2HName": "Leslie Conway",
@@ -40,7 +40,7 @@
           "DivisionID": "27315",
           "Sets": [
             {
-              "SetID": "44284243",
+              "SetID": "44287063",
               "SetNumber": "1",
               "Team1Score": "3",
               "Team2Score": "6",
@@ -48,7 +48,7 @@
               "T2TieBreak": "0"
             },
             {
-              "SetID": "44284244",
+              "SetID": "44287064",
               "SetNumber": "2",
               "Team1Score": "5",
               "Team2Score": "7",
@@ -56,7 +56,7 @@
               "T2TieBreak": "0"
             },
             {
-              "SetID": "44284245",
+              "SetID": "44287065",
               "SetNumber": "3",
               "Team1Score": "0",
               "Team2Score": "0",
@@ -733,7 +733,64 @@
       "Team1ID": "254194",
       "Team2ID": "254190",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15025742",
+          "LineNumber": "1",
+          "Player1HName": "Joanne Harrington",
+          "Player2HName": "Melissa Sgambati",
+          "Player1AName": "Donna Sciacchitano",
+          "Player2AName": "Jennifer Linn",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2839262",
+          "Player2HID": "2839253",
+          "Player1AID": "2838935",
+          "Player2AID": "2838777",
+          "Winner": "1",
+          "DivisionID": "27317",
+          "Sets": [
+            {
+              "SetID": "44287282",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44287283",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44287284",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911354",
@@ -1476,7 +1533,7 @@
       "Bye": "0",
       "Lines": [
         {
-          "LineID": "15024763",
+          "LineID": "15025672",
           "LineNumber": "1",
           "Player1HName": "Jackie Scura",
           "Player2HName": "Janine  Scura",
@@ -1506,7 +1563,7 @@
           "DivisionID": "27347",
           "Sets": [
             {
-              "SetID": "44284712",
+              "SetID": "44287060",
               "SetNumber": "1",
               "Team1Score": "2",
               "Team2Score": "6",
@@ -1514,7 +1571,7 @@
               "T2TieBreak": "0"
             },
             {
-              "SetID": "44284713",
+              "SetID": "44287061",
               "SetNumber": "2",
               "Team1Score": "0",
               "Team2Score": "6",
@@ -1522,7 +1579,7 @@
               "T2TieBreak": "0"
             },
             {
-              "SetID": "44284714",
+              "SetID": "44287062",
               "SetNumber": "3",
               "Team1Score": "0",
               "Team2Score": "0",
