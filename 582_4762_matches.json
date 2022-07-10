@@ -408,7 +408,7 @@
       "Bye": "0",
       "Lines": [
         {
-          "LineID": "15025085",
+          "LineID": "15026412",
           "LineNumber": "1",
           "Player1HName": "Liz Batenhorst ",
           "Player2HName": "Alison Harris",
@@ -438,23 +438,23 @@
           "DivisionID": "27316",
           "Sets": [
             {
-              "SetID": "44285522",
+              "SetID": "44289010",
               "SetNumber": "1",
               "Team1Score": "6",
               "Team2Score": "7",
-              "T1TieBreak": "1",
-              "T2TieBreak": "6"
+              "T1TieBreak": "4",
+              "T2TieBreak": "7"
             },
             {
-              "SetID": "44285523",
+              "SetID": "44289011",
               "SetNumber": "2",
-              "Team1Score": "0",
-              "Team2Score": "0",
+              "Team1Score": "1",
+              "Team2Score": "6",
               "T1TieBreak": "0",
               "T2TieBreak": "0"
             },
             {
-              "SetID": "44285524",
+              "SetID": "44289012",
               "SetNumber": "3",
               "Team1Score": "0",
               "Team2Score": "0",
@@ -1194,7 +1194,64 @@
       "Team1ID": "254199",
       "Team2ID": "254196",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15026379",
+          "LineNumber": "1",
+          "Player1HName": "Margaret Nowak",
+          "Player2HName": "Celia Coltre",
+          "Player1AName": "Natalie Farrell",
+          "Player2AName": "Erin Marino",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838780",
+          "Player2HID": "2838647",
+          "Player1AID": "2837659",
+          "Player2AID": "2837363",
+          "Winner": "1",
+          "DivisionID": "27318",
+          "Sets": [
+            {
+              "SetID": "44288895",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44288896",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44288897",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911411",
