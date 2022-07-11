@@ -1992,7 +1992,64 @@
       "Team1ID": "254230",
       "Team2ID": "254231",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15026517",
+          "LineNumber": "1",
+          "Player1HName": "Daphne  Limmer",
+          "Player2HName": "Kristine  Dunbar",
+          "Player1AName": "Emily Cohen",
+          "Player2AName": "Emily Ho",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838923",
+          "Player2HID": "2838924",
+          "Player1AID": "2838783",
+          "Player2AID": "2838804",
+          "Winner": "1",
+          "DivisionID": "27348",
+          "Sets": [
+            {
+              "SetID": "44289341",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44289342",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44289343",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911710",
