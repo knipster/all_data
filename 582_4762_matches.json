@@ -800,7 +800,64 @@
       "Team1ID": "254193",
       "Team2ID": "254185",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15027163",
+          "LineNumber": "1",
+          "Player1HName": "Lorraine Bowyer",
+          "Player2HName": "Kathleen Pellicane ",
+          "Player1AName": "Ashley Kubiak",
+          "Player2AName": "Meredith  Ricciardi",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838830",
+          "Player2HID": "2838839",
+          "Player1AID": "2838582",
+          "Player2AID": "2838784",
+          "Winner": "1",
+          "DivisionID": "27317",
+          "Sets": [
+            {
+              "SetID": "44291244",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44291245",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44291246",
+              "SetNumber": "3",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911355",
@@ -1972,7 +2029,64 @@
       "Team1ID": "254202",
       "Team2ID": "254230",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15027209",
+          "LineNumber": "1",
+          "Player1HName": "Chrissy Meierdierck",
+          "Player2HName": "Katie Bealer",
+          "Player1AName": "Kristine  Dunbar",
+          "Player2AName": "Kristine  Dunbar",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838873",
+          "Player2HID": "2838987",
+          "Player1AID": "2838924",
+          "Player2AID": "2838924",
+          "Winner": "2",
+          "DivisionID": "27348",
+          "Sets": [
+            {
+              "SetID": "44291382",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44291383",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44291384",
+              "SetNumber": "3",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911708",
