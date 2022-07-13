@@ -560,7 +560,64 @@
       "Team1ID": "254182",
       "Team2ID": "254180",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15028650",
+          "LineNumber": "1",
+          "Player1HName": "Kelly Conway",
+          "Player2HName": "Courtney Raff",
+          "Player1AName": "Shaun Rosenow",
+          "Player2AName": "Crystal Skinner",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2839363",
+          "Player2HID": "2838808",
+          "Player1AID": "2839024",
+          "Player2AID": "2838918",
+          "Winner": "2",
+          "DivisionID": "27316",
+          "Sets": [
+            {
+              "SetID": "44295459",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44295460",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "3",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44295461",
+              "SetNumber": "3",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911326",
