@@ -209,7 +209,64 @@
       "Team1ID": "254174",
       "Team2ID": "254179",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15031794",
+          "LineNumber": "1",
+          "Player1HName": "Debbie Strambi",
+          "Player2HName": "Donna Andretta",
+          "Player1AName": "Pamela Lynch",
+          "Player2AName": "Leslie Conway",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838626",
+          "Player2HID": "2838764",
+          "Player1AID": "2838605",
+          "Player2AID": "2838610",
+          "Winner": "1",
+          "DivisionID": "27315",
+          "Sets": [
+            {
+              "SetID": "44304440",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "1",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44304441",
+              "SetNumber": "2",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44304442",
+              "SetNumber": "3",
+              "Team1Score": "7",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911308",
@@ -336,7 +393,64 @@
       "Team1ID": "254174",
       "Team2ID": "254175",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15031818",
+          "LineNumber": "1",
+          "Player1HName": "Donna Andretta",
+          "Player2HName": "Debbie Strambi",
+          "Player1AName": "Lesley Stiska",
+          "Player2AName": "Pam Randazzo",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838764",
+          "Player2HID": "2838626",
+          "Player1AID": "2839157",
+          "Player2AID": "2837281",
+          "Winner": "2",
+          "DivisionID": "27315",
+          "Sets": [
+            {
+              "SetID": "44304488",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44304489",
+              "SetNumber": "2",
+              "Team1Score": "3",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44304490",
+              "SetNumber": "3",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911315",
