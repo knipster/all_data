@@ -1566,7 +1566,64 @@
       "Team1ID": "254198",
       "Team2ID": "254199",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15030711",
+          "LineNumber": "1",
+          "Player1HName": "Raahel Irdoja",
+          "Player2HName": "Melissa Brasel",
+          "Player1AName": "Sandra Klose",
+          "Player2AName": "Margaret Nowak",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2837231",
+          "Player2HID": "2838788",
+          "Player1AID": "2838646",
+          "Player2AID": "2838780",
+          "Winner": "2",
+          "DivisionID": "27318",
+          "Sets": [
+            {
+              "SetID": "44301313",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44301314",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "4",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44301315",
+              "SetNumber": "3",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911414",
