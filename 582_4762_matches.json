@@ -1804,7 +1804,64 @@
       "Team1ID": "254196",
       "Team2ID": "254201",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15033227",
+          "LineNumber": "1",
+          "Player1HName": "Natalie Farrell",
+          "Player2HName": "Sydney Hirsch",
+          "Player1AName": "Elena McDermott",
+          "Player2AName": "Stefanie Gordon",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2837659",
+          "Player2HID": "2844074",
+          "Player1AID": "2838904",
+          "Player2AID": "2841984",
+          "Winner": "2",
+          "DivisionID": "27318",
+          "Sets": [
+            {
+              "SetID": "44307997",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44307998",
+              "SetNumber": "2",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44307999",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911415",
