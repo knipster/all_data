@@ -778,7 +778,64 @@
       "Team1ID": "254192",
       "Team2ID": "254183",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15035297",
+          "LineNumber": "1",
+          "Player1HName": "Linda Flanagan",
+          "Player2HName": "Connie OKeefe",
+          "Player1AName": "Pam Berk",
+          "Player2AName": "Alison Harris",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838984",
+          "Player2HID": "2838814",
+          "Player1AID": "2838944",
+          "Player2AID": "2838940",
+          "Winner": "2",
+          "DivisionID": "27316",
+          "Sets": [
+            {
+              "SetID": "44313449",
+              "SetNumber": "1",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44313450",
+              "SetNumber": "2",
+              "Team1Score": "7",
+              "Team2Score": "5",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44313451",
+              "SetNumber": "3",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911325",
@@ -1346,7 +1403,64 @@
       "Team1ID": "254193",
       "Team2ID": "254191",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15035712",
+          "LineNumber": "1",
+          "Player1HName": "Lorraine Bowyer",
+          "Player2HName": "Patty McDonald",
+          "Player1AName": "Stacey DeMatteis",
+          "Player2AName": "Melissa Lucanie",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838830",
+          "Player2HID": "2844798",
+          "Player1AID": "2838937",
+          "Player2AID": "2838948",
+          "Winner": "1",
+          "DivisionID": "27317",
+          "Sets": [
+            {
+              "SetID": "44314538",
+              "SetNumber": "1",
+              "Team1Score": "6",
+              "Team2Score": "2",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44314539",
+              "SetNumber": "2",
+              "Team1Score": "6",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44314540",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911364",
