@@ -912,7 +912,64 @@
       "Team1ID": "254187",
       "Team2ID": "254181",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15035880",
+          "LineNumber": "1",
+          "Player1HName": "Lauren Wolff",
+          "Player2HName": "Lauren McIntyre",
+          "Player1AName": "Kathryn Volker",
+          "Player2AName": "Jennifer  Chang",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838782",
+          "Player2HID": "2839983",
+          "Player1AID": "2838823",
+          "Player2AID": "2838837",
+          "Winner": "2",
+          "DivisionID": "27316",
+          "Sets": [
+            {
+              "SetID": "44314993",
+              "SetNumber": "1",
+              "Team1Score": "5",
+              "Team2Score": "7",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44314994",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44314995",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911327",
@@ -2647,7 +2704,64 @@
       "Team1ID": "254208",
       "Team2ID": "254209",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15036040",
+          "LineNumber": "1",
+          "Player1HName": "Vanessa Levy Nutter",
+          "Player2HName": "Janine  Scura",
+          "Player1AName": "Mary Lynn Clark",
+          "Player2AName": "Ann McCarron",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838890",
+          "Player2HID": "2838953",
+          "Player1AID": "2838985",
+          "Player2AID": "2838986",
+          "Winner": "2",
+          "DivisionID": "27347",
+          "Sets": [
+            {
+              "SetID": "44315419",
+              "SetNumber": "1",
+              "Team1Score": "4",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44315420",
+              "SetNumber": "2",
+              "Team1Score": "2",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44315421",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911547",
@@ -3028,7 +3142,64 @@
       "Team1ID": "254233",
       "Team2ID": "254230",
       "Bye": "0",
-      "Lines": []
+      "Lines": [
+        {
+          "LineID": "15035998",
+          "LineNumber": "1",
+          "Player1HName": "Kathleen  Keane ",
+          "Player2HName": "Kelly  Savarese",
+          "Player1AName": "Kristine  Dunbar",
+          "Player2AName": "Daphne  Limmer",
+          "Player1HELOStart": null,
+          "Player2HELOStart": null,
+          "Player1AELOStart": null,
+          "Player2AELOStart": null,
+          "Player1HELOEnd": null,
+          "Player2HELOEnd": null,
+          "Player1AELOEnd": null,
+          "Player2AELOEnd": null,
+          "Player1HELOScale": null,
+          "Player2HELOScale": null,
+          "Player1AELOScale": null,
+          "Player2AELOScale": null,
+          "Player1HELOConfidence": null,
+          "Player2HELOConfidence": null,
+          "Player1AELOConfidence": null,
+          "Player2AELOConfidence": null,
+          "Player1HID": "2838994",
+          "Player2HID": "2838997",
+          "Player1AID": "2838924",
+          "Player2AID": "2838923",
+          "Winner": "2",
+          "DivisionID": "27348",
+          "Sets": [
+            {
+              "SetID": "44315302",
+              "SetNumber": "1",
+              "Team1Score": "0",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44315303",
+              "SetNumber": "2",
+              "Team1Score": "1",
+              "Team2Score": "6",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            },
+            {
+              "SetID": "44315304",
+              "SetNumber": "3",
+              "Team1Score": "0",
+              "Team2Score": "0",
+              "T1TieBreak": "0",
+              "T2TieBreak": "0"
+            }
+          ]
+        }
+      ]
     },
     {
       "ScheduleID": "3911711",
