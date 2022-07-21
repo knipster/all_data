@@ -40,6 +40,7 @@
          "Director2": "0",
          "Director3": "0",
          "Director4": "0",
+         "HasWaitlist": "0",
          "Levels": []
       },
       "3303": {
@@ -81,7 +82,8 @@
          "APTARequired": "1",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "3306": {
          "TournamentID": "3306",
@@ -122,7 +124,8 @@
          "APTARequired": "1",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "3307": {
          "TournamentID": "3307",
@@ -163,7 +166,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3308": {
          "TournamentID": "3308",
@@ -204,7 +208,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3315": {
          "TournamentID": "3315",
@@ -245,7 +250,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3316": {
          "TournamentID": "3316",
@@ -286,7 +292,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3364": {
          "TournamentID": "3364",
@@ -327,7 +334,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3365": {
          "TournamentID": "3365",
@@ -368,7 +376,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3392": {
          "TournamentID": "3392",
@@ -409,7 +418,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3393": {
          "TournamentID": "3393",
@@ -450,7 +460,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3394": {
          "TournamentID": "3394",
@@ -491,7 +502,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3395": {
          "TournamentID": "3395",
@@ -532,7 +544,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3396": {
          "TournamentID": "3396",
@@ -573,7 +586,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3397": {
          "TournamentID": "3397",
@@ -614,7 +628,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3479": {
          "TournamentID": "3479",
@@ -655,7 +670,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3607": {
          "TournamentID": "3607",
@@ -696,7 +712,8 @@
          "APTARequired": "1",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3557": {
          "TournamentID": "3557",
@@ -737,7 +754,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3558": {
          "TournamentID": "3558",
@@ -778,7 +796,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3559": {
          "TournamentID": "3559",
@@ -819,7 +838,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3618": {
          "TournamentID": "3618",
@@ -860,7 +880,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "51014": {
          "Levels": {
@@ -892,6 +913,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1026142": {
                      "ScheduleID": "1026142",
@@ -1467,6 +1489,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -1501,6 +1524,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -1535,6 +1559,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -1569,6 +1594,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -1603,6 +1629,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1044576": {
                      "ScheduleID": "1044576",
@@ -2663,6 +2690,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1053853": {
                      "ScheduleID": "1053853",
@@ -3250,6 +3278,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1054408": {
                      "ScheduleID": "1054408",
@@ -3975,6 +4004,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1097921": {
                      "ScheduleID": "1097921",
@@ -5278,6 +5308,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1118656": {
                      "ScheduleID": "1118656",
@@ -5865,6 +5896,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1139566": {
                      "ScheduleID": "1139566",
@@ -6176,6 +6208,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -6210,6 +6243,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1174493": {
                      "ScheduleID": "1174493",
@@ -6797,6 +6831,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -6831,6 +6866,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -6865,6 +6901,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1264311": {
                      "ScheduleID": "1264311",
@@ -7452,6 +7489,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1297327": {
                      "ScheduleID": "1297327",
@@ -8796,6 +8834,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1291664": {
                      "ScheduleID": "1291664",
@@ -10140,6 +10179,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1302854": {
                      "ScheduleID": "1302854",
@@ -10727,6 +10767,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1297341": {
                      "ScheduleID": "1297341",

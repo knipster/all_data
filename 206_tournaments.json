@@ -40,6 +40,7 @@
          "Director2": null,
          "Director3": null,
          "Director4": null,
+         "HasWaitlist": "0",
          "Levels": []
       },
       "3419": {
@@ -81,7 +82,8 @@
          "APTARequired": "1",
          "Director2": "918778",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "51438": {
          "Levels": {
@@ -113,6 +115,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1200809": {
                      "ScheduleID": "1200809",

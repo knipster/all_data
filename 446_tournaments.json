@@ -39,7 +39,8 @@
          "APTARequired": "0",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "2682": {
          "TournamentID": "2682",
@@ -80,7 +81,8 @@
          "APTARequired": "0",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "48794": {
          "Levels": {
@@ -112,6 +114,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "422588": {
                      "ScheduleID": "422588",
@@ -1423,6 +1426,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "422514": {
                      "ScheduleID": "422514",
@@ -2659,6 +2663,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "422631": {
                      "ScheduleID": "422631",
@@ -3999,6 +4004,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "422510": {
                      "ScheduleID": "422510",
@@ -5343,6 +5349,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "423214": {
                      "ScheduleID": "423214",
@@ -6683,6 +6690,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "423298": {
                      "ScheduleID": "423298",

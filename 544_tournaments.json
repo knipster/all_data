@@ -39,7 +39,8 @@
          "APTARequired": "0",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "50592": {
          "Levels": {
@@ -71,6 +72,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "984278": {
                      "ScheduleID": "984278",
@@ -538,6 +540,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "975264": {
                      "ScheduleID": "975264",
@@ -716,6 +719,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "984296": {
                      "ScheduleID": "984296",
@@ -894,6 +898,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "975262": {
                      "ScheduleID": "975262",

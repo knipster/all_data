@@ -39,7 +39,8 @@
          "APTARequired": "0",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "3200": {
          "TournamentID": "3200",
@@ -80,7 +81,8 @@
          "APTARequired": "0",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "3583": {
          "TournamentID": "3583",
@@ -121,7 +123,8 @@
          "APTARequired": "0",
          "Director2": "2632848",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3584": {
          "TournamentID": "3584",
@@ -162,7 +165,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "50716": {
          "Levels": {
@@ -194,6 +198,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1022909": {
                      "ScheduleID": "1022909",
@@ -1563,6 +1568,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1022832": {
                      "ScheduleID": "1022832",
@@ -2907,6 +2913,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
@@ -2941,6 +2948,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1401120": {
                      "ScheduleID": "1401120",

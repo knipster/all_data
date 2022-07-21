@@ -40,6 +40,7 @@
          "Director2": null,
          "Director3": null,
          "Director4": null,
+         "HasWaitlist": "0",
          "Levels": []
       },
       "3024": {
@@ -81,7 +82,8 @@
          "APTARequired": "0",
          "Director2": null,
          "Director3": null,
-         "Director4": null
+         "Director4": null,
+         "HasWaitlist": "0"
       },
       "3214": {
          "TournamentID": "3214",
@@ -122,7 +124,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3355": {
          "TournamentID": "3355",
@@ -163,7 +166,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3414": {
          "TournamentID": "3414",
@@ -204,7 +208,8 @@
          "APTARequired": "0",
          "Director2": "2716534",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3356": {
          "TournamentID": "3356",
@@ -245,7 +250,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "3651": {
          "TournamentID": "3651",
@@ -286,7 +292,8 @@
          "APTARequired": "0",
          "Director2": "0",
          "Director3": "0",
-         "Director4": "0"
+         "Director4": "0",
+         "HasWaitlist": "0"
       },
       "50129": {
          "Levels": {
@@ -318,6 +325,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "947242": {
                      "ScheduleID": "947242",
@@ -1662,6 +1670,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1007069": {
                      "ScheduleID": "1007069",
@@ -2061,6 +2070,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1007077": {
                      "ScheduleID": "1007077",
@@ -2234,6 +2244,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1035581": {
                      "ScheduleID": "1035581",
@@ -2821,6 +2832,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1090136": {
                      "ScheduleID": "1090136",
@@ -4165,6 +4177,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": {
                   "1154797": {
                      "ScheduleID": "1154797",
@@ -4752,6 +4765,7 @@
                "APTAImport": "0",
                "SequenceNumber": "0",
                "MainDrawFlag": null,
+               "UseWaitlist": "0",
                "Matches": []
             }
          }
